@@ -3,63 +3,74 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Caminho da pasta contendo os arquivos .xlsx -- MUDAR AQUI QUANDO FOR TESTAR
-pasta = r"C:\Users\bruno\OneDrive\Área de Trabalho\elc1098-tf-main\ds"
+# Caminho da pasta contendo os arquivos .xlsx
+pasta_dados = 'ds'
+caminho_pasta = os.path.join(os.getcwd(), pasta_dados)
 
-# Lista para armazenar os DataFrames
-dataframes = []
-
-# Criar uma pasta para salvar os gráficos
+# Criar uma pasta para salvar os gráficos e arquivos de saída
 output_dir = "analises_graficas_c2"
 os.makedirs(output_dir, exist_ok=True)
 
-# Iterar sobre os arquivos na pasta
-for arquivo in os.listdir(pasta):
-    if arquivo.endswith('.xlsx'):  # Processar apenas arquivos .xlsx
-        caminho_arquivo = os.path.join(pasta, arquivo)
+dataframes = []
+
+# Processar cada arquivo .xlsx
+for arquivo in os.listdir(caminho_pasta):
+    if arquivo.endswith('.xlsx'):  
+        caminho_arquivo = os.path.join(caminho_pasta, arquivo)
         try:
-            # Carregar o arquivo .xlsx usando a engine 'openpyxl'
             df = pd.read_excel(caminho_arquivo, engine='openpyxl')
-            dataframes.append((arquivo, df))  # Armazenar o nome do arquivo e o DataFrame
             print(f"Arquivo carregado com sucesso: {arquivo}")
 
-            # --- Análise para cada dataset ---
-            # Substituir NaN por 0 nas colunas numéricas
-            df.fillna(0, inplace=True)
-            #print(df.info())
+            dataframes.append(df)
 
-            # Distribuição de alunos por situação
+            # Agrupar os dados por Situação e somar os Alunos
+            df_agrupado = df.groupby('Situação')['Alunos'].sum().reset_index()
+
             plt.figure(figsize=(10, 6))
-            sns.countplot(data=df, x='Situação', hue='Situação', palette='Set2', legend=False)
-            plt.title(f"Distribuição de Alunos por Situação ({arquivo})")
+            sns.barplot(data=df_agrupado, x='Situação', y='Alunos', hue='Situação', palette='Set2', dodge=False, legend=False)
+            plt.title(f"Soma de Alunos por Situação ({arquivo})")
             plt.xlabel('Situação')
-            plt.ylabel('Número de Alunos')
-            plt.savefig(f"{output_dir}/Distribuicao_Situacao_{arquivo}.png")
-            plt.close()
+            plt.ylabel('Total de Alunos')
+            plt.xticks(rotation=45)
 
-            # Distribuição de alunos por semestre (considerando 'Ano' e 'Semestre')
-            plt.figure(figsize=(10, 6))
-            sns.countplot(data=df, x='Semestre', hue='Ano', palette='viridis', legend=False)
-            plt.title(f"Distribuição de Alunos por Semestre ({arquivo})")
-            plt.xlabel('Semestre')
-            plt.ylabel('Número de Alunos')
-            plt.savefig(f"{output_dir}/Distribuicao_Semestre_{arquivo}.png")
+            nome_grafico = f"{output_dir}/Soma_Alunos_Situacao_{os.path.splitext(arquivo)[0]}.png"
+            plt.savefig(nome_grafico)
             plt.close()
-
-            # DA PRA ANALISAR MAIS TAMBÉM AQUI
+            print(f"Gráfico salvo em: {nome_grafico}")
 
         except Exception as e:
-            print(f"Erro ao carregar o arquivo {arquivo}: {e}")
+            print(f"Erro ao processar o arquivo {arquivo}: {e}")
 
-# --- Análise Geral com Todos os Dados --- FAZER AINDA
+# Criar arquivos com dados gerais
 if dataframes:
-    # Combinar todos os DataFrames
-    df_combined = pd.concat([df for _, df in dataframes], ignore_index=True)
+    df_geral = pd.concat(dataframes, ignore_index=True)
 
-    #print(df_combined.info())
+    caminho_tabela_geral = os.path.join(output_dir, 'dados_gerais.xlsx')
+    df_geral.to_excel(caminho_tabela_geral, index=False, engine='openpyxl')
+    print(f"Arquivo geral com todos os dados concatenados salvo em: {caminho_tabela_geral}")
 
-    # Salvar o dataset combinado
-    output_combined_path = os.path.join(output_dir, 'dados_combinados_c2.xlsx')
-    df_combined.to_excel(output_combined_path, index=False, engine='openpyxl')
-    print(f"DataFrame combinado salvo em: {output_combined_path}")
+    estatisticas = df_geral.groupby('Situação')['Alunos'].agg(
+        Total='sum',
+        Média='mean',
+        Mediana='median',
+        Desvio_Padrão='std',
+        Ocorrências='count'
+    ).reset_index()
 
+    caminho_tabela_estatistica = os.path.join(output_dir, 'estatisticas_detalhadas.xlsx')
+    estatisticas.to_excel(caminho_tabela_estatistica, index=False, engine='openpyxl')
+    print(f"Tabela de estatísticas detalhadas salva em: {caminho_tabela_estatistica}")
+
+    plt.figure(figsize=(10, 6))
+    sns.barplot(data=estatisticas, x='Situação', y='Total', hue='Situação', palette='muted', dodge=False, legend=False)
+    plt.title("Soma Geral de Alunos por Situação")
+    plt.xlabel('Situação')
+    plt.ylabel('Total de Alunos')
+    plt.xticks(rotation=45)
+
+    caminho_grafico_geral = os.path.join(output_dir, 'Soma_Geral_Alunos_Situacao.png')
+    plt.savefig(caminho_grafico_geral)
+    plt.close()
+    print(f"Gráfico geral salvo em: {caminho_grafico_geral}")
+
+print("Análise concluída.")
