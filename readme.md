@@ -7,6 +7,15 @@ conversão dos arquivos para csv
 todo:
 centralizar dados em 1 arquivo por estrutura
 
-proposta de plotaagem:
+proposta de plotagem:
 gráfico de aprov/reprov/reprov-freq x ano (3 linhas por cor)
 
+
+
+documentação:
+- avaliação dos dados
+- descrever problemas identificados
+- correções manuais realizadas
+- descrever scripts criados para organizar os dados
+- identificar análises que podemos realizar
+- descrever scripts criados para realizar análises
