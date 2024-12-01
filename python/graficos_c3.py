@@ -4,42 +4,39 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Caminho da pasta contendo os arquivos .xlsx
-pasta_dados = 'ds/original'
-caminho_pasta = os.path.join(os.getcwd(), pasta_dados)
+pasta_dados = 'ds/União'
 
 # Criar uma pasta para salvar os gráficos e arquivos de saída
-output_dir = "analises_graficas_c2"
+output_dir = "analises_graficas_c3"
 os.makedirs(output_dir, exist_ok=True)
 
 dataframes = []
 
 # Processar cada arquivo .xlsx
-for arquivo in os.listdir(caminho_pasta):
-    if arquivo.endswith('.xlsx'):  
-        caminho_arquivo = os.path.join(caminho_pasta, arquivo)
-        try:
-            df = pd.read_excel(caminho_arquivo, engine='openpyxl')
-            print(f"Arquivo carregado com sucesso: {arquivo}")
+caminho_arquivo = f'{pasta_dados}/sit_turma.csv'
+try:
+    df = pd.read_csv(caminho_arquivo)
 
-            dataframes.append(df)
+    dataframes.append(df)
 
-            # Agrupar os dados por Situação e somar os Alunos
-            df_agrupado = df.groupby('Situação')['Alunos'].sum().reset_index()
+    # Agrupar os dados por Situação e somar os Alunos
+    df_agrupado = df.groupby(['Situação', 'Ano'])['%'].mean().reset_index()
+    print(df_agrupado)
+    plt.figure(figsize=(10, 8))
+    sns.lineplot(data=df_agrupado, x='Ano', y='%', hue='Situação', marker=True)
+    plt.title(f"Porcentagem de Alunos por Situação")
+    plt.xlabel('Ano')
+    plt.ylabel('Total de Alunos')
+    plt.xticks([2021,2022,2023], rotation=45)
 
-            plt.figure(figsize=(10, 6))
-            sns.barplot(data=df_agrupado, x='Situação', y='Alunos', hue='Situação', palette='Set2', dodge=False, legend=False)
-            plt.title(f"Soma de Alunos por Situação ({arquivo})")
-            plt.xlabel('Situação')
-            plt.ylabel('Total de Alunos')
-            plt.xticks(rotation=45)
 
-            nome_grafico = f"{output_dir}/Soma_Alunos_Situacao_{os.path.splitext(arquivo)[0]}.png"
-            plt.savefig(nome_grafico)
-            plt.close()
-            print(f"Gráfico salvo em: {nome_grafico}")
+    nome_grafico = f"{output_dir}/Soma_Alunos_Situacao.png"
+    plt.savefig(nome_grafico)
+    plt.close()
+    print(f"Gráfico salvo em: {nome_grafico}")
 
-        except Exception as e:
-            print(f"Erro ao processar o arquivo {arquivo}: {e}")
+except Exception as e:
+    print(f"Erro ao processar o arquivo: {e}")
 
 # Criar arquivos com dados gerais
 if dataframes:

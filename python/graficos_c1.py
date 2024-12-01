@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Caminho da pasta contendo os arquivos .xls
-pasta = r"C:\Users\bruno\OneDrive\Área de Trabalho\elc1098-tf-main\ds\Ingressantes e formados"
+pasta = r"ds/original/Ingressantes e Formandos"
 
 # Lista para armazenar os DataFrames
 dataframes = []

@@ -3,7 +3,7 @@ import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
 # Carregar dados
-pasta_dados = 'analises_graficas_c2'  
+pasta_dados = 'analises_graficas_c4'  
 nome_arquivo = 'dados_gerais.xlsx'
 caminho_pasta = os.path.join(os.getcwd(), pasta_dados)
 arquivo = os.path.join(caminho_pasta, nome_arquivo)

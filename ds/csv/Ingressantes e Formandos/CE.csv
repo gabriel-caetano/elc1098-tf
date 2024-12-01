@@ -1,0 +1,608 @@
+COD_CURSO,NOME_UNIDADE,NIVEL_CURSO,ANO,SEXO,INGRESSANTES,FORMADOS
+640.EAD.08,Curso de Formação de Professores para Educação Profissional/Ead/Agudo/RS,Graduação,2018,M,14,0
+640.EAD.08,Curso de Formação de Professores para Educação Profissional/Ead/Agudo/RS,Graduação,2018,F,24,0
+640.EAD.08,Curso de Formação de Professores para Educação Profissional/Ead/Agudo/RS,Graduação,2019,M,0,7
+640.EAD.08,Curso de Formação de Professores para Educação Profissional/Ead/Agudo/RS,Graduação,2019,F,0,15
+640.EAD.08,Curso de Formação de Professores para Educação Profissional/Ead/Agudo/RS,Graduação,TOTAL,M,14,7
+640.EAD.08,Curso de Formação de Professores para Educação Profissional/Ead/Agudo/RS,Graduação,TOTAL,F,24,15
+640.EAD.09,Curso de Formação de Professores para Educação Profissional/Ead/Gramado/RS,Graduação,2018,M,14,0
+640.EAD.09,Curso de Formação de Professores para Educação Profissional/Ead/Gramado/RS,Graduação,2018,F,15,0
+640.EAD.09,Curso de Formação de Professores para Educação Profissional/Ead/Gramado/RS,Graduação,2019,M,0,6
+640.EAD.09,Curso de Formação de Professores para Educação Profissional/Ead/Gramado/RS,Graduação,2019,F,0,9
+640.EAD.09,Curso de Formação de Professores para Educação Profissional/Ead/Gramado/RS,Graduação,TOTAL,M,14,6
+640.EAD.09,Curso de Formação de Professores para Educação Profissional/Ead/Gramado/RS,Graduação,TOTAL,F,15,9
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2014,F,0,4
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2014,M,2,7
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2016,M,11,0
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2016,F,22,0
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2017,M,0,7
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2017,F,3,11
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2018,M,8,0
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2018,F,26,0
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2019,M,0,2
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,2019,F,0,10
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,TOTAL,M,21,16
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,TOTAL,F,51,25
+640.EAD.02,Curso de Formação de Professores para Educação Profissional/Ead/Quaraí/RS,Graduação,2014,F,0,3
+640.EAD.02,Curso de Formação de Professores para Educação Profissional/Ead/Quaraí/RS,Graduação,2014,M,1,4
+640.EAD.02,Curso de Formação de Professores para Educação Profissional/Ead/Quaraí/RS,Graduação,TOTAL,F,0,3
+640.EAD.02,Curso de Formação de Professores para Educação Profissional/Ead/Quaraí/RS,Graduação,TOTAL,M,1,4
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,2016,F,14,0
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,2016,M,17,0
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,2017,F,0,10
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,2017,M,0,10
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,2018,F,14,0
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,2018,M,17,0
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,2019,M,0,6
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,2019,F,0,8
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,TOTAL,M,34,16
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,TOTAL,F,28,18
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,2014,M,0,2
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,2014,F,0,4
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,2015,M,0,1
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,2016,M,7,0
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,2016,F,23,0
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,2017,M,2,2
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,2017,F,2,9
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,TOTAL,M,9,5
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,TOTAL,F,25,13
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,2014,M,1,2
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,2014,F,0,10
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,2016,M,7,0
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,2016,F,20,0
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,2017,M,0,2
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,2017,F,0,10
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,TOTAL,M,8,4
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,TOTAL,F,20,20
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2016,M,6,0
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2016,F,25,0
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2017,M,1,3
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2017,F,1,16
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2018,M,9,0
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2018,F,23,0
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2019,M,0,2
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2019,F,0,16
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,2020,M,0,1
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,TOTAL,M,16,6
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,TOTAL,F,49,32
+640.EAD.05,Curso de Formação de Professores para Educação Profissional/Ead/Vila Flores/RS,Graduação,2014,M,0,3
+640.EAD.05,Curso de Formação de Professores para Educação Profissional/Ead/Vila Flores/RS,Graduação,2014,F,0,6
+640.EAD.05,Curso de Formação de Professores para Educação Profissional/Ead/Vila Flores/RS,Graduação,2015,F,0,1
+640.EAD.05,Curso de Formação de Professores para Educação Profissional/Ead/Vila Flores/RS,Graduação,TOTAL,M,0,3
+640.EAD.05,Curso de Formação de Professores para Educação Profissional/Ead/Vila Flores/RS,Graduação,TOTAL,F,0,7
+633,Educação Especial - Licenciatura Plena,Graduação,2014,M,1,1
+633,Educação Especial - Licenciatura Plena,Graduação,2014,F,38,31
+633,Educação Especial - Licenciatura Plena,Graduação,2015,M,2,0
+633,Educação Especial - Licenciatura Plena,Graduação,2015,F,53,22
+633,Educação Especial - Licenciatura Plena,Graduação,2016,M,6,0
+633,Educação Especial - Licenciatura Plena,Graduação,2016,F,63,18
+633,Educação Especial - Licenciatura Plena,Graduação,2017,M,10,0
+633,Educação Especial - Licenciatura Plena,Graduação,2017,F,47,22
+633,Educação Especial - Licenciatura Plena,Graduação,2018,M,3,1
+633,Educação Especial - Licenciatura Plena,Graduação,2018,F,63,18
+633,Educação Especial - Licenciatura Plena,Graduação,2019,M,8,0
+633,Educação Especial - Licenciatura Plena,Graduação,2019,F,53,24
+633,Educação Especial - Licenciatura Plena,Graduação,2020,M,11,0
+633,Educação Especial - Licenciatura Plena,Graduação,2020,F,63,1
+633,Educação Especial - Licenciatura Plena,Graduação,2021,M,2,2
+633,Educação Especial - Licenciatura Plena,Graduação,2021,F,50,27
+633,Educação Especial - Licenciatura Plena,Graduação,2022,M,2,2
+633,Educação Especial - Licenciatura Plena,Graduação,2022,F,50,26
+633,Educação Especial - Licenciatura Plena,Graduação,2023,M,7,0
+633,Educação Especial - Licenciatura Plena,Graduação,2023,F,54,9
+633,Educação Especial - Licenciatura Plena,Graduação,TOTAL,M,52,6
+633,Educação Especial - Licenciatura Plena,Graduação,TOTAL,F,534,198
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,2014,M,1,0
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,2014,F,26,0
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,2015,F,5,0
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,2017,M,0,1
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,2017,F,0,15
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,2019,F,0,3
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,TOTAL,M,1,1
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,TOTAL,F,31,18
+639.EAD.05,Educação Especial - Licenciatura/Distância/Balneário Pinhal,Graduação,2015,M,0,2
+639.EAD.05,Educação Especial - Licenciatura/Distância/Balneário Pinhal,Graduação,2015,F,0,6
+639.EAD.05,Educação Especial - Licenciatura/Distância/Balneário Pinhal,Graduação,TOTAL,M,0,2
+639.EAD.05,Educação Especial - Licenciatura/Distância/Balneário Pinhal,Graduação,TOTAL,F,0,6
+639.EAD.17,Educação Especial - Licenciatura/Distância/Cachoeira do Sul /RS,Graduação,2020,M,1,0
+639.EAD.17,Educação Especial - Licenciatura/Distância/Cachoeira do Sul /RS,Graduação,2020,F,24,0
+639.EAD.17,Educação Especial - Licenciatura/Distância/Cachoeira do Sul /RS,Graduação,2021,M,1,0
+639.EAD.17,Educação Especial - Licenciatura/Distância/Cachoeira do Sul /RS,Graduação,2021,F,4,0
+639.EAD.17,Educação Especial - Licenciatura/Distância/Cachoeira do Sul /RS,Graduação,TOTAL,M,2,0
+639.EAD.17,Educação Especial - Licenciatura/Distância/Cachoeira do Sul /RS,Graduação,TOTAL,F,28,0
+639.EAD.18,Educação Especial - Licenciatura/Distância/Cerro Largo/RS,Graduação,2020,M,1,0
+639.EAD.18,Educação Especial - Licenciatura/Distância/Cerro Largo/RS,Graduação,2020,F,18,0
+639.EAD.18,Educação Especial - Licenciatura/Distância/Cerro Largo/RS,Graduação,2021,F,11,0
+639.EAD.18,Educação Especial - Licenciatura/Distância/Cerro Largo/RS,Graduação,TOTAL,M,1,0
+639.EAD.18,Educação Especial - Licenciatura/Distância/Cerro Largo/RS,Graduação,TOTAL,F,29,0
+639.EAD.19,Educação Especial - Licenciatura/Distância/Cruz Alta/RS,Graduação,2020,M,2,0
+639.EAD.19,Educação Especial - Licenciatura/Distância/Cruz Alta/RS,Graduação,2020,F,27,0
+639.EAD.19,Educação Especial - Licenciatura/Distância/Cruz Alta/RS,Graduação,2021,F,2,0
+639.EAD.19,Educação Especial - Licenciatura/Distância/Cruz Alta/RS,Graduação,TOTAL,M,2,0
+639.EAD.19,Educação Especial - Licenciatura/Distância/Cruz Alta/RS,Graduação,TOTAL,F,29,0
+639.EAD.03,Educação Especial - Licenciatura/Distância/Foz do Iguaçu/PR,Graduação,2017,M,7,0
+639.EAD.03,Educação Especial - Licenciatura/Distância/Foz do Iguaçu/PR,Graduação,2017,F,41,0
+639.EAD.03,Educação Especial - Licenciatura/Distância/Foz do Iguaçu/PR,Graduação,2018,F,8,0
+639.EAD.03,Educação Especial - Licenciatura/Distância/Foz do Iguaçu/PR,Graduação,2020,M,0,2
+639.EAD.03,Educação Especial - Licenciatura/Distância/Foz do Iguaçu/PR,Graduação,2020,F,0,38
+639.EAD.03,Educação Especial - Licenciatura/Distância/Foz do Iguaçu/PR,Graduação,TOTAL,M,7,2
+639.EAD.03,Educação Especial - Licenciatura/Distância/Foz do Iguaçu/PR,Graduação,TOTAL,F,49,38
+639.EAD.20,Educação Especial - Licenciatura/Distância/Gramado/RS,Graduação,2020,M,2,0
+639.EAD.20,Educação Especial - Licenciatura/Distância/Gramado/RS,Graduação,2020,F,19,0
+639.EAD.20,Educação Especial - Licenciatura/Distância/Gramado/RS,Graduação,2021,M,2,0
+639.EAD.20,Educação Especial - Licenciatura/Distância/Gramado/RS,Graduação,2021,F,9,0
+639.EAD.20,Educação Especial - Licenciatura/Distância/Gramado/RS,Graduação,TOTAL,M,4,0
+639.EAD.20,Educação Especial - Licenciatura/Distância/Gramado/RS,Graduação,TOTAL,F,28,0
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2015,M,0,3
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2015,F,0,9
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2017,M,3,0
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2017,F,46,0
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2018,F,9,0
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2020,M,0,2
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2020,F,0,32
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2022,F,0,1
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,TOTAL,M,3,5
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,TOTAL,F,55,42
+639.EAD.13,Educação Especial - Licenciatura/Distância/POA(Campus do Vale/UFRGS),Graduação,2014,M,2,0
+639.EAD.13,Educação Especial - Licenciatura/Distância/POA(Campus do Vale/UFRGS),Graduação,2014,F,16,0
+639.EAD.13,Educação Especial - Licenciatura/Distância/POA(Campus do Vale/UFRGS),Graduação,2015,F,3,0
+639.EAD.13,Educação Especial - Licenciatura/Distância/POA(Campus do Vale/UFRGS),Graduação,2017,M,0,2
+639.EAD.13,Educação Especial - Licenciatura/Distância/POA(Campus do Vale/UFRGS),Graduação,2017,F,0,10
+639.EAD.13,Educação Especial - Licenciatura/Distância/POA(Campus do Vale/UFRGS),Graduação,TOTAL,M,2,2
+639.EAD.13,Educação Especial - Licenciatura/Distância/POA(Campus do Vale/UFRGS),Graduação,TOTAL,F,19,10
+639.EAD.14,Educação Especial - Licenciatura/Distância/Santa Vitória do Palmar/RS,Graduação,2014,F,17,0
+639.EAD.14,Educação Especial - Licenciatura/Distância/Santa Vitória do Palmar/RS,Graduação,2015,F,2,0
+639.EAD.14,Educação Especial - Licenciatura/Distância/Santa Vitória do Palmar/RS,Graduação,2017,F,0,12
+639.EAD.14,Educação Especial - Licenciatura/Distância/Santa Vitória do Palmar/RS,Graduação,2018,F,0,1
+639.EAD.14,Educação Especial - Licenciatura/Distância/Santa Vitória do Palmar/RS,Graduação,TOTAL,F,19,13
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,2014,F,0,2
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,2017,M,2,0
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,2017,F,42,0
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,2018,F,8,0
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,2020,M,0,2
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,2020,F,0,34
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,2021,F,0,1
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,2023,F,0,1
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,TOTAL,M,2,2
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,TOTAL,F,50,38
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,2017,M,2,0
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,2017,F,38,0
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,2018,F,19,0
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,2020,F,0,25
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,2021,F,0,1
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,2022,F,0,1
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,TOTAL,M,2,0
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,TOTAL,F,57,27
+639.EAD.07,Educação Especial - Licenciatura/Distância/Sobradinho/RS,Graduação,2015,M,0,1
+639.EAD.07,Educação Especial - Licenciatura/Distância/Sobradinho/RS,Graduação,2015,F,0,13
+639.EAD.07,Educação Especial - Licenciatura/Distância/Sobradinho/RS,Graduação,TOTAL,M,0,1
+639.EAD.07,Educação Especial - Licenciatura/Distância/Sobradinho/RS,Graduação,TOTAL,F,0,13
+639.EAD.21,Educação Especial - Licenciatura/Distância/Tapejara/RS,Graduação,2020,M,2,0
+639.EAD.21,Educação Especial - Licenciatura/Distância/Tapejara/RS,Graduação,2020,F,7,0
+639.EAD.21,Educação Especial - Licenciatura/Distância/Tapejara/RS,Graduação,2021,M,3,0
+639.EAD.21,Educação Especial - Licenciatura/Distância/Tapejara/RS,Graduação,2021,F,18,0
+639.EAD.21,Educação Especial - Licenciatura/Distância/Tapejara/RS,Graduação,TOTAL,M,5,0
+639.EAD.21,Educação Especial - Licenciatura/Distância/Tapejara/RS,Graduação,TOTAL,F,25,0
+639.EAD.02,Educação Especial - Licenciatura/Distância/Três Passos/RS,Graduação,2014,F,26,0
+639.EAD.02,Educação Especial - Licenciatura/Distância/Três Passos/RS,Graduação,2015,F,6,1
+639.EAD.02,Educação Especial - Licenciatura/Distância/Três Passos/RS,Graduação,2017,F,0,14
+639.EAD.02,Educação Especial - Licenciatura/Distância/Três Passos/RS,Graduação,TOTAL,F,32,15
+639.EAD.15,Educação Especial - Licenciatura/Distância/Vila Flores/RS,Graduação,2014,F,16,0
+639.EAD.15,Educação Especial - Licenciatura/Distância/Vila Flores/RS,Graduação,2017,F,0,11
+639.EAD.15,Educação Especial - Licenciatura/Distância/Vila Flores/RS,Graduação,TOTAL,F,16,11
+639.EAD.09,Educação Especial - Licenciatura/PARFOR/Distância/Balneário Pinhal/RS,Graduação,2015,M,0,1
+639.EAD.09,Educação Especial - Licenciatura/PARFOR/Distância/Balneário Pinhal/RS,Graduação,2015,F,0,2
+639.EAD.09,Educação Especial - Licenciatura/PARFOR/Distância/Balneário Pinhal/RS,Graduação,TOTAL,M,0,1
+639.EAD.09,Educação Especial - Licenciatura/PARFOR/Distância/Balneário Pinhal/RS,Graduação,TOTAL,F,0,2
+639.EAD.10,Educação Especial - Licenciatura/PARFOR/Distância/Novo Hamburgo/RS,Graduação,2015,F,0,3
+639.EAD.10,Educação Especial - Licenciatura/PARFOR/Distância/Novo Hamburgo/RS,Graduação,2017,F,0,1
+639.EAD.10,Educação Especial - Licenciatura/PARFOR/Distância/Novo Hamburgo/RS,Graduação,TOTAL,F,0,4
+639.EAD.11,Educação Especial - Licenciatura/PARFOR/Distância/Santa Vitória do Palmar/RS,Graduação,2015,F,0,11
+639.EAD.11,Educação Especial - Licenciatura/PARFOR/Distância/Santa Vitória do Palmar/RS,Graduação,TOTAL,F,0,11
+641.EAD.06,Licenciatura em Ciências da Religião/EAD/Bagé/RS,Graduação,2022,M,7,0
+641.EAD.06,Licenciatura em Ciências da Religião/EAD/Bagé/RS,Graduação,2022,F,13,0
+641.EAD.06,Licenciatura em Ciências da Religião/EAD/Bagé/RS,Graduação,TOTAL,M,7,0
+641.EAD.06,Licenciatura em Ciências da Religião/EAD/Bagé/RS,Graduação,TOTAL,F,13,0
+641.EAD.07,Licenciatura em Ciências da Religião/EAD/Balneário Pinhal/RS,Graduação,2022,M,5,0
+641.EAD.07,Licenciatura em Ciências da Religião/EAD/Balneário Pinhal/RS,Graduação,2022,F,18,0
+641.EAD.07,Licenciatura em Ciências da Religião/EAD/Balneário Pinhal/RS,Graduação,TOTAL,M,5,0
+641.EAD.07,Licenciatura em Ciências da Religião/EAD/Balneário Pinhal/RS,Graduação,TOTAL,F,18,0
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,2017,M,9,0
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,2017,F,21,0
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,2018,M,2,0
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,2018,F,4,0
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,2020,M,0,1
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,2020,F,0,9
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,2021,F,0,1
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,2021,M,0,2
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,TOTAL,M,11,3
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,TOTAL,F,25,10
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,2017,M,1,0
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,2017,F,4,0
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,2018,M,2,0
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,2018,F,7,0
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,2020,F,0,2
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,2021,F,0,3
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,TOTAL,M,3,0
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,TOTAL,F,11,5
+641.EAD.08,Licenciatura em Ciências da Religião/EAD/Cruz Alta/RS,Graduação,2022,M,12,0
+641.EAD.08,Licenciatura em Ciências da Religião/EAD/Cruz Alta/RS,Graduação,2022,F,13,0
+641.EAD.08,Licenciatura em Ciências da Religião/EAD/Cruz Alta/RS,Graduação,TOTAL,M,12,0
+641.EAD.08,Licenciatura em Ciências da Religião/EAD/Cruz Alta/RS,Graduação,TOTAL,F,13,0
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2017,M,13,0
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2017,F,15,0
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2018,M,2,0
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2018,F,5,0
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2020,M,0,6
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2020,F,0,12
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2021,M,0,2
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2021,F,0,3
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2022,M,4,0
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,2022,F,12,0
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,TOTAL,M,19,8
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,TOTAL,F,32,15
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,2017,M,7,0
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,2017,F,16,0
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,2018,F,4,0
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,2018,M,6,0
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,2020,F,0,1
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,2020,M,0,3
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,2021,F,0,1
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,2021,M,0,2
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,TOTAL,F,20,2
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,TOTAL,M,13,5
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,2017,M,11,0
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,2017,F,15,0
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,2018,M,4,0
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,2018,F,8,0
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,2020,M,0,4
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,2020,F,0,6
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,2021,M,0,2
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,2021,F,0,3
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,TOTAL,M,15,6
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,TOTAL,F,23,9
+641.EAD.09,Licenciatura em Ciências da Religião/EAD/Serafina Corrêa/RS,Graduação,2022,M,3,0
+641.EAD.09,Licenciatura em Ciências da Religião/EAD/Serafina Corrêa/RS,Graduação,2022,F,9,0
+641.EAD.09,Licenciatura em Ciências da Religião/EAD/Serafina Corrêa/RS,Graduação,TOTAL,M,3,0
+641.EAD.09,Licenciatura em Ciências da Religião/EAD/Serafina Corrêa/RS,Graduação,TOTAL,F,9,0
+641.EAD.10,Licenciatura em Ciências da Religião/EAD/Vila Flores/RS,Graduação,2022,F,3,0
+641.EAD.10,Licenciatura em Ciências da Religião/EAD/Vila Flores/RS,Graduação,2022,M,9,0
+641.EAD.10,Licenciatura em Ciências da Religião/EAD/Vila Flores/RS,Graduação,TOTAL,F,3,0
+641.EAD.10,Licenciatura em Ciências da Religião/EAD/Vila Flores/RS,Graduação,TOTAL,M,9,0
+637,Licenciatura em Educação Especial - Noturno,Graduação,2014,M,3,1
+637,Licenciatura em Educação Especial - Noturno,Graduação,2014,F,49,17
+637,Licenciatura em Educação Especial - Noturno,Graduação,2015,M,5,1
+637,Licenciatura em Educação Especial - Noturno,Graduação,2015,F,56,23
+637,Licenciatura em Educação Especial - Noturno,Graduação,2016,M,10,1
+637,Licenciatura em Educação Especial - Noturno,Graduação,2016,F,71,17
+637,Licenciatura em Educação Especial - Noturno,Graduação,2017,M,10,0
+637,Licenciatura em Educação Especial - Noturno,Graduação,2017,F,42,25
+637,Licenciatura em Educação Especial - Noturno,Graduação,2018,M,10,0
+637,Licenciatura em Educação Especial - Noturno,Graduação,2018,F,51,26
+637,Licenciatura em Educação Especial - Noturno,Graduação,2019,M,10,2
+637,Licenciatura em Educação Especial - Noturno,Graduação,2019,F,49,23
+637,Licenciatura em Educação Especial - Noturno,Graduação,2020,M,5,0
+637,Licenciatura em Educação Especial - Noturno,Graduação,2020,F,40,2
+637,Licenciatura em Educação Especial - Noturno,Graduação,2021,M,5,3
+637,Licenciatura em Educação Especial - Noturno,Graduação,2021,F,39,28
+637,Licenciatura em Educação Especial - Noturno,Graduação,2022,M,4,0
+637,Licenciatura em Educação Especial - Noturno,Graduação,2022,F,39,24
+637,Licenciatura em Educação Especial - Noturno,Graduação,2023,M,5,3
+637,Licenciatura em Educação Especial - Noturno,Graduação,2023,F,54,20
+637,Licenciatura em Educação Especial - Noturno,Graduação,TOTAL,M,67,11
+637,Licenciatura em Educação Especial - Noturno,Graduação,TOTAL,F,490,205
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2014,M,6,1
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2014,F,96,46
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2015,M,9,0
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2015,F,80,48
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2016,M,19,0
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2016,F,99,45
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2017,M,13,0
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2017,F,78,36
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2018,M,12,2
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2018,F,98,48
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2019,M,12,2
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2019,F,101,51
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2020,M,13,0
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2020,F,98,10
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2021,M,6,4
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2021,F,88,24
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2022,M,3,2
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2022,F,75,38
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2023,M,14,0
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,2023,F,95,32
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,TOTAL,M,107,11
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,TOTAL,F,908,378
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2014,M,3,0
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2014,F,55,21
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2015,M,5,3
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2015,F,66,17
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2016,M,6,0
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2016,F,31,21
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2017,M,14,1
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2017,F,29,30
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2018,M,11,1
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2018,F,47,30
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2019,M,8,1
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2019,F,73,25
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2020,M,7,0
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2020,F,37,14
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2021,M,5,0
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2021,F,40,22
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2022,M,9,2
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2022,F,50,22
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2023,M,11,0
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,2023,F,83,20
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,TOTAL,M,79,8
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,TOTAL,F,511,222
+636.EAD.13,Pedagogia-Licenciatura/Distância/Cacequi/RS,Graduação,2014,M,2,0
+636.EAD.13,Pedagogia-Licenciatura/Distância/Cacequi/RS,Graduação,2014,F,16,0
+636.EAD.13,Pedagogia-Licenciatura/Distância/Cacequi/RS,Graduação,2017,F,0,14
+636.EAD.13,Pedagogia-Licenciatura/Distância/Cacequi/RS,Graduação,2018,F,0,1
+636.EAD.13,Pedagogia-Licenciatura/Distância/Cacequi/RS,Graduação,2020,F,0,2
+636.EAD.13,Pedagogia-Licenciatura/Distância/Cacequi/RS,Graduação,TOTAL,M,2,0
+636.EAD.13,Pedagogia-Licenciatura/Distância/Cacequi/RS,Graduação,TOTAL,F,16,17
+636.EAD.24,Pedagogia-Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,2019,M,3,0
+636.EAD.24,Pedagogia-Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,2019,F,32,0
+636.EAD.24,Pedagogia-Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,2022,M,0,1
+636.EAD.24,Pedagogia-Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,2022,F,0,12
+636.EAD.24,Pedagogia-Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,2023,F,0,1
+636.EAD.24,Pedagogia-Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,TOTAL,M,3,1
+636.EAD.24,Pedagogia-Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,TOTAL,F,32,13
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,2017,M,2,0
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,2017,F,36,0
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,2019,M,1,0
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,2019,F,9,0
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,2021,M,0,1
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,2021,F,0,17
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,2022,F,0,2
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,2023,F,0,1
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,TOTAL,M,3,1
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,TOTAL,F,45,20
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2016,M,1,0
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2016,F,33,0
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2017,F,4,0
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2019,M,1,0
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2019,F,32,0
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2020,M,0,1
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2020,F,0,19
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2021,F,0,1
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2022,F,0,19
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,2023,F,0,1
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,TOTAL,M,2,1
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,TOTAL,F,69,40
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,2016,M,2,0
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,2016,F,34,0
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,2017,F,0,1
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,2020,F,0,17
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,2021,F,0,3
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,2022,M,3,0
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,2022,F,27,0
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,TOTAL,M,5,0
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,TOTAL,F,61,21
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2017,M,5,0
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2017,F,41,0
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2019,M,3,0
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2019,F,35,0
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2021,M,0,1
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2021,F,0,24
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2022,M,0,1
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2022,F,0,9
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,2023,F,0,4
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,TOTAL,M,8,2
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,TOTAL,F,76,37
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2014,M,2,0
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2014,F,37,0
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2017,F,7,45
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2018,M,3,1
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2018,F,31,2
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2019,M,1,0
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2019,F,5,1
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2020,F,0,1
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2021,M,0,1
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2021,F,0,15
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,2023,F,0,1
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,TOTAL,M,6,2
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,TOTAL,F,80,65
+636.EAD.25,Pedagogia-Licenciatura/Distância/Santana da Boa Vista/RS,Graduação,2019,M,6,0
+636.EAD.25,Pedagogia-Licenciatura/Distância/Santana da Boa Vista/RS,Graduação,2019,F,35,0
+636.EAD.25,Pedagogia-Licenciatura/Distância/Santana da Boa Vista/RS,Graduação,2022,M,0,4
+636.EAD.25,Pedagogia-Licenciatura/Distância/Santana da Boa Vista/RS,Graduação,2022,F,0,16
+636.EAD.25,Pedagogia-Licenciatura/Distância/Santana da Boa Vista/RS,Graduação,TOTAL,M,6,4
+636.EAD.25,Pedagogia-Licenciatura/Distância/Santana da Boa Vista/RS,Graduação,TOTAL,F,35,16
+636.EAD.18,Pedagogia-Licenciatura/Distância/Sapucaia do Sul/RS,Graduação,2016,M,2,0
+636.EAD.18,Pedagogia-Licenciatura/Distância/Sapucaia do Sul/RS,Graduação,2016,F,33,0
+636.EAD.18,Pedagogia-Licenciatura/Distância/Sapucaia do Sul/RS,Graduação,2017,F,2,0
+636.EAD.18,Pedagogia-Licenciatura/Distância/Sapucaia do Sul/RS,Graduação,2020,M,0,2
+636.EAD.18,Pedagogia-Licenciatura/Distância/Sapucaia do Sul/RS,Graduação,2020,F,0,20
+636.EAD.18,Pedagogia-Licenciatura/Distância/Sapucaia do Sul/RS,Graduação,TOTAL,M,2,2
+636.EAD.18,Pedagogia-Licenciatura/Distância/Sapucaia do Sul/RS,Graduação,TOTAL,F,35,20
+636.EAD.26,Pedagogia-Licenciatura/Distância/Sarandi/RS,Graduação,2019,M,1,0
+636.EAD.26,Pedagogia-Licenciatura/Distância/Sarandi/RS,Graduação,2019,F,41,0
+636.EAD.26,Pedagogia-Licenciatura/Distância/Sarandi/RS,Graduação,2022,F,0,16
+636.EAD.26,Pedagogia-Licenciatura/Distância/Sarandi/RS,Graduação,TOTAL,M,1,0
+636.EAD.26,Pedagogia-Licenciatura/Distância/Sarandi/RS,Graduação,TOTAL,F,41,16
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,2016,M,6,0
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,2016,F,29,0
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,2017,F,5,0
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,2020,M,0,2
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,2020,F,0,11
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,2021,F,0,3
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,TOTAL,M,6,2
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,TOTAL,F,34,14
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,2016,M,6,0
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,2016,F,29,0
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,2017,M,2,0
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,2017,F,6,0
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,2020,F,0,8
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,2021,F,0,4
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,TOTAL,M,8,0
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,TOTAL,F,35,12
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,2017,M,1,0
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,2017,F,39,0
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,2019,F,10,0
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,2021,F,0,21
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,2022,M,2,0
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,2022,F,33,3
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,TOTAL,M,3,0
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,TOTAL,F,82,24
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2014,M,3,0
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2014,F,30,0
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2015,F,0,18
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2016,F,0,1
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2017,M,1,0
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2017,F,10,33
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2018,M,3,0
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2018,F,38,0
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2019,F,1,1
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2020,F,0,1
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2021,M,0,1
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2021,F,0,23
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2022,M,2,0
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,2022,F,33,2
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,TOTAL,M,9,1
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,TOTAL,F,112,79
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2014,M,1,0
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2014,F,22,2
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2015,F,0,2
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2017,M,0,3
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2017,F,0,34
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2018,M,3,0
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2018,F,33,1
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2019,F,3,0
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2021,M,0,2
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2021,F,0,11
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,2022,F,0,1
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,TOTAL,M,4,5
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,TOTAL,F,58,51
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,2017,M,1,0
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,2017,F,33,0
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,2019,M,1,0
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,2019,F,19,0
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,2021,F,0,7
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,2022,F,0,3
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,2023,F,0,1
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,TOTAL,M,2,0
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,TOTAL,F,52,11
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2014,M,3,0
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2014,F,28,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2015,M,0,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2015,F,0,16
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2016,F,0,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2017,F,0,28
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2018,M,3,0
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2018,F,36,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2019,M,1,0
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2019,F,13,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2020,F,0,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2020,M,0,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2021,M,0,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2021,F,0,17
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2022,F,0,4
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,2023,F,0,1
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,TOTAL,M,7,3
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,TOTAL,F,77,71
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2014,M,3,1
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2014,F,48,7
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2015,M,0,2
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2015,F,0,27
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2016,F,0,1
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2017,M,1,4
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2017,F,18,52
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2018,M,2,0
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2018,F,37,2
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2019,M,1,0
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2019,F,7,0
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2020,F,0,6
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2021,M,0,1
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2021,F,0,23
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2022,M,3,1
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2022,F,32,3
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,2023,F,0,1
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,TOTAL,M,10,9
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,TOTAL,F,142,122
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2014,M,3,0
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2014,F,23,8
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2015,M,0,1
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2015,F,0,14
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2016,F,0,1
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2017,M,0,3
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2017,F,21,19
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2018,F,0,5
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2020,F,0,6
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2021,F,0,2
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,2022,F,0,1
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,TOTAL,M,3,4
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,TOTAL,F,44,56
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2014,M,2,0
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2014,F,1,6
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2015,M,0,1
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2015,F,0,16
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2016,F,0,1
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2017,M,0,1
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2017,F,0,4
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2018,F,0,1
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,2020,F,0,2
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,TOTAL,M,2,2
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,TOTAL,F,1,30
+636.EAD.02,Pedagogia/Distância/Faxinal do Soturno/RS,Graduação,2014,M,0,1
+636.EAD.02,Pedagogia/Distância/Faxinal do Soturno/RS,Graduação,2014,F,0,5
+636.EAD.02,Pedagogia/Distância/Faxinal do Soturno/RS,Graduação,2015,M,0,1
+636.EAD.02,Pedagogia/Distância/Faxinal do Soturno/RS,Graduação,2015,F,0,2
+636.EAD.02,Pedagogia/Distância/Faxinal do Soturno/RS,Graduação,2017,F,0,1
+636.EAD.02,Pedagogia/Distância/Faxinal do Soturno/RS,Graduação,TOTAL,M,0,2
+636.EAD.02,Pedagogia/Distância/Faxinal do Soturno/RS,Graduação,TOTAL,F,0,8
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,2015,F,0,1
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,2019,M,2,0
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,2019,F,34,0
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,2021,F,1,1
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,2022,F,0,11
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,2023,F,0,4
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,TOTAL,M,2,0
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,TOTAL,F,35,17
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2014,M,0,1
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2014,F,4,2
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2015,F,0,11
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2016,F,0,1
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2017,M,1,0
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2017,F,37,5
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2018,F,1,0
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2019,M,1,0
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2019,F,12,0
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2021,F,0,11
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,2022,F,0,1
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,TOTAL,M,2,1
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,TOTAL,F,54,31
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2014,F,0,1
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2016,M,4,0
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2016,F,30,0
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2017,F,5,0
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2020,M,0,2
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2020,F,0,17
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2021,F,0,1
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2022,M,3,0
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,2022,F,32,0
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,TOTAL,M,7,2
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,TOTAL,F,67,19
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2014,M,50,48
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2014,F,81,121
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2015,M,58,38
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2015,F,130,78
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2016,M,91,44
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2016,F,119,81
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2017,M,48,45
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2017,F,101,70
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2018,M,76,33
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2018,F,91,79
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2019,M,49,46
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2019,F,89,56
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2020,M,29,13
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2020,F,58,17
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2021,M,34,30
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2021,F,53,73
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2022,M,54,16
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2022,F,69,36
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2023,M,32,28
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,2023,F,34,36
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,TOTAL,M,521,341
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,TOTAL,F,825,647
