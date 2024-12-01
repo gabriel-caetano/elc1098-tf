@@ -1,0 +1,279 @@
+COD_CURSO,NOME_UNIDADE,NIVEL_CURSO,ANO,SEXO,INGRESSANTES,FORMADOS,CENTRO
+401,Agronomia,Graduação,2014,F,42.0,22.0,CCR
+401,Agronomia,Graduação,2014,M,96.0,77.0,CCR
+401,Agronomia,Graduação,2015,F,52.0,23.0,CCR
+401,Agronomia,Graduação,2015,M,85.0,71.0,CCR
+401,Agronomia,Graduação,2016,F,33.0,28.0,CCR
+401,Agronomia,Graduação,2016,M,93.0,63.0,CCR
+401,Agronomia,Graduação,2017,F,44.0,30.0,CCR
+401,Agronomia,Graduação,2017,M,85.0,76.0,CCR
+401,Agronomia,Graduação,2018,F,44.0,27.0,CCR
+401,Agronomia,Graduação,2018,M,91.0,77.0,CCR
+401,Agronomia,Graduação,2019,F,53.0,33.0,CCR
+401,Agronomia,Graduação,2019,M,84.0,53.0,CCR
+401,Agronomia,Graduação,2020,F,45.0,23.0,CCR
+401,Agronomia,Graduação,2020,M,90.0,56.0,CCR
+401,Agronomia,Graduação,2021,F,44.0,21.0,CCR
+401,Agronomia,Graduação,2021,M,81.0,71.0,CCR
+401,Agronomia,Graduação,2022,F,48.0,30.0,CCR
+401,Agronomia,Graduação,2022,M,62.0,67.0,CCR
+401,Agronomia,Graduação,2023,F,42.0,23.0,CCR
+401,Agronomia,Graduação,2023,M,85.0,60.0,CCR
+401,Agronomia,Graduação,TOTAL,F,447.0,260.0,CCR
+401,Agronomia,Graduação,TOTAL,M,852.0,671.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2014,M,7.0,6.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2014,F,11.0,7.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2015,F,16.0,0.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2015,M,19.0,3.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2016,F,13.0,3.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2016,M,28.0,3.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2017,F,30.0,3.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2017,M,34.0,3.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2018,F,27.0,2.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2018,M,36.0,10.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2019,M,28.0,7.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2019,F,23.0,11.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2020,M,34.0,4.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2020,F,23.0,7.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2021,M,24.0,10.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2021,F,21.0,12.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2022,F,21.0,9.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2022,M,20.0,13.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2023,F,18.0,8.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,2023,M,34.0,11.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,TOTAL,F,203.0,62.0,CCR
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,TOTAL,M,264.0,70.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2014,M,16.0,4.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2014,F,78.0,57.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2015,M,28.0,2.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2015,F,78.0,40.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2016,M,30.0,4.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2016,F,97.0,34.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2017,M,37.0,3.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2017,F,91.0,36.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2018,M,24.0,4.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2018,F,87.0,20.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2019,M,34.0,4.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2019,F,81.0,26.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2020,M,26.0,7.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2020,F,66.0,10.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2021,F,56.0,3.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2021,M,24.0,5.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2022,M,29.0,4.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2022,F,38.0,30.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2023,M,22.0,5.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,2023,F,44.0,27.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,TOTAL,M,270.0,42.0,CCR
+407,Curso Superior de Tecnologia em Alimentos,Graduação,TOTAL,F,716.0,283.0,CCR
+402,Engenharia Florestal,Graduação,2014,M,31.0,20.0,CCR
+402,Engenharia Florestal,Graduação,2014,F,40.0,20.0,CCR
+402,Engenharia Florestal,Graduação,2015,M,32.0,24.0,CCR
+402,Engenharia Florestal,Graduação,2015,F,37.0,28.0,CCR
+402,Engenharia Florestal,Graduação,2016,M,35.0,19.0,CCR
+402,Engenharia Florestal,Graduação,2016,F,39.0,23.0,CCR
+402,Engenharia Florestal,Graduação,2017,M,31.0,20.0,CCR
+402,Engenharia Florestal,Graduação,2017,F,42.0,25.0,CCR
+402,Engenharia Florestal,Graduação,2018,F,39.0,15.0,CCR
+402,Engenharia Florestal,Graduação,2018,M,38.0,19.0,CCR
+402,Engenharia Florestal,Graduação,2019,M,33.0,15.0,CCR
+402,Engenharia Florestal,Graduação,2019,F,38.0,21.0,CCR
+402,Engenharia Florestal,Graduação,2020,M,35.0,6.0,CCR
+402,Engenharia Florestal,Graduação,2020,F,31.0,10.0,CCR
+402,Engenharia Florestal,Graduação,2021,M,31.0,14.0,CCR
+402,Engenharia Florestal,Graduação,2021,F,28.0,15.0,CCR
+402,Engenharia Florestal,Graduação,2022,M,24.0,11.0,CCR
+402,Engenharia Florestal,Graduação,2022,F,36.0,21.0,CCR
+402,Engenharia Florestal,Graduação,2023,M,18.0,8.0,CCR
+402,Engenharia Florestal,Graduação,2023,F,34.0,11.0,CCR
+402,Engenharia Florestal,Graduação,TOTAL,M,308.0,156.0,CCR
+402,Engenharia Florestal,Graduação,TOTAL,F,364.0,189.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,2017,M,14.0,0.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,2017,F,16.0,0.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,2018,M,2.0,0.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,2018,F,6.0,0.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,2020,M,0.0,5.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,2020,F,0.0,7.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,2022,M,11.0,0.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,2022,F,15.0,0.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,TOTAL,M,27.0,5.0,CCR
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,TOTAL,F,37.0,7.0,CCR
+408.EAD.06,Licenciatura em Educação do Campo/Distância/Balneário Pinhal/RS,Graduação,2019,M,11.0,0.0,CCR
+408.EAD.06,Licenciatura em Educação do Campo/Distância/Balneário Pinhal/RS,Graduação,2019,F,32.0,0.0,CCR
+408.EAD.06,Licenciatura em Educação do Campo/Distância/Balneário Pinhal/RS,Graduação,2022,M,0.0,4.0,CCR
+408.EAD.06,Licenciatura em Educação do Campo/Distância/Balneário Pinhal/RS,Graduação,2022,F,0.0,14.0,CCR
+408.EAD.06,Licenciatura em Educação do Campo/Distância/Balneário Pinhal/RS,Graduação,TOTAL,M,11.0,4.0,CCR
+408.EAD.06,Licenciatura em Educação do Campo/Distância/Balneário Pinhal/RS,Graduação,TOTAL,F,32.0,14.0,CCR
+408.EAD.12,Licenciatura em Educação do Campo/Distância/Canguçu/RS,Graduação,2022,M,7.0,0.0,CCR
+408.EAD.12,Licenciatura em Educação do Campo/Distância/Canguçu/RS,Graduação,2022,F,18.0,0.0,CCR
+408.EAD.12,Licenciatura em Educação do Campo/Distância/Canguçu/RS,Graduação,TOTAL,M,7.0,0.0,CCR
+408.EAD.12,Licenciatura em Educação do Campo/Distância/Canguçu/RS,Graduação,TOTAL,F,18.0,0.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,2017,M,12.0,0.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,2017,F,26.0,0.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,2018,M,2.0,0.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,2018,F,4.0,0.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,2020,M,0.0,4.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,2020,F,0.0,8.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,2021,F,0.0,2.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,TOTAL,M,14.0,4.0,CCR
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,TOTAL,F,30.0,10.0,CCR
+408.EAD.10,Licenciatura em Educação do Campo/Distância/Encantado/RS,Graduação,2019,M,5.0,0.0,CCR
+408.EAD.10,Licenciatura em Educação do Campo/Distância/Encantado/RS,Graduação,2019,F,20.0,0.0,CCR
+408.EAD.10,Licenciatura em Educação do Campo/Distância/Encantado/RS,Graduação,2022,M,0.0,2.0,CCR
+408.EAD.10,Licenciatura em Educação do Campo/Distância/Encantado/RS,Graduação,2022,F,0.0,12.0,CCR
+408.EAD.10,Licenciatura em Educação do Campo/Distância/Encantado/RS,Graduação,2023,F,0.0,1.0,CCR
+408.EAD.10,Licenciatura em Educação do Campo/Distância/Encantado/RS,Graduação,TOTAL,M,5.0,2.0,CCR
+408.EAD.10,Licenciatura em Educação do Campo/Distância/Encantado/RS,Graduação,TOTAL,F,20.0,13.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,2017,M,8.0,0.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,2017,F,22.0,0.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,2018,M,1.0,0.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,2018,F,3.0,0.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,2020,M,0.0,2.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,2020,F,0.0,13.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,2021,F,0.0,1.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,TOTAL,M,9.0,2.0,CCR
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,TOTAL,F,25.0,14.0,CCR
+408.EAD.11,Licenciatura em Educação do Campo/Distância/Novo Hamburgo/RS,Graduação,2019,M,8.0,0.0,CCR
+408.EAD.11,Licenciatura em Educação do Campo/Distância/Novo Hamburgo/RS,Graduação,2019,F,9.0,0.0,CCR
+408.EAD.11,Licenciatura em Educação do Campo/Distância/Novo Hamburgo/RS,Graduação,2022,M,0.0,1.0,CCR
+408.EAD.11,Licenciatura em Educação do Campo/Distância/Novo Hamburgo/RS,Graduação,2022,F,0.0,3.0,CCR
+408.EAD.11,Licenciatura em Educação do Campo/Distância/Novo Hamburgo/RS,Graduação,TOTAL,M,8.0,1.0,CCR
+408.EAD.11,Licenciatura em Educação do Campo/Distância/Novo Hamburgo/RS,Graduação,TOTAL,F,9.0,3.0,CCR
+408.EAD.07,Licenciatura em Educação do Campo/Distância/Santana do Livramento/RS,Graduação,2019,M,10.0,0.0,CCR
+408.EAD.07,Licenciatura em Educação do Campo/Distância/Santana do Livramento/RS,Graduação,2019,F,32.0,0.0,CCR
+408.EAD.07,Licenciatura em Educação do Campo/Distância/Santana do Livramento/RS,Graduação,2022,M,0.0,2.0,CCR
+408.EAD.07,Licenciatura em Educação do Campo/Distância/Santana do Livramento/RS,Graduação,2022,F,0.0,11.0,CCR
+408.EAD.07,Licenciatura em Educação do Campo/Distância/Santana do Livramento/RS,Graduação,2023,M,0.0,1.0,CCR
+408.EAD.07,Licenciatura em Educação do Campo/Distância/Santana do Livramento/RS,Graduação,TOTAL,M,10.0,3.0,CCR
+408.EAD.07,Licenciatura em Educação do Campo/Distância/Santana do Livramento/RS,Graduação,TOTAL,F,32.0,11.0,CCR
+408.EAD.13,Licenciatura em Educação do Campo/Distância/Santiago/RS,Graduação,2022,M,8.0,0.0,CCR
+408.EAD.13,Licenciatura em Educação do Campo/Distância/Santiago/RS,Graduação,2022,F,18.0,0.0,CCR
+408.EAD.13,Licenciatura em Educação do Campo/Distância/Santiago/RS,Graduação,TOTAL,M,8.0,0.0,CCR
+408.EAD.13,Licenciatura em Educação do Campo/Distância/Santiago/RS,Graduação,TOTAL,F,18.0,0.0,CCR
+408.EAD.14,Licenciatura em Educação do Campo/Distância/São Gabriel/RS,Graduação,2022,M,4.0,0.0,CCR
+408.EAD.14,Licenciatura em Educação do Campo/Distância/São Gabriel/RS,Graduação,2022,F,21.0,0.0,CCR
+408.EAD.14,Licenciatura em Educação do Campo/Distância/São Gabriel/RS,Graduação,TOTAL,M,4.0,0.0,CCR
+408.EAD.14,Licenciatura em Educação do Campo/Distância/São Gabriel/RS,Graduação,TOTAL,F,21.0,0.0,CCR
+408.EAD.08,Licenciatura em Educação do Campo/Distância/São Lourenço do Sul/RS,Graduação,2019,M,11.0,0.0,CCR
+408.EAD.08,Licenciatura em Educação do Campo/Distância/São Lourenço do Sul/RS,Graduação,2019,F,23.0,0.0,CCR
+408.EAD.08,Licenciatura em Educação do Campo/Distância/São Lourenço do Sul/RS,Graduação,2022,F,0.0,7.0,CCR
+408.EAD.08,Licenciatura em Educação do Campo/Distância/São Lourenço do Sul/RS,Graduação,2023,F,0.0,1.0,CCR
+408.EAD.08,Licenciatura em Educação do Campo/Distância/São Lourenço do Sul/RS,Graduação,TOTAL,M,11.0,0.0,CCR
+408.EAD.08,Licenciatura em Educação do Campo/Distância/São Lourenço do Sul/RS,Graduação,TOTAL,F,23.0,8.0,CCR
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,2017,M,13.0,0.0,CCR
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,2017,F,18.0,0.0,CCR
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,2018,M,3.0,0.0,CCR
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,2018,F,17.0,0.0,CCR
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,2020,F,0.0,9.0,CCR
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,2021,F,0.0,1.0,CCR
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,TOTAL,M,16.0,0.0,CCR
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,TOTAL,F,35.0,10.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,2017,M,8.0,0.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,2017,F,21.0,0.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,2018,M,6.0,0.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,2018,F,12.0,0.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,2020,M,0.0,4.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,2020,F,0.0,8.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,2022,F,0.0,2.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,TOTAL,M,14.0,4.0,CCR
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,TOTAL,F,33.0,10.0,CCR
+408.EAD.15,Licenciatura em Educação do Campo/Distância/Serafina Corrêa/RS,Graduação,2022,M,5.0,0.0,CCR
+408.EAD.15,Licenciatura em Educação do Campo/Distância/Serafina Corrêa/RS,Graduação,2022,F,15.0,0.0,CCR
+408.EAD.15,Licenciatura em Educação do Campo/Distância/Serafina Corrêa/RS,Graduação,TOTAL,M,5.0,0.0,CCR
+408.EAD.15,Licenciatura em Educação do Campo/Distância/Serafina Corrêa/RS,Graduação,TOTAL,F,15.0,0.0,CCR
+408.EAD.09,Licenciatura em Educação do Campo/Distância/Sobradinho/RS,Graduação,2019,M,6.0,0.0,CCR
+408.EAD.09,Licenciatura em Educação do Campo/Distância/Sobradinho/RS,Graduação,2019,F,29.0,0.0,CCR
+408.EAD.09,Licenciatura em Educação do Campo/Distância/Sobradinho/RS,Graduação,2022,M,0.0,2.0,CCR
+408.EAD.09,Licenciatura em Educação do Campo/Distância/Sobradinho/RS,Graduação,2022,F,0.0,12.0,CCR
+408.EAD.09,Licenciatura em Educação do Campo/Distância/Sobradinho/RS,Graduação,TOTAL,M,6.0,2.0,CCR
+408.EAD.09,Licenciatura em Educação do Campo/Distância/Sobradinho/RS,Graduação,TOTAL,F,29.0,12.0,CCR
+408.EAD.16,Licenciatura em Educação do Campo/Distância/Três de Maio/RS,Graduação,2022,M,2.0,0.0,CCR
+408.EAD.16,Licenciatura em Educação do Campo/Distância/Três de Maio/RS,Graduação,2022,F,23.0,0.0,CCR
+408.EAD.16,Licenciatura em Educação do Campo/Distância/Três de Maio/RS,Graduação,TOTAL,M,2.0,0.0,CCR
+408.EAD.16,Licenciatura em Educação do Campo/Distância/Três de Maio/RS,Graduação,TOTAL,F,23.0,0.0,CCR
+403,Medicina Veterinária,Graduação,2014,M,30.0,29.0,CCR
+403,Medicina Veterinária,Graduação,2014,F,80.0,61.0,CCR
+403,Medicina Veterinária,Graduação,2015,M,34.0,21.0,CCR
+403,Medicina Veterinária,Graduação,2015,F,66.0,55.0,CCR
+403,Medicina Veterinária,Graduação,2016,M,31.0,24.0,CCR
+403,Medicina Veterinária,Graduação,2016,F,68.0,58.0,CCR
+403,Medicina Veterinária,Graduação,2017,M,26.0,19.0,CCR
+403,Medicina Veterinária,Graduação,2017,F,74.0,53.0,CCR
+403,Medicina Veterinária,Graduação,2018,M,24.0,28.0,CCR
+403,Medicina Veterinária,Graduação,2018,F,76.0,60.0,CCR
+403,Medicina Veterinária,Graduação,2019,M,32.0,31.0,CCR
+403,Medicina Veterinária,Graduação,2019,F,64.0,46.0,CCR
+403,Medicina Veterinária,Graduação,2020,M,24.0,19.0,CCR
+403,Medicina Veterinária,Graduação,2020,F,74.0,47.0,CCR
+403,Medicina Veterinária,Graduação,2021,M,31.0,13.0,CCR
+403,Medicina Veterinária,Graduação,2021,F,69.0,42.0,CCR
+403,Medicina Veterinária,Graduação,2022,M,19.0,30.0,CCR
+403,Medicina Veterinária,Graduação,2022,F,75.0,94.0,CCR
+403,Medicina Veterinária,Graduação,2023,M,25.0,19.0,CCR
+403,Medicina Veterinária,Graduação,2023,F,96.0,49.0,CCR
+403,Medicina Veterinária,Graduação,TOTAL,M,276.0,233.0,CCR
+403,Medicina Veterinária,Graduação,TOTAL,F,742.0,565.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,2014,F,18.0,0.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,2014,M,19.0,0.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,2015,M,2.0,2.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,2017,F,0.0,2.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,2017,M,0.0,5.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,2018,F,0.0,2.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,2018,M,0.0,3.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,TOTAL,F,18.0,4.0,CCR
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,TOTAL,M,21.0,10.0,CCR
+406.EAD.12,Tec. Agric. Familiar Sustentabilidade/Distância/Quaraí/RS,Graduação,2014,F,2.0,0.0,CCR
+406.EAD.12,Tec. Agric. Familiar Sustentabilidade/Distância/Quaraí/RS,Graduação,2014,M,4.0,0.0,CCR
+406.EAD.12,Tec. Agric. Familiar Sustentabilidade/Distância/Quaraí/RS,Graduação,2018,M,0.0,3.0,CCR
+406.EAD.12,Tec. Agric. Familiar Sustentabilidade/Distância/Quaraí/RS,Graduação,TOTAL,F,2.0,0.0,CCR
+406.EAD.12,Tec. Agric. Familiar Sustentabilidade/Distância/Quaraí/RS,Graduação,TOTAL,M,4.0,3.0,CCR
+406.EAD.13,Tec. Agric. Familiar Sustentabilidade/Distância/Sarandi/RS,Graduação,2014,F,2.0,0.0,CCR
+406.EAD.13,Tec. Agric. Familiar Sustentabilidade/Distância/Sarandi/RS,Graduação,2014,M,7.0,0.0,CCR
+406.EAD.13,Tec. Agric. Familiar Sustentabilidade/Distância/Sarandi/RS,Graduação,2017,M,0.0,1.0,CCR
+406.EAD.13,Tec. Agric. Familiar Sustentabilidade/Distância/Sarandi/RS,Graduação,2018,M,0.0,1.0,CCR
+406.EAD.13,Tec. Agric. Familiar Sustentabilidade/Distância/Sarandi/RS,Graduação,TOTAL,F,2.0,0.0,CCR
+406.EAD.13,Tec. Agric. Familiar Sustentabilidade/Distância/Sarandi/RS,Graduação,TOTAL,M,7.0,2.0,CCR
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,2014,F,9.0,0.0,CCR
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,2014,M,19.0,0.0,CCR
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,2015,M,3.0,0.0,CCR
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,2017,F,0.0,5.0,CCR
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,2017,M,0.0,6.0,CCR
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,2018,M,0.0,4.0,CCR
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,TOTAL,F,9.0,5.0,CCR
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,TOTAL,M,22.0,10.0,CCR
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,2014,F,6.0,0.0,CCR
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,2014,M,6.0,0.0,CCR
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,2017,F,0.0,1.0,CCR
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,2017,M,0.0,1.0,CCR
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,2018,M,0.0,1.0,CCR
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,2018,F,0.0,2.0,CCR
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,TOTAL,M,6.0,2.0,CCR
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,TOTAL,F,6.0,3.0,CCR
+406.EAD.14,Tec. Agric. Familiar Sustentabilidade/Distância/Vila Flores/RS,Graduação,2014,F,4.0,0.0,CCR
+406.EAD.14,Tec. Agric. Familiar Sustentabilidade/Distância/Vila Flores/RS,Graduação,2014,M,8.0,0.0,CCR
+406.EAD.14,Tec. Agric. Familiar Sustentabilidade/Distância/Vila Flores/RS,Graduação,2017,M,0.0,3.0,CCR
+406.EAD.14,Tec. Agric. Familiar Sustentabilidade/Distância/Vila Flores/RS,Graduação,2018,F,0.0,1.0,CCR
+406.EAD.14,Tec. Agric. Familiar Sustentabilidade/Distância/Vila Flores/RS,Graduação,2018,M,0.0,2.0,CCR
+406.EAD.14,Tec. Agric. Familiar Sustentabilidade/Distância/Vila Flores/RS,Graduação,TOTAL,F,4.0,1.0,CCR
+406.EAD.14,Tec. Agric. Familiar Sustentabilidade/Distância/Vila Flores/RS,Graduação,TOTAL,M,8.0,5.0,CCR
+404,Zootecnia,Graduação,2014,M,35.0,18.0,CCR
+404,Zootecnia,Graduação,2014,F,40.0,22.0,CCR
+404,Zootecnia,Graduação,2015,F,43.0,15.0,CCR
+404,Zootecnia,Graduação,2015,M,30.0,18.0,CCR
+404,Zootecnia,Graduação,2016,M,21.0,19.0,CCR
+404,Zootecnia,Graduação,2016,F,55.0,27.0,CCR
+404,Zootecnia,Graduação,2017,M,25.0,16.0,CCR
+404,Zootecnia,Graduação,2017,F,52.0,32.0,CCR
+404,Zootecnia,Graduação,2018,M,28.0,21.0,CCR
+404,Zootecnia,Graduação,2018,F,61.0,28.0,CCR
+404,Zootecnia,Graduação,2019,M,25.0,21.0,CCR
+404,Zootecnia,Graduação,2019,F,54.0,31.0,CCR
+404,Zootecnia,Graduação,2020,M,29.0,16.0,CCR
+404,Zootecnia,Graduação,2020,F,63.0,19.0,CCR
+404,Zootecnia,Graduação,2021,M,20.0,8.0,CCR
+404,Zootecnia,Graduação,2021,F,70.0,17.0,CCR
+404,Zootecnia,Graduação,2022,M,17.0,17.0,CCR
+404,Zootecnia,Graduação,2022,F,49.0,34.0,CCR
+404,Zootecnia,Graduação,2023,M,23.0,19.0,CCR
+404,Zootecnia,Graduação,2023,F,57.0,34.0,CCR
+404,Zootecnia,Graduação,TOTAL,M,253.0,173.0,CCR
+404,Zootecnia,Graduação,TOTAL,F,544.0,259.0,CCR

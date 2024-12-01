@@ -1,0 +1,325 @@
+COD_CURSO,NOME_UNIDADE,NIVEL_CURSO,ANO,SEXO,INGRESSANTES,FORMADOS,CENTRO
+308,Arquitetura e Urbanismo,Graduação,2014,M,13.0,5.0,CT
+308,Arquitetura e Urbanismo,Graduação,2014,F,25.0,14.0,CT
+308,Arquitetura e Urbanismo,Graduação,2015,M,11.0,3.0,CT
+308,Arquitetura e Urbanismo,Graduação,2015,F,32.0,20.0,CT
+308,Arquitetura e Urbanismo,Graduação,2016,M,8.0,5.0,CT
+308,Arquitetura e Urbanismo,Graduação,2016,F,28.0,13.0,CT
+308,Arquitetura e Urbanismo,Graduação,2017,M,7.0,4.0,CT
+308,Arquitetura e Urbanismo,Graduação,2017,F,36.0,17.0,CT
+308,Arquitetura e Urbanismo,Graduação,2018,F,28.0,7.0,CT
+308,Arquitetura e Urbanismo,Graduação,2018,M,6.0,8.0,CT
+308,Arquitetura e Urbanismo,Graduação,2019,M,9.0,9.0,CT
+308,Arquitetura e Urbanismo,Graduação,2019,F,23.0,25.0,CT
+308,Arquitetura e Urbanismo,Graduação,2020,M,10.0,4.0,CT
+308,Arquitetura e Urbanismo,Graduação,2020,F,22.0,7.0,CT
+308,Arquitetura e Urbanismo,Graduação,2021,M,6.0,5.0,CT
+308,Arquitetura e Urbanismo,Graduação,2021,F,24.0,20.0,CT
+308,Arquitetura e Urbanismo,Graduação,2022,M,11.0,5.0,CT
+308,Arquitetura e Urbanismo,Graduação,2022,F,21.0,24.0,CT
+308,Arquitetura e Urbanismo,Graduação,2023,M,12.0,5.0,CT
+308,Arquitetura e Urbanismo,Graduação,2023,F,19.0,25.0,CT
+308,Arquitetura e Urbanismo,Graduação,TOTAL,M,93.0,53.0,CT
+308,Arquitetura e Urbanismo,Graduação,TOTAL,F,258.0,172.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2014,F,4.0,2.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2014,M,39.0,14.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2015,F,4.0,2.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2015,M,40.0,14.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2016,F,3.0,0.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2016,M,38.0,12.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2017,M,40.0,2.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2017,F,5.0,3.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2018,F,8.0,0.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2018,M,39.0,13.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2019,F,1.0,2.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2019,M,41.0,13.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2020,F,6.0,0.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2020,M,37.0,6.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2021,F,7.0,3.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2021,M,34.0,7.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2022,F,8.0,1.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2022,M,41.0,10.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2023,F,7.0,1.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,2023,M,37.0,8.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,TOTAL,F,53.0,14.0,CT
+314,Bacharelado em Sistemas de Informação,Graduação,TOTAL,M,386.0,99.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2014,F,4.0,1.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2014,M,41.0,16.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2015,F,4.0,3.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2015,M,38.0,19.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2016,F,10.0,1.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2016,M,30.0,19.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2017,F,4.0,2.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2017,M,39.0,12.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2018,F,5.0,1.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2018,M,44.0,8.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2019,F,4.0,2.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2019,M,42.0,14.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2020,F,4.0,2.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2020,M,39.0,16.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2021,F,3.0,1.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2021,M,39.0,24.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2022,F,5.0,0.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2022,M,35.0,8.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2023,F,2.0,0.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,2023,M,39.0,9.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,TOTAL,F,45.0,13.0,CT
+307,Ciência da Computação - Bacharelado,Graduação,TOTAL,M,386.0,145.0,CT
+311,Curso de Engenharia Acústica,Graduação,2014,F,5.0,2.0,CT
+311,Curso de Engenharia Acústica,Graduação,2014,M,43.0,4.0,CT
+311,Curso de Engenharia Acústica,Graduação,2015,F,6.0,0.0,CT
+311,Curso de Engenharia Acústica,Graduação,2015,M,36.0,2.0,CT
+311,Curso de Engenharia Acústica,Graduação,2016,F,6.0,2.0,CT
+311,Curso de Engenharia Acústica,Graduação,2016,M,42.0,10.0,CT
+311,Curso de Engenharia Acústica,Graduação,2017,F,15.0,1.0,CT
+311,Curso de Engenharia Acústica,Graduação,2017,M,33.0,8.0,CT
+311,Curso de Engenharia Acústica,Graduação,2018,F,6.0,4.0,CT
+311,Curso de Engenharia Acústica,Graduação,2018,M,22.0,7.0,CT
+311,Curso de Engenharia Acústica,Graduação,2019,F,10.0,1.0,CT
+311,Curso de Engenharia Acústica,Graduação,2019,M,32.0,12.0,CT
+311,Curso de Engenharia Acústica,Graduação,2020,F,16.0,2.0,CT
+311,Curso de Engenharia Acústica,Graduação,2020,M,34.0,6.0,CT
+311,Curso de Engenharia Acústica,Graduação,2021,F,12.0,1.0,CT
+311,Curso de Engenharia Acústica,Graduação,2021,M,27.0,5.0,CT
+311,Curso de Engenharia Acústica,Graduação,2022,F,5.0,4.0,CT
+311,Curso de Engenharia Acústica,Graduação,2022,M,14.0,13.0,CT
+311,Curso de Engenharia Acústica,Graduação,2023,F,3.0,4.0,CT
+311,Curso de Engenharia Acústica,Graduação,2023,M,12.0,8.0,CT
+311,Curso de Engenharia Acústica,Graduação,TOTAL,F,84.0,21.0,CT
+311,Curso de Engenharia Acústica,Graduação,TOTAL,M,295.0,75.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2015,F,8.0,0.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2015,M,33.0,0.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2016,F,8.0,0.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2016,M,34.0,0.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2017,F,9.0,0.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2017,M,31.0,0.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2018,F,12.0,0.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2018,M,50.0,0.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2019,F,13.0,2.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2019,M,39.0,5.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2020,F,22.0,2.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2020,M,27.0,7.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2021,F,14.0,2.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2021,M,27.0,9.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2022,F,16.0,3.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2022,M,28.0,6.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2023,F,13.0,1.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,2023,M,19.0,8.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,TOTAL,F,115.0,10.0,CT
+315,Curso de Engenharia Aeroespacial,Graduação,TOTAL,M,288.0,35.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2014,F,1.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2014,M,2.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2016,M,4.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2016,F,6.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2017,F,3.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2017,M,7.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2018,F,6.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2018,M,6.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2019,M,7.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2019,F,9.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2020,M,7.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2020,F,9.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2021,M,2.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2021,F,5.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2022,M,10.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2022,F,13.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2023,M,10.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,2023,F,12.0,3.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,TOTAL,M,55.0,0.0,CT
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,TOTAL,F,64.0,3.0,CT
+312,Curso de Engenharia de Computação,Graduação,2014,F,3.0,1.0,CT
+312,Curso de Engenharia de Computação,Graduação,2014,M,47.0,6.0,CT
+312,Curso de Engenharia de Computação,Graduação,2015,F,4.0,1.0,CT
+312,Curso de Engenharia de Computação,Graduação,2015,M,53.0,10.0,CT
+312,Curso de Engenharia de Computação,Graduação,2016,F,2.0,1.0,CT
+312,Curso de Engenharia de Computação,Graduação,2016,M,38.0,13.0,CT
+312,Curso de Engenharia de Computação,Graduação,2017,F,2.0,3.0,CT
+312,Curso de Engenharia de Computação,Graduação,2017,M,37.0,14.0,CT
+312,Curso de Engenharia de Computação,Graduação,2018,F,9.0,6.0,CT
+312,Curso de Engenharia de Computação,Graduação,2018,M,34.0,27.0,CT
+312,Curso de Engenharia de Computação,Graduação,2019,F,7.0,2.0,CT
+312,Curso de Engenharia de Computação,Graduação,2019,M,40.0,17.0,CT
+312,Curso de Engenharia de Computação,Graduação,2020,F,4.0,1.0,CT
+312,Curso de Engenharia de Computação,Graduação,2020,M,40.0,10.0,CT
+312,Curso de Engenharia de Computação,Graduação,2021,F,6.0,1.0,CT
+312,Curso de Engenharia de Computação,Graduação,2021,M,42.0,5.0,CT
+312,Curso de Engenharia de Computação,Graduação,2022,F,6.0,1.0,CT
+312,Curso de Engenharia de Computação,Graduação,2022,M,34.0,14.0,CT
+312,Curso de Engenharia de Computação,Graduação,2023,F,13.0,2.0,CT
+312,Curso de Engenharia de Computação,Graduação,2023,M,49.0,10.0,CT
+312,Curso de Engenharia de Computação,Graduação,TOTAL,F,56.0,19.0,CT
+312,Curso de Engenharia de Computação,Graduação,TOTAL,M,414.0,126.0,CT
+313,Curso de Engenharia de Produção,Graduação,2014,F,22.0,4.0,CT
+313,Curso de Engenharia de Produção,Graduação,2014,M,22.0,8.0,CT
+313,Curso de Engenharia de Produção,Graduação,2015,F,19.0,6.0,CT
+313,Curso de Engenharia de Produção,Graduação,2015,M,31.0,14.0,CT
+313,Curso de Engenharia de Produção,Graduação,2016,F,25.0,16.0,CT
+313,Curso de Engenharia de Produção,Graduação,2016,M,17.0,20.0,CT
+313,Curso de Engenharia de Produção,Graduação,2017,F,18.0,13.0,CT
+313,Curso de Engenharia de Produção,Graduação,2017,M,31.0,16.0,CT
+313,Curso de Engenharia de Produção,Graduação,2018,F,24.0,13.0,CT
+313,Curso de Engenharia de Produção,Graduação,2018,M,22.0,15.0,CT
+313,Curso de Engenharia de Produção,Graduação,2019,F,10.0,14.0,CT
+313,Curso de Engenharia de Produção,Graduação,2019,M,43.0,16.0,CT
+313,Curso de Engenharia de Produção,Graduação,2020,F,15.0,14.0,CT
+313,Curso de Engenharia de Produção,Graduação,2020,M,32.0,14.0,CT
+313,Curso de Engenharia de Produção,Graduação,2021,F,17.0,11.0,CT
+313,Curso de Engenharia de Produção,Graduação,2021,M,23.0,12.0,CT
+313,Curso de Engenharia de Produção,Graduação,2022,F,19.0,15.0,CT
+313,Curso de Engenharia de Produção,Graduação,2022,M,23.0,18.0,CT
+313,Curso de Engenharia de Produção,Graduação,2023,M,16.0,14.0,CT
+313,Curso de Engenharia de Produção,Graduação,2023,F,17.0,16.0,CT
+313,Curso de Engenharia de Produção,Graduação,TOTAL,F,186.0,122.0,CT
+313,Curso de Engenharia de Produção,Graduação,TOTAL,M,260.0,147.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2015,F,10.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2015,M,41.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2016,F,10.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2016,M,44.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2017,F,13.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2017,M,58.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2018,F,16.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2018,M,42.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2019,F,5.0,1.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2019,M,49.0,2.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2020,F,12.0,1.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2020,M,43.0,3.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2021,F,8.0,1.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2021,M,49.0,4.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2022,F,21.0,1.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2022,M,42.0,8.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2023,F,13.0,0.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,2023,M,40.0,2.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,TOTAL,F,108.0,4.0,CT
+316,Curso de Engenharia de Telecomunicações,Graduação,TOTAL,M,408.0,19.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2014,M,21.0,2.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2014,F,25.0,3.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2015,M,19.0,5.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2015,F,25.0,13.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2016,M,22.0,6.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2016,F,25.0,9.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2017,M,27.0,10.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2017,F,19.0,21.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2018,M,18.0,5.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2018,F,21.0,10.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2019,M,17.0,9.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2019,F,22.0,15.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2020,M,13.0,5.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2020,F,27.0,13.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2021,M,12.0,5.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2021,F,22.0,5.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2022,M,16.0,4.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2022,F,19.0,11.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2023,M,10.0,2.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,2023,F,14.0,3.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,TOTAL,M,175.0,53.0,CT
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,TOTAL,F,219.0,103.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2014,F,2.0,0.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2014,M,40.0,3.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2015,F,9.0,1.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2015,M,40.0,13.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2016,F,4.0,2.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2016,M,45.0,17.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2017,F,4.0,3.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2017,M,39.0,14.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2018,F,9.0,0.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2018,M,33.0,19.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2019,F,7.0,1.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2019,M,31.0,15.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2020,F,7.0,2.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2020,M,38.0,12.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2021,F,4.0,2.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2021,M,30.0,11.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2022,F,4.0,3.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2022,M,30.0,12.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2023,F,4.0,0.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,2023,M,21.0,13.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,TOTAL,F,54.0,14.0,CT
+310,Curso Engenharia de Controle e Automação,Graduação,TOTAL,M,347.0,129.0,CT
+302,Engenharia Civil,Graduação,2014,F,32.0,14.0,CT
+302,Engenharia Civil,Graduação,2014,M,65.0,26.0,CT
+302,Engenharia Civil,Graduação,2015,F,26.0,16.0,CT
+302,Engenharia Civil,Graduação,2015,M,57.0,41.0,CT
+302,Engenharia Civil,Graduação,2016,F,37.0,18.0,CT
+302,Engenharia Civil,Graduação,2016,M,48.0,51.0,CT
+302,Engenharia Civil,Graduação,2017,F,23.0,38.0,CT
+302,Engenharia Civil,Graduação,2017,M,59.0,42.0,CT
+302,Engenharia Civil,Graduação,2018,F,26.0,28.0,CT
+302,Engenharia Civil,Graduação,2018,M,57.0,40.0,CT
+302,Engenharia Civil,Graduação,2019,F,25.0,31.0,CT
+302,Engenharia Civil,Graduação,2019,M,54.0,34.0,CT
+302,Engenharia Civil,Graduação,2020,F,28.0,11.0,CT
+302,Engenharia Civil,Graduação,2020,M,49.0,19.0,CT
+302,Engenharia Civil,Graduação,2021,F,32.0,17.0,CT
+302,Engenharia Civil,Graduação,2021,M,47.0,29.0,CT
+302,Engenharia Civil,Graduação,2022,F,35.0,16.0,CT
+302,Engenharia Civil,Graduação,2022,M,44.0,47.0,CT
+302,Engenharia Civil,Graduação,2023,F,32.0,19.0,CT
+302,Engenharia Civil,Graduação,2023,M,54.0,36.0,CT
+302,Engenharia Civil,Graduação,TOTAL,F,296.0,208.0,CT
+302,Engenharia Civil,Graduação,TOTAL,M,534.0,365.0,CT
+303,Engenharia Elétrica,Graduação,2014,F,20.0,4.0,CT
+303,Engenharia Elétrica,Graduação,2014,M,61.0,25.0,CT
+303,Engenharia Elétrica,Graduação,2015,F,14.0,3.0,CT
+303,Engenharia Elétrica,Graduação,2015,M,56.0,40.0,CT
+303,Engenharia Elétrica,Graduação,2016,F,9.0,11.0,CT
+303,Engenharia Elétrica,Graduação,2016,M,58.0,24.0,CT
+303,Engenharia Elétrica,Graduação,2017,F,14.0,5.0,CT
+303,Engenharia Elétrica,Graduação,2017,M,50.0,33.0,CT
+303,Engenharia Elétrica,Graduação,2018,F,8.0,4.0,CT
+303,Engenharia Elétrica,Graduação,2018,M,52.0,39.0,CT
+303,Engenharia Elétrica,Graduação,2019,F,9.0,13.0,CT
+303,Engenharia Elétrica,Graduação,2019,M,54.0,40.0,CT
+303,Engenharia Elétrica,Graduação,2020,F,16.0,5.0,CT
+303,Engenharia Elétrica,Graduação,2020,M,45.0,15.0,CT
+303,Engenharia Elétrica,Graduação,2021,F,11.0,6.0,CT
+303,Engenharia Elétrica,Graduação,2021,M,48.0,24.0,CT
+303,Engenharia Elétrica,Graduação,2022,F,15.0,8.0,CT
+303,Engenharia Elétrica,Graduação,2022,M,59.0,19.0,CT
+303,Engenharia Elétrica,Graduação,2023,F,10.0,7.0,CT
+303,Engenharia Elétrica,Graduação,2023,M,56.0,28.0,CT
+303,Engenharia Elétrica,Graduação,TOTAL,F,126.0,66.0,CT
+303,Engenharia Elétrica,Graduação,TOTAL,M,539.0,287.0,CT
+304,Engenharia Mecânica,Graduação,2014,F,6.0,4.0,CT
+304,Engenharia Mecânica,Graduação,2014,M,60.0,36.0,CT
+304,Engenharia Mecânica,Graduação,2015,F,8.0,4.0,CT
+304,Engenharia Mecânica,Graduação,2015,M,51.0,33.0,CT
+304,Engenharia Mecânica,Graduação,2016,F,7.0,1.0,CT
+304,Engenharia Mecânica,Graduação,2016,M,41.0,29.0,CT
+304,Engenharia Mecânica,Graduação,2017,F,6.0,6.0,CT
+304,Engenharia Mecânica,Graduação,2017,M,45.0,27.0,CT
+304,Engenharia Mecânica,Graduação,2018,F,7.0,4.0,CT
+304,Engenharia Mecânica,Graduação,2018,M,52.0,40.0,CT
+304,Engenharia Mecânica,Graduação,2019,F,7.0,2.0,CT
+304,Engenharia Mecânica,Graduação,2019,M,45.0,33.0,CT
+304,Engenharia Mecânica,Graduação,2020,F,8.0,1.0,CT
+304,Engenharia Mecânica,Graduação,2020,M,55.0,14.0,CT
+304,Engenharia Mecânica,Graduação,2021,F,16.0,2.0,CT
+304,Engenharia Mecânica,Graduação,2021,M,34.0,13.0,CT
+304,Engenharia Mecânica,Graduação,2022,F,17.0,3.0,CT
+304,Engenharia Mecânica,Graduação,2022,M,36.0,21.0,CT
+304,Engenharia Mecânica,Graduação,2023,F,6.0,5.0,CT
+304,Engenharia Mecânica,Graduação,2023,M,53.0,26.0,CT
+304,Engenharia Mecânica,Graduação,TOTAL,F,88.0,32.0,CT
+304,Engenharia Mecânica,Graduação,TOTAL,M,472.0,272.0,CT
+305,Engenharia Química,Graduação,2014,M,37.0,11.0,CT
+305,Engenharia Química,Graduação,2014,F,54.0,20.0,CT
+305,Engenharia Química,Graduação,2015,M,36.0,13.0,CT
+305,Engenharia Química,Graduação,2015,F,55.0,22.0,CT
+305,Engenharia Química,Graduação,2016,M,36.0,14.0,CT
+305,Engenharia Química,Graduação,2016,F,53.0,18.0,CT
+305,Engenharia Química,Graduação,2017,M,47.0,26.0,CT
+305,Engenharia Química,Graduação,2017,F,26.0,41.0,CT
+305,Engenharia Química,Graduação,2018,M,41.0,25.0,CT
+305,Engenharia Química,Graduação,2018,F,35.0,40.0,CT
+305,Engenharia Química,Graduação,2019,M,44.0,23.0,CT
+305,Engenharia Química,Graduação,2019,F,37.0,27.0,CT
+305,Engenharia Química,Graduação,2020,M,47.0,18.0,CT
+305,Engenharia Química,Graduação,2020,F,47.0,34.0,CT
+305,Engenharia Química,Graduação,2021,M,35.0,14.0,CT
+305,Engenharia Química,Graduação,2021,F,32.0,18.0,CT
+305,Engenharia Química,Graduação,2022,F,40.0,14.0,CT
+305,Engenharia Química,Graduação,2022,M,33.0,22.0,CT
+305,Engenharia Química,Graduação,2023,F,43.0,20.0,CT
+305,Engenharia Química,Graduação,2023,M,26.0,21.0,CT
+305,Engenharia Química,Graduação,TOTAL,M,382.0,187.0,CT
+305,Engenharia Química,Graduação,TOTAL,F,422.0,254.0,CT

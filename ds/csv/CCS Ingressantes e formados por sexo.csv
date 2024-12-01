@@ -1,0 +1,159 @@
+COD_CURSO,NOME_UNIDADE,NIVEL_CURSO,ANO,SEXO,INGRESSANTES,FORMADOS,CENTRO
+209,Enfermagem,Graduação,2014,M,4.0,5.0,CCS
+209,Enfermagem,Graduação,2014,F,57.0,40.0,CCS
+209,Enfermagem,Graduação,2015,M,9.0,8.0,CCS
+209,Enfermagem,Graduação,2015,F,46.0,27.0,CCS
+209,Enfermagem,Graduação,2016,M,8.0,6.0,CCS
+209,Enfermagem,Graduação,2016,F,42.0,39.0,CCS
+209,Enfermagem,Graduação,2017,M,14.0,3.0,CCS
+209,Enfermagem,Graduação,2017,F,44.0,33.0,CCS
+209,Enfermagem,Graduação,2018,M,14.0,0.0,CCS
+209,Enfermagem,Graduação,2018,F,50.0,1.0,CCS
+209,Enfermagem,Graduação,2019,M,14.0,5.0,CCS
+209,Enfermagem,Graduação,2019,F,43.0,26.0,CCS
+209,Enfermagem,Graduação,2020,M,14.0,2.0,CCS
+209,Enfermagem,Graduação,2020,F,41.0,31.0,CCS
+209,Enfermagem,Graduação,2021,M,12.0,0.0,CCS
+209,Enfermagem,Graduação,2021,F,42.0,13.0,CCS
+209,Enfermagem,Graduação,2022,M,13.0,3.0,CCS
+209,Enfermagem,Graduação,2022,F,42.0,19.0,CCS
+209,Enfermagem,Graduação,2023,M,11.0,8.0,CCS
+209,Enfermagem,Graduação,2023,F,41.0,32.0,CCS
+209,Enfermagem,Graduação,TOTAL,M,113.0,40.0,CCS
+209,Enfermagem,Graduação,TOTAL,F,448.0,261.0,CCS
+211,Farmácia,Graduação,2014,M,10.0,6.0,CCS
+211,Farmácia,Graduação,2014,F,98.0,68.0,CCS
+211,Farmácia,Graduação,2015,M,17.0,6.0,CCS
+211,Farmácia,Graduação,2015,F,92.0,72.0,CCS
+211,Farmácia,Graduação,2016,M,33.0,9.0,CCS
+211,Farmácia,Graduação,2016,F,90.0,62.0,CCS
+211,Farmácia,Graduação,2017,M,26.0,10.0,CCS
+211,Farmácia,Graduação,2017,F,80.0,50.0,CCS
+211,Farmácia,Graduação,2018,M,36.0,8.0,CCS
+211,Farmácia,Graduação,2018,F,76.0,57.0,CCS
+211,Farmácia,Graduação,2019,M,29.0,6.0,CCS
+211,Farmácia,Graduação,2019,F,77.0,44.0,CCS
+211,Farmácia,Graduação,2020,M,13.0,6.0,CCS
+211,Farmácia,Graduação,2020,F,87.0,21.0,CCS
+211,Farmácia,Graduação,2021,M,22.0,7.0,CCS
+211,Farmácia,Graduação,2021,F,83.0,56.0,CCS
+211,Farmácia,Graduação,2022,M,11.0,12.0,CCS
+211,Farmácia,Graduação,2022,F,88.0,50.0,CCS
+211,Farmácia,Graduação,2023,M,19.0,25.0,CCS
+211,Farmácia,Graduação,2023,F,91.0,43.0,CCS
+211,Farmácia,Graduação,TOTAL,M,216.0,95.0,CCS
+211,Farmácia,Graduação,TOTAL,F,862.0,523.0,CCS
+210,Fisioterapia,Graduação,2014,M,9.0,2.0,CCS
+210,Fisioterapia,Graduação,2014,F,42.0,24.0,CCS
+210,Fisioterapia,Graduação,2015,M,9.0,10.0,CCS
+210,Fisioterapia,Graduação,2015,F,43.0,33.0,CCS
+210,Fisioterapia,Graduação,2016,M,11.0,1.0,CCS
+210,Fisioterapia,Graduação,2016,F,50.0,34.0,CCS
+210,Fisioterapia,Graduação,2017,M,16.0,4.0,CCS
+210,Fisioterapia,Graduação,2017,F,34.0,18.0,CCS
+210,Fisioterapia,Graduação,2018,M,15.0,6.0,CCS
+210,Fisioterapia,Graduação,2018,F,41.0,31.0,CCS
+210,Fisioterapia,Graduação,2019,M,17.0,11.0,CCS
+210,Fisioterapia,Graduação,2019,F,43.0,33.0,CCS
+210,Fisioterapia,Graduação,2020,M,14.0,2.0,CCS
+210,Fisioterapia,Graduação,2020,F,43.0,6.0,CCS
+210,Fisioterapia,Graduação,2021,M,21.0,2.0,CCS
+210,Fisioterapia,Graduação,2021,F,30.0,23.0,CCS
+210,Fisioterapia,Graduação,2022,M,25.0,5.0,CCS
+210,Fisioterapia,Graduação,2022,F,32.0,21.0,CCS
+210,Fisioterapia,Graduação,2023,M,14.0,6.0,CCS
+210,Fisioterapia,Graduação,2023,F,36.0,29.0,CCS
+210,Fisioterapia,Graduação,TOTAL,M,151.0,49.0,CCS
+210,Fisioterapia,Graduação,TOTAL,F,394.0,252.0,CCS
+204,Fonoaudiologia,Graduação,2014,M,1.0,0.0,CCS
+204,Fonoaudiologia,Graduação,2014,F,31.0,16.0,CCS
+204,Fonoaudiologia,Graduação,2015,M,2.0,1.0,CCS
+204,Fonoaudiologia,Graduação,2015,F,29.0,24.0,CCS
+204,Fonoaudiologia,Graduação,2016,M,6.0,1.0,CCS
+204,Fonoaudiologia,Graduação,2016,F,25.0,30.0,CCS
+204,Fonoaudiologia,Graduação,2017,M,3.0,0.0,CCS
+204,Fonoaudiologia,Graduação,2017,F,30.0,18.0,CCS
+204,Fonoaudiologia,Graduação,2018,M,6.0,0.0,CCS
+204,Fonoaudiologia,Graduação,2018,F,28.0,25.0,CCS
+204,Fonoaudiologia,Graduação,2019,M,6.0,0.0,CCS
+204,Fonoaudiologia,Graduação,2019,F,31.0,5.0,CCS
+204,Fonoaudiologia,Graduação,2020,M,1.0,3.0,CCS
+204,Fonoaudiologia,Graduação,2020,F,36.0,19.0,CCS
+204,Fonoaudiologia,Graduação,2021,M,2.0,1.0,CCS
+204,Fonoaudiologia,Graduação,2021,F,29.0,5.0,CCS
+204,Fonoaudiologia,Graduação,2022,M,1.0,3.0,CCS
+204,Fonoaudiologia,Graduação,2022,F,31.0,33.0,CCS
+204,Fonoaudiologia,Graduação,2023,M,4.0,1.0,CCS
+204,Fonoaudiologia,Graduação,2023,F,40.0,15.0,CCS
+204,Fonoaudiologia,Graduação,TOTAL,M,32.0,10.0,CCS
+204,Fonoaudiologia,Graduação,TOTAL,F,310.0,190.0,CCS
+202,Medicina,Graduação,2014,F,77.0,46.0,CCS
+202,Medicina,Graduação,2014,M,73.0,49.0,CCS
+202,Medicina,Graduação,2015,F,63.0,54.0,CCS
+202,Medicina,Graduação,2015,M,65.0,61.0,CCS
+202,Medicina,Graduação,2016,M,73.0,47.0,CCS
+202,Medicina,Graduação,2016,F,52.0,50.0,CCS
+202,Medicina,Graduação,2017,M,63.0,49.0,CCS
+202,Medicina,Graduação,2017,F,73.0,62.0,CCS
+202,Medicina,Graduação,2018,F,66.0,60.0,CCS
+202,Medicina,Graduação,2018,M,68.0,61.0,CCS
+202,Medicina,Graduação,2019,M,80.0,51.0,CCS
+202,Medicina,Graduação,2019,F,55.0,68.0,CCS
+202,Medicina,Graduação,2020,F,57.0,48.0,CCS
+202,Medicina,Graduação,2020,M,74.0,64.0,CCS
+202,Medicina,Graduação,2021,F,59.0,56.0,CCS
+202,Medicina,Graduação,2021,M,71.0,64.0,CCS
+202,Medicina,Graduação,2022,F,85.0,20.0,CCS
+202,Medicina,Graduação,2022,M,100.0,27.0,CCS
+202,Medicina,Graduação,2023,M,65.0,61.0,CCS
+202,Medicina,Graduação,2023,F,62.0,63.0,CCS
+202,Medicina,Graduação,TOTAL,F,649.0,527.0,CCS
+202,Medicina,Graduação,TOTAL,M,732.0,534.0,CCS
+213,Nutrição,Graduação,2023,M,4.0,0.0,CCS
+213,Nutrição,Graduação,2023,F,15.0,0.0,CCS
+213,Nutrição,Graduação,TOTAL,M,4.0,0.0,CCS
+213,Nutrição,Graduação,TOTAL,F,15.0,0.0,CCS
+203,Odontologia,Graduação,2014,M,22.0,11.0,CCS
+203,Odontologia,Graduação,2014,F,58.0,49.0,CCS
+203,Odontologia,Graduação,2015,M,18.0,24.0,CCS
+203,Odontologia,Graduação,2015,F,57.0,37.0,CCS
+203,Odontologia,Graduação,2016,M,24.0,24.0,CCS
+203,Odontologia,Graduação,2016,F,55.0,39.0,CCS
+203,Odontologia,Graduação,2017,M,26.0,25.0,CCS
+203,Odontologia,Graduação,2017,F,50.0,52.0,CCS
+203,Odontologia,Graduação,2018,M,33.0,19.0,CCS
+203,Odontologia,Graduação,2018,F,57.0,40.0,CCS
+203,Odontologia,Graduação,2019,M,25.0,16.0,CCS
+203,Odontologia,Graduação,2019,F,46.0,53.0,CCS
+203,Odontologia,Graduação,2020,M,21.0,7.0,CCS
+203,Odontologia,Graduação,2020,F,59.0,20.0,CCS
+203,Odontologia,Graduação,2021,M,25.0,17.0,CCS
+203,Odontologia,Graduação,2021,F,52.0,36.0,CCS
+203,Odontologia,Graduação,2022,M,28.0,9.0,CCS
+203,Odontologia,Graduação,2022,F,50.0,22.0,CCS
+203,Odontologia,Graduação,2023,M,20.0,19.0,CCS
+203,Odontologia,Graduação,2023,F,54.0,47.0,CCS
+203,Odontologia,Graduação,TOTAL,M,242.0,171.0,CCS
+203,Odontologia,Graduação,TOTAL,F,538.0,395.0,CCS
+212,Terapia Ocupacional,Graduação,2014,M,6.0,1.0,CCS
+212,Terapia Ocupacional,Graduação,2014,F,72.0,35.0,CCS
+212,Terapia Ocupacional,Graduação,2015,M,7.0,3.0,CCS
+212,Terapia Ocupacional,Graduação,2015,F,63.0,40.0,CCS
+212,Terapia Ocupacional,Graduação,2016,M,5.0,3.0,CCS
+212,Terapia Ocupacional,Graduação,2016,F,68.0,53.0,CCS
+212,Terapia Ocupacional,Graduação,2017,M,13.0,5.0,CCS
+212,Terapia Ocupacional,Graduação,2017,F,61.0,64.0,CCS
+212,Terapia Ocupacional,Graduação,2018,M,5.0,4.0,CCS
+212,Terapia Ocupacional,Graduação,2018,F,71.0,43.0,CCS
+212,Terapia Ocupacional,Graduação,2019,M,7.0,6.0,CCS
+212,Terapia Ocupacional,Graduação,2019,F,73.0,43.0,CCS
+212,Terapia Ocupacional,Graduação,2020,M,6.0,1.0,CCS
+212,Terapia Ocupacional,Graduação,2020,F,73.0,12.0,CCS
+212,Terapia Ocupacional,Graduação,2021,M,2.0,0.0,CCS
+212,Terapia Ocupacional,Graduação,2021,F,68.0,23.0,CCS
+212,Terapia Ocupacional,Graduação,2022,M,4.0,2.0,CCS
+212,Terapia Ocupacional,Graduação,2022,F,33.0,48.0,CCS
+212,Terapia Ocupacional,Graduação,2023,M,4.0,0.0,CCS
+212,Terapia Ocupacional,Graduação,2023,F,38.0,35.0,CCS
+212,Terapia Ocupacional,Graduação,TOTAL,M,59.0,25.0,CCS
+212,Terapia Ocupacional,Graduação,TOTAL,F,620.0,396.0,CCS

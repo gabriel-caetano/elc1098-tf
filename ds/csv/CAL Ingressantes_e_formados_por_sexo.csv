@@ -1,0 +1,824 @@
+COD_CURSO,NOME_UNIDADE,NIVEL_CURSO,ANO,SEXO,INGRESSANTES,FORMADOS,CENTRO
+724,Artes Cênicas - Bacharelado,Graduação,2014,M,9.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2014,F,12.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2015,M,10.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2015,F,17.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2016,M,7.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2016,F,16.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2017,M,6.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2017,F,17.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2018,M,8.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2018,F,12.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2019,M,7.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2019,F,17.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2020,M,8.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2020,F,13.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2021,M,7.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2021,F,16.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2022,M,8.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2022,F,14.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2023,M,6.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,2023,F,14.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,TOTAL,M,76.0,0.0,CAL
+724,Artes Cênicas - Bacharelado,Graduação,TOTAL,F,148.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2014,F,5.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2014,M,4.0,1.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2015,M,4.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2015,F,1.0,1.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2016,F,1.0,1.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2016,M,1.0,2.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2017,F,6.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2017,M,2.0,1.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2018,M,2.0,2.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2018,F,5.0,2.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2019,F,2.0,1.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2019,M,2.0,1.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2020,M,3.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2020,F,4.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2021,F,2.0,1.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2021,M,4.0,1.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2022,M,1.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2022,F,4.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2023,F,7.0,0.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,2023,M,2.0,3.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,TOTAL,F,37.0,6.0,CAL
+725,Artes Cênicas - Direção Teatral,Graduação,TOTAL,M,25.0,11.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2014,M,1.0,3.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2014,F,4.0,4.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2015,M,8.0,3.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2015,F,5.0,4.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2016,M,2.0,4.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2016,F,9.0,9.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2017,M,4.0,3.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2017,F,7.0,8.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2018,M,1.0,3.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2018,F,8.0,4.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2019,M,3.0,3.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2019,F,8.0,3.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2020,M,4.0,0.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2020,F,5.0,0.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2021,M,4.0,4.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2021,F,9.0,6.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2022,M,6.0,2.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2022,F,7.0,5.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2023,M,1.0,2.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,2023,F,10.0,9.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,TOTAL,M,34.0,27.0,CAL
+726,Artes Cênicas - Interpretação Teatral,Graduação,TOTAL,F,72.0,52.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2014,M,22.0,7.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2014,F,29.0,17.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2015,M,15.0,9.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2015,F,19.0,10.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2016,M,14.0,4.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2016,F,30.0,11.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2017,M,10.0,7.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2017,F,22.0,7.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2018,M,10.0,10.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2018,F,24.0,16.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2019,M,12.0,11.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2019,F,20.0,14.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2020,M,17.0,0.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2020,F,22.0,9.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2021,M,6.0,4.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2021,F,27.0,11.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2022,M,12.0,8.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2022,F,20.0,8.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2023,M,16.0,3.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,2023,F,28.0,14.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,TOTAL,M,134.0,63.0,CAL
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,TOTAL,F,241.0,117.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2014,M,9.0,2.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2014,F,15.0,7.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2015,M,6.0,2.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2015,F,11.0,6.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2016,M,10.0,1.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2016,F,17.0,8.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2017,M,5.0,3.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2017,F,11.0,7.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2018,M,8.0,3.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2018,F,11.0,7.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2019,M,4.0,4.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2019,F,14.0,5.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2020,M,4.0,1.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2020,F,15.0,4.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2021,M,5.0,0.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2021,F,13.0,13.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2022,M,7.0,1.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2022,F,11.0,2.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2023,M,6.0,3.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,2023,F,9.0,11.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,TOTAL,M,64.0,20.0,CAL
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,TOTAL,F,127.0,70.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2014,M,9.0,0.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2014,F,24.0,3.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2015,M,16.0,1.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2015,F,38.0,4.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2016,M,28.0,1.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2016,F,52.0,2.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2017,M,16.0,2.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2017,F,40.0,5.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2018,M,7.0,3.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2018,F,25.0,10.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2019,M,17.0,3.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2019,F,46.0,11.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2020,M,15.0,0.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2020,F,46.0,2.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2021,M,9.0,1.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2021,F,40.0,7.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2022,M,9.0,1.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2022,F,29.0,9.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2023,M,16.0,2.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,2023,F,29.0,7.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,TOTAL,M,142.0,14.0,CAL
+757,Bacharelado em Letras-Português/Literaturas,Graduação,TOTAL,F,369.0,60.0,CAL
+762,Dança - Bacharelado,Graduação,2014,M,1.0,0.0,CAL
+762,Dança - Bacharelado,Graduação,2014,F,14.0,0.0,CAL
+762,Dança - Bacharelado,Graduação,2015,M,2.0,0.0,CAL
+762,Dança - Bacharelado,Graduação,2015,F,11.0,0.0,CAL
+762,Dança - Bacharelado,Graduação,2016,M,6.0,0.0,CAL
+762,Dança - Bacharelado,Graduação,2016,F,12.0,3.0,CAL
+762,Dança - Bacharelado,Graduação,2017,M,4.0,0.0,CAL
+762,Dança - Bacharelado,Graduação,2017,F,10.0,3.0,CAL
+762,Dança - Bacharelado,Graduação,2018,M,2.0,1.0,CAL
+762,Dança - Bacharelado,Graduação,2018,F,19.0,7.0,CAL
+762,Dança - Bacharelado,Graduação,2019,M,2.0,2.0,CAL
+762,Dança - Bacharelado,Graduação,2019,F,8.0,4.0,CAL
+762,Dança - Bacharelado,Graduação,2020,M,4.0,2.0,CAL
+762,Dança - Bacharelado,Graduação,2020,F,12.0,11.0,CAL
+762,Dança - Bacharelado,Graduação,2021,M,1.0,1.0,CAL
+762,Dança - Bacharelado,Graduação,2021,F,7.0,8.0,CAL
+762,Dança - Bacharelado,Graduação,2022,F,5.0,1.0,CAL
+762,Dança - Bacharelado,Graduação,2022,M,3.0,2.0,CAL
+762,Dança - Bacharelado,Graduação,2023,M,5.0,1.0,CAL
+762,Dança - Bacharelado,Graduação,2023,F,15.0,7.0,CAL
+762,Dança - Bacharelado,Graduação,TOTAL,M,30.0,9.0,CAL
+762,Dança - Bacharelado,Graduação,TOTAL,F,113.0,44.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2015,F,64.0,0.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2015,M,74.0,0.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2016,M,23.0,0.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2016,F,23.0,4.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2017,M,24.0,1.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2017,F,20.0,5.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2018,M,15.0,9.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2018,F,30.0,10.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2019,M,20.0,7.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2019,F,20.0,11.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2020,F,22.0,1.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2020,M,18.0,5.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2021,M,11.0,5.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2021,F,29.0,8.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2022,M,14.0,10.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2022,F,26.0,13.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2023,M,11.0,18.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,2023,F,30.0,23.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,TOTAL,M,210.0,55.0,CAL
+765,Desenho Industrial - Bacharelado,Graduação,TOTAL,F,264.0,75.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2014,F,7.0,5.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2014,M,13.0,7.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2015,F,0.0,3.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2015,M,0.0,6.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2016,F,0.0,5.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2016,M,0.0,5.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2017,M,0.0,2.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2017,F,0.0,6.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2018,F,0.0,3.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2019,M,0.0,2.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2020,F,0.0,1.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2022,M,0.0,1.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2023,F,0.0,1.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,2023,M,0.0,1.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,TOTAL,F,7.0,24.0,CAL
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,TOTAL,M,13.0,24.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2014,M,11.0,2.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2014,F,10.0,9.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2015,M,0.0,1.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2015,F,0.0,17.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2016,F,0.0,6.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2016,M,0.0,6.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2017,M,0.0,1.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2017,F,0.0,3.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2018,F,0.0,1.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,2019,F,0.0,1.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,TOTAL,M,11.0,10.0,CAL
+738,Desenho Industrial - Projeto de Produto,Graduação,TOTAL,F,10.0,37.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2014,M,12.0,3.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2014,F,32.0,15.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2015,M,10.0,3.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2015,F,41.0,27.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2016,M,8.0,6.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2016,F,30.0,24.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2017,M,15.0,2.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2017,F,21.0,12.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2018,M,13.0,7.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2018,F,37.0,18.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2019,M,11.0,1.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2019,F,24.0,16.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2020,M,9.0,4.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2020,F,35.0,6.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2021,M,7.0,6.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2021,F,29.0,11.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2022,M,10.0,7.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2022,F,25.0,17.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2023,M,11.0,4.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,2023,F,32.0,14.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,TOTAL,M,106.0,43.0,CAL
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,TOTAL,F,306.0,160.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2014,M,15.0,2.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2014,F,27.0,3.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2015,M,14.0,2.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2015,F,34.0,5.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2016,M,23.0,3.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2016,F,31.0,5.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2017,M,13.0,1.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2017,F,18.0,5.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2018,M,17.0,1.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2018,F,26.0,4.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2019,M,11.0,2.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2019,F,24.0,5.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2020,M,12.0,1.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2020,F,25.0,2.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2021,M,14.0,0.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2021,F,14.0,5.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2022,M,9.0,1.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2022,F,16.0,7.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2023,M,13.0,2.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,2023,F,19.0,7.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,TOTAL,M,141.0,15.0,CAL
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,TOTAL,F,234.0,48.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2014,M,16.0,6.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2014,F,32.0,15.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2015,M,19.0,2.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2015,F,32.0,11.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2016,M,19.0,0.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2016,F,31.0,7.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2017,M,12.0,7.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2017,F,29.0,7.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2018,M,16.0,5.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2018,F,30.0,7.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2019,M,18.0,7.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2019,F,28.0,8.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2020,M,12.0,0.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2020,F,27.0,12.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2021,M,9.0,3.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2021,F,29.0,4.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2022,M,9.0,6.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2022,F,26.0,8.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2023,M,22.0,4.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,2023,F,22.0,7.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,TOTAL,M,152.0,40.0,CAL
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,TOTAL,F,286.0,86.0,CAL
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,2014,M,7.0,0.0,CAL
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,2014,F,20.0,0.0,CAL
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,2015,F,0.0,9.0,CAL
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,2017,F,0.0,1.0,CAL
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,2018,M,0.0,1.0,CAL
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,2018,F,0.0,8.0,CAL
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,TOTAL,M,7.0,1.0,CAL
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,TOTAL,F,20.0,18.0,CAL
+753.EAD.18,Letras - Português e Literaturas/Distância/Balneário Pinhal/RS,Graduação,2014,M,7.0,0.0,CAL
+753.EAD.18,Letras - Português e Literaturas/Distância/Balneário Pinhal/RS,Graduação,2014,F,25.0,0.0,CAL
+753.EAD.18,Letras - Português e Literaturas/Distância/Balneário Pinhal/RS,Graduação,2018,M,0.0,2.0,CAL
+753.EAD.18,Letras - Português e Literaturas/Distância/Balneário Pinhal/RS,Graduação,2018,F,0.0,5.0,CAL
+753.EAD.18,Letras - Português e Literaturas/Distância/Balneário Pinhal/RS,Graduação,TOTAL,M,7.0,2.0,CAL
+753.EAD.18,Letras - Português e Literaturas/Distância/Balneário Pinhal/RS,Graduação,TOTAL,F,25.0,5.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2014,F,14.0,0.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2014,M,7.0,1.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2016,M,0.0,1.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2017,F,0.0,1.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2018,M,0.0,2.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2018,F,0.0,6.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2020,F,16.0,0.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2020,M,7.0,1.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,2021,F,5.0,0.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,TOTAL,M,14.0,5.0,CAL
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,TOTAL,F,35.0,7.0,CAL
+753.EAD.24,Letras - Português e Literaturas/Distância/Constantina/RS,Graduação,2020,F,7.0,0.0,CAL
+753.EAD.24,Letras - Português e Literaturas/Distância/Constantina/RS,Graduação,2021,M,1.0,0.0,CAL
+753.EAD.24,Letras - Português e Literaturas/Distância/Constantina/RS,Graduação,2021,F,10.0,0.0,CAL
+753.EAD.24,Letras - Português e Literaturas/Distância/Constantina/RS,Graduação,TOTAL,M,1.0,0.0,CAL
+753.EAD.24,Letras - Português e Literaturas/Distância/Constantina/RS,Graduação,TOTAL,F,17.0,0.0,CAL
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,2014,F,1.0,0.0,CAL
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,2014,M,1.0,1.0,CAL
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,2015,F,0.0,4.0,CAL
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,2016,F,0.0,1.0,CAL
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,2017,F,0.0,1.0,CAL
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,2017,M,0.0,1.0,CAL
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,TOTAL,M,1.0,2.0,CAL
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,TOTAL,F,1.0,6.0,CAL
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,2016,M,4.0,0.0,CAL
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,2016,F,26.0,0.0,CAL
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,2020,M,0.0,1.0,CAL
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,2020,F,0.0,9.0,CAL
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,2021,F,0.0,1.0,CAL
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,2023,F,0.0,1.0,CAL
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,TOTAL,M,4.0,1.0,CAL
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,TOTAL,F,26.0,11.0,CAL
+753.EAD.06,Letras - Português e Literaturas/Distância/Faxinal Soturno/,Graduação,2014,M,0.0,1.0,CAL
+753.EAD.06,Letras - Português e Literaturas/Distância/Faxinal Soturno/,Graduação,2016,F,0.0,1.0,CAL
+753.EAD.06,Letras - Português e Literaturas/Distância/Faxinal Soturno/,Graduação,TOTAL,F,0.0,1.0,CAL
+753.EAD.06,Letras - Português e Literaturas/Distância/Faxinal Soturno/,Graduação,TOTAL,M,0.0,1.0,CAL
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,2017,M,4.0,0.0,CAL
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,2017,F,37.0,0.0,CAL
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,2020,F,0.0,1.0,CAL
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,2021,M,0.0,1.0,CAL
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,2021,F,0.0,10.0,CAL
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,2022,F,0.0,1.0,CAL
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,TOTAL,M,4.0,1.0,CAL
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,TOTAL,F,37.0,12.0,CAL
+753.EAD.23,Letras - Português e Literaturas/Distância/Jaquirana/RS,Graduação,2017,M,3.0,0.0,CAL
+753.EAD.23,Letras - Português e Literaturas/Distância/Jaquirana/RS,Graduação,2017,F,47.0,0.0,CAL
+753.EAD.23,Letras - Português e Literaturas/Distância/Jaquirana/RS,Graduação,2021,M,0.0,2.0,CAL
+753.EAD.23,Letras - Português e Literaturas/Distância/Jaquirana/RS,Graduação,2021,F,0.0,14.0,CAL
+753.EAD.23,Letras - Português e Literaturas/Distância/Jaquirana/RS,Graduação,2022,F,0.0,1.0,CAL
+753.EAD.23,Letras - Português e Literaturas/Distância/Jaquirana/RS,Graduação,TOTAL,M,3.0,2.0,CAL
+753.EAD.23,Letras - Português e Literaturas/Distância/Jaquirana/RS,Graduação,TOTAL,F,47.0,15.0,CAL
+753.EAD.12,Letras - Português e Literaturas/Distância/Novo Hamburgo/RS,Graduação,2015,M,0.0,2.0,CAL
+753.EAD.12,Letras - Português e Literaturas/Distância/Novo Hamburgo/RS,Graduação,2015,F,0.0,3.0,CAL
+753.EAD.12,Letras - Português e Literaturas/Distância/Novo Hamburgo/RS,Graduação,2017,M,0.0,1.0,CAL
+753.EAD.12,Letras - Português e Literaturas/Distância/Novo Hamburgo/RS,Graduação,TOTAL,F,0.0,3.0,CAL
+753.EAD.12,Letras - Português e Literaturas/Distância/Novo Hamburgo/RS,Graduação,TOTAL,M,0.0,3.0,CAL
+753.EAD.17,Letras - Português e Literaturas/Distância/Palmeira da Missões/RS,Graduação,2017,F,0.0,4.0,CAL
+753.EAD.17,Letras - Português e Literaturas/Distância/Palmeira da Missões/RS,Graduação,2018,F,0.0,1.0,CAL
+753.EAD.17,Letras - Português e Literaturas/Distância/Palmeira da Missões/RS,Graduação,2018,M,0.0,1.0,CAL
+753.EAD.17,Letras - Português e Literaturas/Distância/Palmeira da Missões/RS,Graduação,TOTAL,M,0.0,1.0,CAL
+753.EAD.17,Letras - Português e Literaturas/Distância/Palmeira da Missões/RS,Graduação,TOTAL,F,0.0,5.0,CAL
+753.EAD.15,Letras - Português e Literaturas/Distância/Quaraí/RS,Graduação,2017,M,0.0,4.0,CAL
+753.EAD.15,Letras - Português e Literaturas/Distância/Quaraí/RS,Graduação,2017,F,0.0,5.0,CAL
+753.EAD.15,Letras - Português e Literaturas/Distância/Quaraí/RS,Graduação,2018,F,0.0,1.0,CAL
+753.EAD.15,Letras - Português e Literaturas/Distância/Quaraí/RS,Graduação,2019,F,0.0,1.0,CAL
+753.EAD.15,Letras - Português e Literaturas/Distância/Quaraí/RS,Graduação,TOTAL,M,0.0,4.0,CAL
+753.EAD.15,Letras - Português e Literaturas/Distância/Quaraí/RS,Graduação,TOTAL,F,0.0,7.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2014,F,1.0,0.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2014,M,1.0,1.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2015,F,1.0,0.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2017,M,0.0,1.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2017,F,0.0,4.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2018,F,0.0,1.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2020,M,4.0,0.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2020,F,24.0,0.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,2021,F,2.0,0.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,TOTAL,M,5.0,2.0,CAL
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,TOTAL,F,28.0,5.0,CAL
+753.EAD.21,Letras - Português e Literaturas/Distância/Santana da Boa Vista/RS,Graduação,2016,M,2.0,0.0,CAL
+753.EAD.21,Letras - Português e Literaturas/Distância/Santana da Boa Vista/RS,Graduação,2016,F,28.0,0.0,CAL
+753.EAD.21,Letras - Português e Literaturas/Distância/Santana da Boa Vista/RS,Graduação,2020,F,0.0,11.0,CAL
+753.EAD.21,Letras - Português e Literaturas/Distância/Santana da Boa Vista/RS,Graduação,2022,F,0.0,1.0,CAL
+753.EAD.21,Letras - Português e Literaturas/Distância/Santana da Boa Vista/RS,Graduação,TOTAL,M,2.0,0.0,CAL
+753.EAD.21,Letras - Português e Literaturas/Distância/Santana da Boa Vista/RS,Graduação,TOTAL,F,28.0,12.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,2015,M,0.0,1.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,2015,F,0.0,3.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,2016,M,2.0,0.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,2016,F,28.0,2.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,2020,F,0.0,11.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,2021,M,0.0,1.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,2023,F,0.0,2.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,TOTAL,M,2.0,2.0,CAL
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,TOTAL,F,28.0,18.0,CAL
+753.EAD.19,Letras - Português e Literaturas/Distância/São Francisco de Paula/RS,Graduação,2014,M,1.0,0.0,CAL
+753.EAD.19,Letras - Português e Literaturas/Distância/São Francisco de Paula/RS,Graduação,2014,F,17.0,0.0,CAL
+753.EAD.19,Letras - Português e Literaturas/Distância/São Francisco de Paula/RS,Graduação,2018,F,0.0,8.0,CAL
+753.EAD.19,Letras - Português e Literaturas/Distância/São Francisco de Paula/RS,Graduação,TOTAL,M,1.0,0.0,CAL
+753.EAD.19,Letras - Português e Literaturas/Distância/São Francisco de Paula/RS,Graduação,TOTAL,F,17.0,8.0,CAL
+753.EAD.02,Letras - Português e Literaturas/Distância/São Lourenço do Sul/RS,Graduação,2017,M,0.0,2.0,CAL
+753.EAD.02,Letras - Português e Literaturas/Distância/São Lourenço do Sul/RS,Graduação,2017,F,0.0,5.0,CAL
+753.EAD.02,Letras - Português e Literaturas/Distância/São Lourenço do Sul/RS,Graduação,TOTAL,M,0.0,2.0,CAL
+753.EAD.02,Letras - Português e Literaturas/Distância/São Lourenço do Sul/RS,Graduação,TOTAL,F,0.0,5.0,CAL
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,2016,M,7.0,0.0,CAL
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,2016,F,23.0,0.0,CAL
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,2017,F,0.0,1.0,CAL
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,2020,M,0.0,1.0,CAL
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,2020,F,0.0,12.0,CAL
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,2021,M,0.0,1.0,CAL
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,TOTAL,M,7.0,2.0,CAL
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,TOTAL,F,23.0,13.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,2014,F,0.0,2.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,2017,F,0.0,9.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,2018,F,0.0,1.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,2019,F,0.0,1.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,2020,M,4.0,0.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,2020,F,15.0,0.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,2021,M,2.0,0.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,2021,F,4.0,0.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,TOTAL,M,6.0,0.0,CAL
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,TOTAL,F,19.0,13.0,CAL
+753.EAD.14,Letras - Português e Literaturas/Distância/Três de Maio/RS,Graduação,2015,M,0.0,1.0,CAL
+753.EAD.14,Letras - Português e Literaturas/Distância/Três de Maio/RS,Graduação,2015,F,0.0,4.0,CAL
+753.EAD.14,Letras - Português e Literaturas/Distância/Três de Maio/RS,Graduação,2016,F,0.0,1.0,CAL
+753.EAD.14,Letras - Português e Literaturas/Distância/Três de Maio/RS,Graduação,2018,F,0.0,1.0,CAL
+753.EAD.14,Letras - Português e Literaturas/Distância/Três de Maio/RS,Graduação,TOTAL,M,0.0,1.0,CAL
+753.EAD.14,Letras - Português e Literaturas/Distância/Três de Maio/RS,Graduação,TOTAL,F,0.0,6.0,CAL
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,2014,M,0.0,1.0,CAL
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,2016,F,0.0,1.0,CAL
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,2020,M,3.0,0.0,CAL
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,2020,F,20.0,0.0,CAL
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,2021,M,1.0,0.0,CAL
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,2021,F,3.0,0.0,CAL
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,TOTAL,M,4.0,1.0,CAL
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,TOTAL,F,23.0,1.0,CAL
+753.EAD.16,Letras - Português e Literaturas/Distância/Vila Flores/RS,Graduação,2017,F,0.0,2.0,CAL
+753.EAD.16,Letras - Português e Literaturas/Distância/Vila Flores/RS,Graduação,TOTAL,F,0.0,2.0,CAL
+137.EAD.20,Licenc. Letras Espanhol - Literaturas/Distância/Cacequi/RS,Graduação,2020,M,1.0,0.0,CAL
+137.EAD.20,Licenc. Letras Espanhol - Literaturas/Distância/Cacequi/RS,Graduação,2020,F,2.0,0.0,CAL
+137.EAD.20,Licenc. Letras Espanhol - Literaturas/Distância/Cacequi/RS,Graduação,2021,F,2.0,0.0,CAL
+137.EAD.20,Licenc. Letras Espanhol - Literaturas/Distância/Cacequi/RS,Graduação,2021,M,2.0,0.0,CAL
+137.EAD.20,Licenc. Letras Espanhol - Literaturas/Distância/Cacequi/RS,Graduação,TOTAL,M,3.0,0.0,CAL
+137.EAD.20,Licenc. Letras Espanhol - Literaturas/Distância/Cacequi/RS,Graduação,TOTAL,F,4.0,0.0,CAL
+137.EAD.19,Licenc. Letras Espanhol - Literaturas/Distância/Constantina/RS,Graduação,2017,M,4.0,0.0,CAL
+137.EAD.19,Licenc. Letras Espanhol - Literaturas/Distância/Constantina/RS,Graduação,2017,F,20.0,0.0,CAL
+137.EAD.19,Licenc. Letras Espanhol - Literaturas/Distância/Constantina/RS,Graduação,2020,M,0.0,1.0,CAL
+137.EAD.19,Licenc. Letras Espanhol - Literaturas/Distância/Constantina/RS,Graduação,2020,F,0.0,4.0,CAL
+137.EAD.19,Licenc. Letras Espanhol - Literaturas/Distância/Constantina/RS,Graduação,2021,F,0.0,1.0,CAL
+137.EAD.19,Licenc. Letras Espanhol - Literaturas/Distância/Constantina/RS,Graduação,TOTAL,M,4.0,1.0,CAL
+137.EAD.19,Licenc. Letras Espanhol - Literaturas/Distância/Constantina/RS,Graduação,TOTAL,F,20.0,5.0,CAL
+137.EAD.18,Licenc. Letras Espanhol - Literaturas/Distância/Encantado/RS,Graduação,2014,M,3.0,0.0,CAL
+137.EAD.18,Licenc. Letras Espanhol - Literaturas/Distância/Encantado/RS,Graduação,2014,F,16.0,0.0,CAL
+137.EAD.18,Licenc. Letras Espanhol - Literaturas/Distância/Encantado/RS,Graduação,2016,F,1.0,0.0,CAL
+137.EAD.18,Licenc. Letras Espanhol - Literaturas/Distância/Encantado/RS,Graduação,2017,F,0.0,4.0,CAL
+137.EAD.18,Licenc. Letras Espanhol - Literaturas/Distância/Encantado/RS,Graduação,TOTAL,M,3.0,0.0,CAL
+137.EAD.18,Licenc. Letras Espanhol - Literaturas/Distância/Encantado/RS,Graduação,TOTAL,F,17.0,4.0,CAL
+137.EAD.11,Licenc. Letras Espanhol - Literaturas/Distância/Faxinal do Soturno,Graduação,2014,F,2.0,2.0,CAL
+137.EAD.11,Licenc. Letras Espanhol - Literaturas/Distância/Faxinal do Soturno,Graduação,2015,M,0.0,1.0,CAL
+137.EAD.11,Licenc. Letras Espanhol - Literaturas/Distância/Faxinal do Soturno,Graduação,2015,F,0.0,4.0,CAL
+137.EAD.11,Licenc. Letras Espanhol - Literaturas/Distância/Faxinal do Soturno,Graduação,2016,F,0.0,1.0,CAL
+137.EAD.11,Licenc. Letras Espanhol - Literaturas/Distância/Faxinal do Soturno,Graduação,TOTAL,M,0.0,1.0,CAL
+137.EAD.11,Licenc. Letras Espanhol - Literaturas/Distância/Faxinal do Soturno,Graduação,TOTAL,F,2.0,7.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2014,M,1.0,0.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2014,F,3.0,0.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2015,F,0.0,6.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2017,M,8.0,0.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2017,F,14.0,1.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2020,F,0.0,1.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2020,M,0.0,1.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2021,F,0.0,1.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,2023,F,0.0,1.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,TOTAL,M,9.0,1.0,CAL
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,TOTAL,F,17.0,10.0,CAL
+137.EAD.21,Licenc. Letras Espanhol - Literaturas/Distância/Jacuizinho/RS,Graduação,2020,M,1.0,0.0,CAL
+137.EAD.21,Licenc. Letras Espanhol - Literaturas/Distância/Jacuizinho/RS,Graduação,2020,F,11.0,0.0,CAL
+137.EAD.21,Licenc. Letras Espanhol - Literaturas/Distância/Jacuizinho/RS,Graduação,2021,F,1.0,0.0,CAL
+137.EAD.21,Licenc. Letras Espanhol - Literaturas/Distância/Jacuizinho/RS,Graduação,TOTAL,M,1.0,0.0,CAL
+137.EAD.21,Licenc. Letras Espanhol - Literaturas/Distância/Jacuizinho/RS,Graduação,TOTAL,F,12.0,0.0,CAL
+137.EAD.10,Licenc. Letras Espanhol - Literaturas/Distância/Jales/SP,Graduação,2015,F,0.0,1.0,CAL
+137.EAD.10,Licenc. Letras Espanhol - Literaturas/Distância/Jales/SP,Graduação,2015,M,0.0,1.0,CAL
+137.EAD.10,Licenc. Letras Espanhol - Literaturas/Distância/Jales/SP,Graduação,TOTAL,F,0.0,1.0,CAL
+137.EAD.10,Licenc. Letras Espanhol - Literaturas/Distância/Jales/SP,Graduação,TOTAL,M,0.0,1.0,CAL
+137.EAD.05,Licenc. Letras Espanhol - Literaturas/Distância/Jaquirana,Graduação,2014,F,0.0,1.0,CAL
+137.EAD.05,Licenc. Letras Espanhol - Literaturas/Distância/Jaquirana,Graduação,TOTAL,F,0.0,1.0,CAL
+137.EAD.15,Licenc. Letras Espanhol - Literaturas/Distância/Palmeira das Missões/RS,Graduação,2017,M,0.0,1.0,CAL
+137.EAD.15,Licenc. Letras Espanhol - Literaturas/Distância/Palmeira das Missões/RS,Graduação,2017,F,0.0,3.0,CAL
+137.EAD.15,Licenc. Letras Espanhol - Literaturas/Distância/Palmeira das Missões/RS,Graduação,2018,F,0.0,1.0,CAL
+137.EAD.15,Licenc. Letras Espanhol - Literaturas/Distância/Palmeira das Missões/RS,Graduação,TOTAL,M,0.0,1.0,CAL
+137.EAD.15,Licenc. Letras Espanhol - Literaturas/Distância/Palmeira das Missões/RS,Graduação,TOTAL,F,0.0,4.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2014,M,6.0,0.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2014,F,15.0,4.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2015,M,1.0,0.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2015,F,4.0,2.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2016,M,1.0,2.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2016,F,4.0,2.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2017,M,6.0,2.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2017,F,15.0,3.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2018,M,0.0,1.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2018,F,0.0,2.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2020,M,0.0,1.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2020,F,0.0,8.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,2022,F,0.0,1.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,TOTAL,M,14.0,6.0,CAL
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,TOTAL,F,38.0,22.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2014,M,11.0,0.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2014,F,14.0,0.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2015,M,3.0,0.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2015,F,7.0,0.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2016,M,2.0,0.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2016,F,14.0,2.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2017,M,0.0,3.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2017,F,0.0,13.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2018,F,0.0,2.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2018,M,0.0,2.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2019,F,0.0,1.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2019,M,0.0,1.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2020,M,4.0,0.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2020,F,21.0,2.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2021,M,2.0,0.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2021,F,1.0,2.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,2022,M,0.0,1.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,TOTAL,M,22.0,7.0,CAL
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,TOTAL,F,57.0,22.0,CAL
+137.EAD.22,Licenc. Letras Espanhol - Literaturas/Distância/Santo Antônio da Patrulha/RS,Graduação,2020,M,3.0,0.0,CAL
+137.EAD.22,Licenc. Letras Espanhol - Literaturas/Distância/Santo Antônio da Patrulha/RS,Graduação,2020,F,16.0,0.0,CAL
+137.EAD.22,Licenc. Letras Espanhol - Literaturas/Distância/Santo Antônio da Patrulha/RS,Graduação,2021,M,1.0,0.0,CAL
+137.EAD.22,Licenc. Letras Espanhol - Literaturas/Distância/Santo Antônio da Patrulha/RS,Graduação,2021,F,5.0,0.0,CAL
+137.EAD.22,Licenc. Letras Espanhol - Literaturas/Distância/Santo Antônio da Patrulha/RS,Graduação,TOTAL,M,4.0,0.0,CAL
+137.EAD.22,Licenc. Letras Espanhol - Literaturas/Distância/Santo Antônio da Patrulha/RS,Graduação,TOTAL,F,21.0,0.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2014,M,0.0,1.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2015,M,2.0,1.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2015,F,4.0,10.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2016,M,1.0,0.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2016,F,0.0,1.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2017,M,4.0,0.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2017,F,20.0,7.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2018,F,0.0,1.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2020,M,0.0,1.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,2020,F,0.0,8.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,TOTAL,M,7.0,3.0,CAL
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,TOTAL,F,24.0,27.0,CAL
+137.EAD.08,Licenc. Letras Espanhol - Literaturas/Distância/São Lourenço/RS,Graduação,2017,F,0.0,1.0,CAL
+137.EAD.08,Licenc. Letras Espanhol - Literaturas/Distância/São Lourenço/RS,Graduação,2017,M,0.0,2.0,CAL
+137.EAD.08,Licenc. Letras Espanhol - Literaturas/Distância/São Lourenço/RS,Graduação,TOTAL,F,0.0,1.0,CAL
+137.EAD.08,Licenc. Letras Espanhol - Literaturas/Distância/São Lourenço/RS,Graduação,TOTAL,M,0.0,2.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2014,F,1.0,0.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2014,M,1.0,0.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2015,M,1.0,1.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2015,F,0.0,12.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2017,M,6.0,0.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2017,F,18.0,0.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2020,M,0.0,1.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2020,F,0.0,5.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,2021,F,0.0,2.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,TOTAL,M,8.0,2.0,CAL
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,TOTAL,F,19.0,19.0,CAL
+137.EAD.09,Licenc. Letras Espanhol - Literaturas/Distância/Tapejara/RS,Graduação,2014,F,3.0,0.0,CAL
+137.EAD.09,Licenc. Letras Espanhol - Literaturas/Distância/Tapejara/RS,Graduação,2014,M,3.0,0.0,CAL
+137.EAD.09,Licenc. Letras Espanhol - Literaturas/Distância/Tapejara/RS,Graduação,2015,F,0.0,1.0,CAL
+137.EAD.09,Licenc. Letras Espanhol - Literaturas/Distância/Tapejara/RS,Graduação,2018,M,0.0,1.0,CAL
+137.EAD.09,Licenc. Letras Espanhol - Literaturas/Distância/Tapejara/RS,Graduação,TOTAL,F,3.0,1.0,CAL
+137.EAD.09,Licenc. Letras Espanhol - Literaturas/Distância/Tapejara/RS,Graduação,TOTAL,M,3.0,1.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2014,M,1.0,0.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2014,F,17.0,0.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2015,F,1.0,0.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2016,F,1.0,0.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2017,M,5.0,0.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2017,F,18.0,6.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2018,F,0.0,2.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2019,F,0.0,2.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2020,F,0.0,6.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,2021,F,0.0,1.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,TOTAL,M,6.0,0.0,CAL
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,TOTAL,F,37.0,17.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2014,M,3.0,0.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2014,F,14.0,0.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2015,M,1.0,1.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2015,F,2.0,6.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2016,F,1.0,1.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2017,M,0.0,4.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2017,F,0.0,10.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2018,F,0.0,1.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2018,M,0.0,1.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2019,F,0.0,1.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,2020,F,0.0,1.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,TOTAL,M,4.0,6.0,CAL
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,TOTAL,F,17.0,20.0,CAL
+137.EAD.23,Licenc. Letras Espanhol - Literaturas/Distância/Uruguaiana/RS,Graduação,2020,F,4.0,0.0,CAL
+137.EAD.23,Licenc. Letras Espanhol - Literaturas/Distância/Uruguaiana/RS,Graduação,2021,M,5.0,0.0,CAL
+137.EAD.23,Licenc. Letras Espanhol - Literaturas/Distância/Uruguaiana/RS,Graduação,2021,F,7.0,0.0,CAL
+137.EAD.23,Licenc. Letras Espanhol - Literaturas/Distância/Uruguaiana/RS,Graduação,TOTAL,M,5.0,0.0,CAL
+137.EAD.23,Licenc. Letras Espanhol - Literaturas/Distância/Uruguaiana/RS,Graduação,TOTAL,F,11.0,0.0,CAL
+137.EAD.12,Licenc. Letras Espanhol - Literaturas/Distância/Vila Flores,Graduação,2015,F,1.0,12.0,CAL
+137.EAD.12,Licenc. Letras Espanhol - Literaturas/Distância/Vila Flores,Graduação,2017,M,0.0,1.0,CAL
+137.EAD.12,Licenc. Letras Espanhol - Literaturas/Distância/Vila Flores,Graduação,2017,F,0.0,6.0,CAL
+137.EAD.12,Licenc. Letras Espanhol - Literaturas/Distância/Vila Flores,Graduação,TOTAL,M,0.0,1.0,CAL
+137.EAD.12,Licenc. Letras Espanhol - Literaturas/Distância/Vila Flores,Graduação,TOTAL,F,1.0,18.0,CAL
+756,Licenciatura em Teatro,Graduação,2014,M,5.0,4.0,CAL
+756,Licenciatura em Teatro,Graduação,2014,F,12.0,8.0,CAL
+756,Licenciatura em Teatro,Graduação,2015,M,10.0,2.0,CAL
+756,Licenciatura em Teatro,Graduação,2015,F,15.0,4.0,CAL
+756,Licenciatura em Teatro,Graduação,2016,M,8.0,1.0,CAL
+756,Licenciatura em Teatro,Graduação,2016,F,16.0,2.0,CAL
+756,Licenciatura em Teatro,Graduação,2017,M,12.0,1.0,CAL
+756,Licenciatura em Teatro,Graduação,2017,F,13.0,3.0,CAL
+756,Licenciatura em Teatro,Graduação,2018,M,11.0,2.0,CAL
+756,Licenciatura em Teatro,Graduação,2018,F,8.0,4.0,CAL
+756,Licenciatura em Teatro,Graduação,2019,F,13.0,1.0,CAL
+756,Licenciatura em Teatro,Graduação,2019,M,8.0,3.0,CAL
+756,Licenciatura em Teatro,Graduação,2020,M,9.0,4.0,CAL
+756,Licenciatura em Teatro,Graduação,2020,F,21.0,4.0,CAL
+756,Licenciatura em Teatro,Graduação,2021,M,8.0,3.0,CAL
+756,Licenciatura em Teatro,Graduação,2021,F,8.0,9.0,CAL
+756,Licenciatura em Teatro,Graduação,2022,F,15.0,1.0,CAL
+756,Licenciatura em Teatro,Graduação,2022,M,5.0,2.0,CAL
+756,Licenciatura em Teatro,Graduação,2023,M,10.0,4.0,CAL
+756,Licenciatura em Teatro,Graduação,2023,F,13.0,8.0,CAL
+756,Licenciatura em Teatro,Graduação,TOTAL,M,86.0,26.0,CAL
+756,Licenciatura em Teatro,Graduação,TOTAL,F,134.0,44.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2014,M,1.0,2.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2015,F,1.0,0.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2015,M,1.0,1.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2016,F,1.0,0.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2016,M,2.0,3.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2017,M,1.0,2.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2018,F,1.0,0.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2018,M,1.0,1.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2019,M,2.0,0.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2020,M,1.0,0.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2022,F,0.0,1.0,CAL
+754,Música - Bacharelado - Composição,Graduação,2023,F,1.0,0.0,CAL
+754,Música - Bacharelado - Composição,Graduação,TOTAL,F,4.0,1.0,CAL
+754,Música - Bacharelado - Composição,Graduação,TOTAL,M,9.0,9.0,CAL
+741,Música - Bacharelado Canto,Graduação,2014,M,1.0,0.0,CAL
+741,Música - Bacharelado Canto,Graduação,2014,F,3.0,0.0,CAL
+741,Música - Bacharelado Canto,Graduação,2015,F,1.0,0.0,CAL
+741,Música - Bacharelado Canto,Graduação,2016,M,2.0,0.0,CAL
+741,Música - Bacharelado Canto,Graduação,2016,F,4.0,0.0,CAL
+741,Música - Bacharelado Canto,Graduação,2017,F,2.0,0.0,CAL
+741,Música - Bacharelado Canto,Graduação,2018,F,1.0,2.0,CAL
+741,Música - Bacharelado Canto,Graduação,2019,F,2.0,4.0,CAL
+741,Música - Bacharelado Canto,Graduação,2020,M,1.0,0.0,CAL
+741,Música - Bacharelado Canto,Graduação,2020,F,1.0,1.0,CAL
+741,Música - Bacharelado Canto,Graduação,2021,M,0.0,2.0,CAL
+741,Música - Bacharelado Canto,Graduação,2021,F,1.0,2.0,CAL
+741,Música - Bacharelado Canto,Graduação,2023,F,1.0,1.0,CAL
+741,Música - Bacharelado Canto,Graduação,TOTAL,M,4.0,2.0,CAL
+741,Música - Bacharelado Canto,Graduação,TOTAL,F,16.0,10.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2014,M,1.0,0.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2015,M,3.0,0.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2015,F,0.0,1.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2016,F,1.0,0.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2016,M,2.0,0.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2017,M,1.0,2.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2018,M,2.0,0.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2019,M,1.0,1.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2021,M,0.0,1.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2022,M,1.0,1.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,2023,M,0.0,1.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,TOTAL,F,1.0,1.0,CAL
+742,Música - Bacharelado Clarineta,Graduação,TOTAL,M,11.0,6.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2014,M,0.0,1.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2018,M,3.0,0.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2018,F,4.0,1.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2019,F,1.0,0.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2019,M,1.0,0.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2020,M,1.0,0.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2022,M,1.0,0.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2022,F,1.0,1.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,2023,F,0.0,1.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,TOTAL,M,6.0,1.0,CAL
+743,Música - Bacharelado Flauta Transversa,Graduação,TOTAL,F,6.0,3.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2014,M,1.0,1.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2015,M,0.0,1.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2016,M,1.0,0.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2016,F,2.0,0.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2017,M,1.0,1.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2018,M,0.0,1.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2019,F,1.0,0.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2019,M,0.0,2.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2020,F,1.0,0.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2020,M,1.0,0.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2021,F,1.0,2.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2022,M,2.0,0.0,CAL
+744,Música - Bacharelado Percussão,Graduação,2023,M,1.0,1.0,CAL
+744,Música - Bacharelado Percussão,Graduação,TOTAL,F,5.0,2.0,CAL
+744,Música - Bacharelado Percussão,Graduação,TOTAL,M,7.0,7.0,CAL
+745,Música - Bacharelado Piano,Graduação,2014,F,0.0,1.0,CAL
+745,Música - Bacharelado Piano,Graduação,2014,M,2.0,1.0,CAL
+745,Música - Bacharelado Piano,Graduação,2015,M,1.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,2015,F,1.0,1.0,CAL
+745,Música - Bacharelado Piano,Graduação,2016,M,3.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,2017,F,1.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,2017,M,3.0,2.0,CAL
+745,Música - Bacharelado Piano,Graduação,2018,M,2.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,2018,F,4.0,1.0,CAL
+745,Música - Bacharelado Piano,Graduação,2019,F,2.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,2019,M,0.0,2.0,CAL
+745,Música - Bacharelado Piano,Graduação,2020,F,1.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,2020,M,2.0,2.0,CAL
+745,Música - Bacharelado Piano,Graduação,2021,F,0.0,1.0,CAL
+745,Música - Bacharelado Piano,Graduação,2021,M,2.0,2.0,CAL
+745,Música - Bacharelado Piano,Graduação,2022,M,5.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,2023,F,1.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,2023,M,1.0,0.0,CAL
+745,Música - Bacharelado Piano,Graduação,TOTAL,F,10.0,4.0,CAL
+745,Música - Bacharelado Piano,Graduação,TOTAL,M,21.0,9.0,CAL
+746,Música - Bacharelado Trombone,Graduação,2015,M,0.0,2.0,CAL
+746,Música - Bacharelado Trombone,Graduação,2016,M,3.0,0.0,CAL
+746,Música - Bacharelado Trombone,Graduação,2018,M,4.0,0.0,CAL
+746,Música - Bacharelado Trombone,Graduação,2019,M,2.0,0.0,CAL
+746,Música - Bacharelado Trombone,Graduação,2021,M,1.0,3.0,CAL
+746,Música - Bacharelado Trombone,Graduação,2022,M,1.0,0.0,CAL
+746,Música - Bacharelado Trombone,Graduação,TOTAL,M,11.0,5.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2015,M,2.0,0.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2016,M,0.0,1.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2017,F,1.0,0.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2017,M,3.0,0.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2018,M,5.0,3.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2019,M,3.0,1.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2020,M,2.0,0.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2022,F,0.0,1.0,CAL
+748,Música - Bacharelado Trompete,Graduação,2023,M,0.0,3.0,CAL
+748,Música - Bacharelado Trompete,Graduação,TOTAL,F,1.0,1.0,CAL
+748,Música - Bacharelado Trompete,Graduação,TOTAL,M,15.0,8.0,CAL
+749,Música - Bacharelado Viola,Graduação,2016,F,1.0,0.0,CAL
+749,Música - Bacharelado Viola,Graduação,2020,M,2.0,0.0,CAL
+749,Música - Bacharelado Viola,Graduação,2021,F,1.0,0.0,CAL
+749,Música - Bacharelado Viola,Graduação,2021,M,1.0,0.0,CAL
+749,Música - Bacharelado Viola,Graduação,2022,M,1.0,0.0,CAL
+749,Música - Bacharelado Viola,Graduação,TOTAL,F,2.0,0.0,CAL
+749,Música - Bacharelado Viola,Graduação,TOTAL,M,4.0,0.0,CAL
+750,Música - Bacharelado Violão,Graduação,2014,M,2.0,1.0,CAL
+750,Música - Bacharelado Violão,Graduação,2015,F,1.0,0.0,CAL
+750,Música - Bacharelado Violão,Graduação,2015,M,2.0,4.0,CAL
+750,Música - Bacharelado Violão,Graduação,2016,M,3.0,0.0,CAL
+750,Música - Bacharelado Violão,Graduação,2017,M,2.0,1.0,CAL
+750,Música - Bacharelado Violão,Graduação,2018,M,3.0,1.0,CAL
+750,Música - Bacharelado Violão,Graduação,2019,M,4.0,2.0,CAL
+750,Música - Bacharelado Violão,Graduação,2020,F,0.0,1.0,CAL
+750,Música - Bacharelado Violão,Graduação,2020,M,2.0,2.0,CAL
+750,Música - Bacharelado Violão,Graduação,2021,M,1.0,1.0,CAL
+750,Música - Bacharelado Violão,Graduação,2022,M,1.0,1.0,CAL
+750,Música - Bacharelado Violão,Graduação,2023,M,1.0,1.0,CAL
+750,Música - Bacharelado Violão,Graduação,TOTAL,F,1.0,1.0,CAL
+750,Música - Bacharelado Violão,Graduação,TOTAL,M,21.0,14.0,CAL
+751,Música - Bacharelado Violino,Graduação,2014,F,1.0,2.0,CAL
+751,Música - Bacharelado Violino,Graduação,2015,M,1.0,0.0,CAL
+751,Música - Bacharelado Violino,Graduação,2015,F,2.0,1.0,CAL
+751,Música - Bacharelado Violino,Graduação,2016,F,2.0,0.0,CAL
+751,Música - Bacharelado Violino,Graduação,2016,M,0.0,2.0,CAL
+751,Música - Bacharelado Violino,Graduação,2017,F,1.0,0.0,CAL
+751,Música - Bacharelado Violino,Graduação,2018,F,0.0,1.0,CAL
+751,Música - Bacharelado Violino,Graduação,2019,F,2.0,2.0,CAL
+751,Música - Bacharelado Violino,Graduação,2020,M,5.0,0.0,CAL
+751,Música - Bacharelado Violino,Graduação,2021,F,1.0,1.0,CAL
+751,Música - Bacharelado Violino,Graduação,2022,F,1.0,2.0,CAL
+751,Música - Bacharelado Violino,Graduação,TOTAL,M,6.0,2.0,CAL
+751,Música - Bacharelado Violino,Graduação,TOTAL,F,10.0,9.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2014,M,1.0,0.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2015,M,0.0,2.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2016,M,1.0,0.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2017,F,1.0,0.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2018,F,0.0,1.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2019,F,1.0,0.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2019,M,2.0,0.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2020,F,1.0,0.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2020,M,1.0,0.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2021,F,0.0,1.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2022,M,1.0,0.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,2022,F,0.0,1.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,TOTAL,M,6.0,2.0,CAL
+752,Música - Bacharelado Violoncelo,Graduação,TOTAL,F,3.0,3.0,CAL
+734,Música - Licenciatura Plena,Graduação,2014,M,12.0,1.0,CAL
+734,Música - Licenciatura Plena,Graduação,2014,F,5.0,3.0,CAL
+734,Música - Licenciatura Plena,Graduação,2015,F,9.0,4.0,CAL
+734,Música - Licenciatura Plena,Graduação,2015,M,9.0,4.0,CAL
+734,Música - Licenciatura Plena,Graduação,2016,F,6.0,3.0,CAL
+734,Música - Licenciatura Plena,Graduação,2016,M,15.0,4.0,CAL
+734,Música - Licenciatura Plena,Graduação,2017,F,6.0,0.0,CAL
+734,Música - Licenciatura Plena,Graduação,2017,M,8.0,1.0,CAL
+734,Música - Licenciatura Plena,Graduação,2018,F,6.0,2.0,CAL
+734,Música - Licenciatura Plena,Graduação,2018,M,11.0,3.0,CAL
+734,Música - Licenciatura Plena,Graduação,2019,M,5.0,4.0,CAL
+734,Música - Licenciatura Plena,Graduação,2019,F,6.0,4.0,CAL
+734,Música - Licenciatura Plena,Graduação,2020,F,2.0,1.0,CAL
+734,Música - Licenciatura Plena,Graduação,2020,M,9.0,2.0,CAL
+734,Música - Licenciatura Plena,Graduação,2021,F,1.0,5.0,CAL
+734,Música - Licenciatura Plena,Graduação,2021,M,5.0,6.0,CAL
+734,Música - Licenciatura Plena,Graduação,2022,M,7.0,2.0,CAL
+734,Música - Licenciatura Plena,Graduação,2022,F,2.0,4.0,CAL
+734,Música - Licenciatura Plena,Graduação,2023,M,5.0,2.0,CAL
+734,Música - Licenciatura Plena,Graduação,2023,F,7.0,3.0,CAL
+734,Música - Licenciatura Plena,Graduação,TOTAL,F,50.0,29.0,CAL
+734,Música - Licenciatura Plena,Graduação,TOTAL,M,86.0,29.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2014,F,1.0,0.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2014,M,0.0,2.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2016,F,1.0,0.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2016,M,1.0,0.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2017,M,1.0,0.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2019,M,0.0,1.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2020,M,1.0,0.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2021,F,1.0,0.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,2021,M,1.0,1.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,TOTAL,F,3.0,0.0,CAL
+755,Música Bacharelado - Contrabaixo,Graduação,TOTAL,M,4.0,4.0,CAL
+760,Música Bacharelado - Fagote,Graduação,2014,M,2.0,0.0,CAL
+760,Música Bacharelado - Fagote,Graduação,2015,F,1.0,0.0,CAL
+760,Música Bacharelado - Fagote,Graduação,2020,M,3.0,0.0,CAL
+760,Música Bacharelado - Fagote,Graduação,2021,M,0.0,2.0,CAL
+760,Música Bacharelado - Fagote,Graduação,TOTAL,F,1.0,0.0,CAL
+760,Música Bacharelado - Fagote,Graduação,TOTAL,M,5.0,2.0,CAL
+759,Música Bacharelado - Oboé,Graduação,2015,F,2.0,0.0,CAL
+759,Música Bacharelado - Oboé,Graduação,2018,M,2.0,0.0,CAL
+759,Música Bacharelado - Oboé,Graduação,2019,F,0.0,1.0,CAL
+759,Música Bacharelado - Oboé,Graduação,2020,F,3.0,0.0,CAL
+759,Música Bacharelado - Oboé,Graduação,TOTAL,M,2.0,0.0,CAL
+759,Música Bacharelado - Oboé,Graduação,TOTAL,F,5.0,1.0,CAL
+764,Música Bacharelado - Tuba,Graduação,2015,M,1.0,0.0,CAL
+764,Música Bacharelado - Tuba,Graduação,2018,M,1.0,0.0,CAL
+764,Música Bacharelado - Tuba,Graduação,2019,M,1.0,0.0,CAL
+764,Música Bacharelado - Tuba,Graduação,TOTAL,M,3.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2014,F,2.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2014,M,13.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2015,M,14.0,1.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2016,F,2.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2016,M,12.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2017,F,1.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2017,M,12.0,5.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2018,F,1.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2018,M,11.0,6.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2019,F,2.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2019,M,8.0,7.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2020,F,1.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2020,M,8.0,4.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2021,F,2.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2021,M,11.0,4.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2022,M,4.0,4.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2023,F,4.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,2023,M,15.0,3.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,TOTAL,F,15.0,0.0,CAL
+761,Música e Tecnologia - Bacharelado,Graduação,TOTAL,M,108.0,34.0,CAL
