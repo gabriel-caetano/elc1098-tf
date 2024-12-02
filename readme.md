@@ -24,7 +24,10 @@ documentação:
 - descrever scripts criados para organizar os dados
 - - padronizar arquivos como csv (convert_csv.py)
 - - unir arquivos do mesmo formato (unir.py)
+- - Transformar tabela de situação para ter uma coluna por situação com a quantidade de alunos em cada situação e uma coluna com o total de alunos
+
 
 - identificar análises que podemos realizar
+- - usar regressão na tabela de situação transformada para estimar a evolução da taxa de aprovação (% de alunos aprovados ou outras situações) por ano, prevendo anos futuros
 
 - descrever scripts criados para realizar análises
