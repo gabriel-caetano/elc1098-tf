@@ -11,7 +11,7 @@ proposta de plotagem:
 gráfico de aprov/reprov/reprov-freq x ano (3 linhas por cor)
 
 
-original -> csv -> manual -> união ->
+original -> csv -> manual -> união -> plots
 documentação:
 - avaliação dos dados
 - descrever problemas identificados

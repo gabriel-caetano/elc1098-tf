@@ -1,4 +1,2 @@
-kdd/lib
-kdd/lib64
-kdd/include
-kdd/bin
+kdd
+kdd/*
