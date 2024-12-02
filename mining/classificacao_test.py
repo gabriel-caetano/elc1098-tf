@@ -73,4 +73,5 @@ novo_ingressante = pd.DataFrame({
 predicao = tree_model.predict(novo_ingressante)
 print(f'O centro previsto para a entrada é: {le.inverse_transform(predicao)[0]}')
 
-
+from sklearn.metrics import classification_report
+print(classification_report(y_test, y_pred))
