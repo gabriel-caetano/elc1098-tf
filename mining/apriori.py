@@ -18,11 +18,11 @@ dados['Reprovado'] = ((dados['%'] > 50) & (dados['Situação'] == 'Reprovado')).
 dados_binario = pd.get_dummies(dados[['Semestre', 'Cód. Disciplina']], prefix='', prefix_sep='')
 dados_binario['Aprovado'] = dados['Aprovado']
 dados_binario['Reprovado'] = dados['Reprovado']
-dados_binario = dados_binario.astype(int)
+dados_binario = dados_binario.astype(bool)
 
 # Aplicar Apriori
 itens_frequentes = apriori(dados_binario, min_support=0.001, use_colnames=True)
-regras = association_rules(itens_frequentes, metric="confidence", min_threshold=0.1)
+regras = association_rules(itens_frequentes, metric="confidence", min_threshold=0.1, num_itemsets=10)
 
 # Selecionar saida de regras resumida e organizada
 regras['count'] = regras['support'] * len(dados_binario)
