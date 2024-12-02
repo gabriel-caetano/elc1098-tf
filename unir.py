@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-origin_path = 'ds/Correção Manual'
+origin_path = 'ds/manual'
 dest_path = 'ds/União'
 
 dfs = []
