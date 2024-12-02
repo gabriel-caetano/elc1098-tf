@@ -32,7 +32,7 @@ for centro in centros:
     print(f"salvo Ingressantes_Formados_Ano_{centro}.png")
 
     # Distribuição por sexo
-    data_by_sex = df.groupby('SEXO')[['INGRESSANTES', 'FORMADOS']].sum()
+    data_by_sex = centro_df.groupby('SEXO')[['INGRESSANTES', 'FORMADOS']].sum()
     data_by_sex.plot(kind='bar', figsize=(8, 5), color=['skyblue', 'orange'])
     plt.title(f'Distribuição de Ingressantes e Formados por Sexo ({centro})')
     plt.xlabel('Sexo')
