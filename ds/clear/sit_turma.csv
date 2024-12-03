@@ -8,110 +8,19 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2021,1. Semestre,D200888,14,P888402148,305,Engenharia Química,33,0,0,2,0,65,0,16,0,0,1,0,31,0,48,100
 2021,1. Semestre,D200888,50,P148855320,302,Engenharia Civil,0,0,0,0,0,100,0,0,0,0,0,0,2,0,2,100
 2021,1. Semestre,D200888,50,P148855320,313,Curso de Engenharia de Produção,0,0,0,0,0,100,0,0,0,0,0,0,13,0,13,100
-2021,1. Semestre,D320199,10,A148855320200,303,Engenharia Elétrica,9,0,0,0,0,10,0,22,0,0,1,0,24,1,48,19
-2021,1. Semestre,D320199,10,A380683888642,303,Engenharia Elétrica,9,0,0,0,0,10,0,22,0,0,1,0,24,1,48,19
-2021,1. Semestre,D320199,10,A512642218320,303,Engenharia Elétrica,9,0,0,0,0,10,0,22,0,0,1,0,24,1,48,19
-2021,1. Semestre,D320199,10,A855200218200,303,Engenharia Elétrica,9,0,0,0,0,10,0,22,0,0,1,0,24,1,48,19
-2021,1. Semestre,D320199,10,A893683855461,303,Engenharia Elétrica,9,0,0,0,0,10,0,22,0,0,1,0,24,1,48,19
 2021,1. Semestre,D320199,11,A218148855402,110,Química Industrial,100,0,0,0,0,0,0,18,0,0,0,0,0,0,18,100
 2021,1. Semestre,D320199,11,A218148855402,133,Química - Bacharelado,75,4,4,4,0,13,0,18,1,1,1,0,3,0,24,100
-2021,1. Semestre,D320199,12,A148855320200,304,Engenharia Mecânica,1,1,1,1,0,16,0,2,2,3,3,0,40,1,51,20
-2021,1. Semestre,D320199,12,A380683888642,304,Engenharia Mecânica,1,1,1,1,0,16,0,2,2,3,3,0,40,1,51,20
-2021,1. Semestre,D320199,12,A512642218320,304,Engenharia Mecânica,1,1,1,1,0,16,0,2,2,3,3,0,40,1,51,20
-2021,1. Semestre,D320199,12,A855200218200,304,Engenharia Mecânica,1,1,1,1,0,16,0,2,2,3,3,0,40,1,51,20
-2021,1. Semestre,D320199,12,A893683855461,304,Engenharia Mecânica,1,1,1,1,0,16,0,2,2,3,3,0,40,1,51,20
 2021,1. Semestre,D320199,13,A292200218320,307,Ciência da Computação - Bacharelado,82,5,0,0,0,12,0,60,4,0,0,0,9,0,73,99
-2021,1. Semestre,D320199,14,A148855320200,302,Engenharia Civil,4,0,1,2,0,12,0,10,1,3,5,0,31,0,50,19
-2021,1. Semestre,D320199,14,A380683888642,302,Engenharia Civil,4,0,1,2,0,12,0,10,1,3,5,0,31,0,50,19
-2021,1. Semestre,D320199,14,A512642218320,302,Engenharia Civil,4,0,1,2,0,12,0,10,1,3,5,0,31,0,50,19
-2021,1. Semestre,D320199,14,A855200218200,302,Engenharia Civil,4,0,1,2,0,12,0,10,1,3,5,0,31,0,50,19
-2021,1. Semestre,D320199,14,A893683855461,302,Engenharia Civil,4,0,1,2,0,12,0,10,1,3,5,0,31,0,50,19
 2021,1. Semestre,D320199,50,A218148855402,302,Engenharia Civil,100,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100
 2021,1. Semestre,D320199,50,A218148855402,305,Engenharia Química,100,0,0,0,0,0,0,2,0,0,0,0,0,0,2,100
 2021,1. Semestre,D320199,50,A218148855402,311,Curso de Engenharia Acústica,100,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100
 2021,1. Semestre,D320199,50,A218148855402,313,Curso de Engenharia de Produção,66,0,3,9,0,22,0,21,0,1,3,0,7,0,32,100
 2021,1. Semestre,D320199,50,A218148855402,315,Curso de Engenharia Aeroespacial,0,0,0,0,0,100,0,0,0,0,0,0,1,0,1,100
-2021,1. Semestre,D320199,15,A148855320200,315,Curso de Engenharia Aeroespacial,11,1,0,0,0,8,0,29,2,0,1,0,21,0,53,20
-2021,1. Semestre,D320199,15,A380683888642,315,Curso de Engenharia Aeroespacial,11,1,0,0,0,8,0,29,2,0,1,0,21,0,53,20
-2021,1. Semestre,D320199,15,A512642218320,315,Curso de Engenharia Aeroespacial,11,1,0,0,0,8,0,29,2,0,1,0,21,0,53,20
-2021,1. Semestre,D320199,15,A855200218200,315,Curso de Engenharia Aeroespacial,11,1,0,0,0,8,0,29,2,0,1,0,21,0,53,20
-2021,1. Semestre,D320199,15,A893683855461,315,Curso de Engenharia Aeroespacial,11,1,0,0,0,8,0,29,2,0,1,0,21,0,53,20
 2021,1. Semestre,D320199,16,A806200978642,316,Curso de Engenharia de Telecomunicações,53,4,0,9,0,35,0,29,2,0,5,0,19,0,55,101
-2021,1. Semestre,D320199,17,A148855320200,305,Engenharia Química,7,1,0,2,0,9,0,17,3,1,5,0,21,0,47,19
-2021,1. Semestre,D320199,17,A380683888642,305,Engenharia Química,7,1,0,2,0,9,0,17,3,1,5,0,21,0,47,19
-2021,1. Semestre,D320199,17,A512642218320,305,Engenharia Química,7,1,0,2,0,9,0,17,3,1,5,0,21,0,47,19
-2021,1. Semestre,D320199,17,A855200218200,305,Engenharia Química,7,1,0,2,0,9,0,17,3,1,5,0,21,0,47,19
-2021,1. Semestre,D320199,17,A893683855461,305,Engenharia Química,7,1,0,2,0,9,0,17,3,1,5,0,21,0,47,19
 2021,1. Semestre,D320199,18,A893683855461,109,Química - Licenciatura,6,6,3,8,0,75,3,2,2,1,3,0,27,1,36,101
 2021,1. Semestre,D320199,19,A642946200380,402,Engenharia Florestal,41,0,0,3,0,52,3,25,0,0,2,0,32,2,61,99
-2021,1. Semestre,D320200,10,B200380461148,309,Curso de Engenharia Sanitária e Ambiental,3,0,0,2,0,12,0,4,0,0,2,0,15,0,21,17
-2021,1. Semestre,D320200,10,B200380461148,313,Curso de Engenharia de Produção,3,0,0,0,0,13,1,6,0,0,0,0,30,2,38,17
-2021,1. Semestre,D320200,10,B292200218320,309,Curso de Engenharia Sanitária e Ambiental,3,0,0,2,0,12,0,4,0,0,2,0,15,0,21,17
-2021,1. Semestre,D320200,10,B292200218320,313,Curso de Engenharia de Produção,3,0,0,0,0,13,1,6,0,0,0,0,30,2,38,17
-2021,1. Semestre,D320200,10,B320888200683,309,Curso de Engenharia Sanitária e Ambiental,3,0,0,2,0,12,0,4,0,0,2,0,15,0,21,17
-2021,1. Semestre,D320200,10,B320888200683,313,Curso de Engenharia de Produção,3,0,0,0,0,13,1,6,0,0,0,0,30,2,38,17
-2021,1. Semestre,D320200,10,B461200642855,309,Curso de Engenharia Sanitária e Ambiental,3,0,0,2,0,12,0,4,0,0,2,0,15,0,21,17
-2021,1. Semestre,D320200,10,B461200642855,313,Curso de Engenharia de Produção,3,0,0,0,0,13,1,6,0,0,0,0,30,2,38,17
-2021,1. Semestre,D320200,10,B512402380642,309,Curso de Engenharia Sanitária e Ambiental,3,0,0,2,0,12,0,4,0,0,2,0,15,0,21,17
-2021,1. Semestre,D320200,10,B512402380642,313,Curso de Engenharia de Produção,3,0,0,0,0,13,1,6,0,0,0,0,30,2,38,17
-2021,1. Semestre,D320200,10,B888642512642,309,Curso de Engenharia Sanitária e Ambiental,3,0,0,2,0,12,0,4,0,0,2,0,15,0,21,17
-2021,1. Semestre,D320200,10,B888642512642,313,Curso de Engenharia de Produção,3,0,0,0,0,13,1,6,0,0,0,0,30,2,38,17
-2021,1. Semestre,D320200,11,B200380461148,312,Curso de Engenharia de Computação,3,0,0,1,0,12,1,5,0,0,1,0,17,1,24,17
-2021,1. Semestre,D320200,11,B292200218320,312,Curso de Engenharia de Computação,3,0,0,1,0,12,1,5,0,0,1,0,17,1,24,17
-2021,1. Semestre,D320200,11,B320888200683,312,Curso de Engenharia de Computação,3,0,0,1,0,12,1,5,0,0,1,0,17,1,24,17
-2021,1. Semestre,D320200,11,B461200642855,312,Curso de Engenharia de Computação,3,0,0,1,0,12,1,5,0,0,1,0,17,1,24,17
-2021,1. Semestre,D320200,11,B512402380642,312,Curso de Engenharia de Computação,3,0,0,1,0,12,1,5,0,0,1,0,17,1,24,17
-2021,1. Semestre,D320200,11,B888642512642,312,Curso de Engenharia de Computação,3,0,0,1,0,12,1,5,0,0,1,0,17,1,24,17
-2021,1. Semestre,D320200,12,B200380461148,302,Engenharia Civil,3,0,0,0,0,12,1,7,0,0,1,0,28,2,38,16
-2021,1. Semestre,D320200,12,B292200218320,302,Engenharia Civil,3,0,0,0,0,12,1,7,0,0,1,0,28,2,38,16
-2021,1. Semestre,D320200,12,B320888200683,302,Engenharia Civil,3,0,0,0,0,12,1,7,0,0,1,0,28,2,38,16
-2021,1. Semestre,D320200,12,B461200642855,302,Engenharia Civil,3,0,0,0,0,12,1,7,0,0,1,0,28,2,38,16
-2021,1. Semestre,D320200,12,B512402380642,302,Engenharia Civil,3,0,0,0,0,12,1,7,0,0,1,0,28,2,38,16
-2021,1. Semestre,D320200,12,B888642512642,302,Engenharia Civil,3,0,0,0,0,12,1,7,0,0,1,0,28,2,38,16
-2021,1. Semestre,D320200,13,B200380461148,303,Engenharia Elétrica,5,0,0,0,0,12,0,11,0,0,0,0,28,0,39,17
-2021,1. Semestre,D320200,13,B292200218320,303,Engenharia Elétrica,5,0,0,0,0,12,0,11,0,0,0,0,28,0,39,17
-2021,1. Semestre,D320200,13,B320888200683,303,Engenharia Elétrica,5,0,0,0,0,12,0,11,0,0,0,0,28,0,39,17
-2021,1. Semestre,D320200,13,B461200642855,303,Engenharia Elétrica,5,0,0,0,0,12,0,11,0,0,0,0,28,0,39,17
-2021,1. Semestre,D320200,13,B512402380642,303,Engenharia Elétrica,5,0,0,0,0,12,0,11,0,0,0,0,28,0,39,17
-2021,1. Semestre,D320200,13,B888642512642,303,Engenharia Elétrica,5,0,0,0,0,12,0,11,0,0,0,0,28,0,39,17
-2021,1. Semestre,D320200,14,B200380461148,304,Engenharia Mecânica,3,0,0,1,0,13,0,5,0,0,1,0,24,0,30,17
-2021,1. Semestre,D320200,14,B292200218320,304,Engenharia Mecânica,3,0,0,1,0,13,0,5,0,0,1,0,24,0,30,17
-2021,1. Semestre,D320200,14,B320888200683,304,Engenharia Mecânica,3,0,0,1,0,13,0,5,0,0,1,0,24,0,30,17
-2021,1. Semestre,D320200,14,B461200642855,304,Engenharia Mecânica,3,0,0,1,0,13,0,5,0,0,1,0,24,0,30,17
-2021,1. Semestre,D320200,14,B512402380642,304,Engenharia Mecânica,3,0,0,1,0,13,0,5,0,0,1,0,24,0,30,17
-2021,1. Semestre,D320200,14,B888642512642,304,Engenharia Mecânica,3,0,0,1,0,13,0,5,0,0,1,0,24,0,30,17
 2021,1. Semestre,D320200,50,B200380461148,302,Engenharia Civil,0,0,0,0,0,100,0,0,0,0,0,0,1,0,1,100
 2021,1. Semestre,D320200,50,B200380461148,305,Engenharia Química,0,0,0,0,0,100,0,0,0,0,0,0,10,0,10,100
-2021,1. Semestre,D320200,15,B200380461148,315,Curso de Engenharia Aeroespacial,9,0,0,1,0,7,0,12,0,0,1,0,9,0,22,17
-2021,1. Semestre,D320200,15,B292200218320,315,Curso de Engenharia Aeroespacial,9,0,0,1,0,7,0,12,0,0,1,0,9,0,22,17
-2021,1. Semestre,D320200,15,B320888200683,315,Curso de Engenharia Aeroespacial,9,0,0,1,0,7,0,12,0,0,1,0,9,0,22,17
-2021,1. Semestre,D320200,15,B461200642855,315,Curso de Engenharia Aeroespacial,9,0,0,1,0,7,0,12,0,0,1,0,9,0,22,17
-2021,1. Semestre,D320200,15,B512402380642,315,Curso de Engenharia Aeroespacial,9,0,0,1,0,7,0,12,0,0,1,0,9,0,22,17
-2021,1. Semestre,D320200,15,B888642512642,315,Curso de Engenharia Aeroespacial,9,0,0,1,0,7,0,12,0,0,1,0,9,0,22,17
-2021,1. Semestre,D320200,16,B200380461148,307,Ciência da Computação - Bacharelado,5,0,0,0,0,11,1,6,0,0,0,0,15,1,22,17
-2021,1. Semestre,D320200,16,B292200218320,307,Ciência da Computação - Bacharelado,5,0,0,0,0,11,1,6,0,0,0,0,15,1,22,17
-2021,1. Semestre,D320200,16,B320888200683,307,Ciência da Computação - Bacharelado,5,0,0,0,0,11,1,6,0,0,0,0,15,1,22,17
-2021,1. Semestre,D320200,16,B461200642855,307,Ciência da Computação - Bacharelado,5,0,0,0,0,11,1,6,0,0,0,0,15,1,22,17
-2021,1. Semestre,D320200,16,B512402380642,307,Ciência da Computação - Bacharelado,5,0,0,0,0,11,1,6,0,0,0,0,15,1,22,17
-2021,1. Semestre,D320200,16,B888642512642,307,Ciência da Computação - Bacharelado,5,0,0,0,0,11,1,6,0,0,0,0,15,1,22,17
-2021,1. Semestre,D320200,17,B200380461148,310,Curso Engenharia de Controle e Automação,4,0,0,1,0,11,1,9,0,0,2,0,26,2,39,17
-2021,1. Semestre,D320200,17,B292200218320,310,Curso Engenharia de Controle e Automação,4,0,0,1,0,11,1,9,0,0,2,0,26,2,39,17
-2021,1. Semestre,D320200,17,B320888200683,310,Curso Engenharia de Controle e Automação,4,0,0,1,0,11,1,9,0,0,2,0,26,2,39,17
-2021,1. Semestre,D320200,17,B461200642855,310,Curso Engenharia de Controle e Automação,4,0,0,1,0,11,1,9,0,0,2,0,26,2,39,17
-2021,1. Semestre,D320200,17,B512402380642,310,Curso Engenharia de Controle e Automação,4,0,0,1,0,11,1,9,0,0,2,0,26,2,39,17
-2021,1. Semestre,D320200,17,B888642512642,310,Curso Engenharia de Controle e Automação,4,0,0,1,0,11,1,9,0,0,2,0,26,2,39,17
-2021,1. Semestre,D320200,18,B200380461148,311,Curso de Engenharia Acústica,3,0,0,0,0,11,2,7,1,0,1,0,28,4,41,16
-2021,1. Semestre,D320200,18,B292200218320,311,Curso de Engenharia Acústica,3,0,0,0,0,11,2,7,1,0,1,0,28,4,41,16
-2021,1. Semestre,D320200,18,B320888200683,311,Curso de Engenharia Acústica,3,0,0,0,0,11,2,7,1,0,1,0,28,4,41,16
-2021,1. Semestre,D320200,18,B461200642855,311,Curso de Engenharia Acústica,3,0,0,0,0,11,2,7,1,0,1,0,28,4,41,16
-2021,1. Semestre,D320200,18,B512402380642,311,Curso de Engenharia Acústica,3,0,0,0,0,11,2,7,1,0,1,0,28,4,41,16
-2021,1. Semestre,D320200,18,B888642512642,311,Curso de Engenharia Acústica,3,0,0,0,0,11,2,7,1,0,1,0,28,4,41,16
-2021,1. Semestre,D320200,19,B200380461148,305,Engenharia Química,6,0,0,0,0,10,0,14,0,0,1,0,21,0,36,16
-2021,1. Semestre,D320200,19,B292200218320,305,Engenharia Química,6,0,0,0,0,10,0,14,0,0,1,0,21,0,36,16
-2021,1. Semestre,D320200,19,B320888200683,305,Engenharia Química,6,0,0,0,0,10,0,14,0,0,1,0,21,0,36,16
-2021,1. Semestre,D320200,19,B461200642855,305,Engenharia Química,6,0,0,0,0,10,0,14,0,0,1,0,21,0,36,16
-2021,1. Semestre,D320200,19,B512402380642,305,Engenharia Química,6,0,0,0,0,10,0,14,0,0,1,0,21,0,36,16
-2021,1. Semestre,D320200,19,B888642512642,305,Engenharia Química,6,0,0,0,0,10,0,14,0,0,1,0,21,0,36,16
 2021,1. Semestre,D402855,CC,C946200380402,307,Ciência da Computação - Bacharelado,42,0,0,0,0,58,0,10,0,0,0,0,14,0,24,100
 2021,1. Semestre,D402855,SI1,C200380893402,314,Bacharelado em Sistemas de Informação,29,0,0,0,0,71,0,2,0,0,0,0,5,0,7,100
 2021,1. Semestre,D888148,SI1,C320402855200,314,Bacharelado em Sistemas de Informação,20,0,0,0,0,80,0,1,0,0,0,0,4,0,5,100
@@ -129,37 +38,7 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2021,2. Semestre,D200888,14,P512200642,305,Engenharia Química,5,0,3,0,0,93,0,2,0,1,0,0,37,0,40,101
 2021,2. Semestre,D200888,15,P200218642,504,Ciências Econômicas - Noturno,48,0,0,0,0,44,8,25,0,0,0,0,23,4,52,100
 2021,2. Semestre,D200888,T50REA,P394200218,305,Engenharia Química,81,0,0,0,0,19,0,17,0,0,0,0,4,0,21,100
-2021,2. Semestre,D320199,10,A148855320200,303,Engenharia Elétrica,1,0,1,0,0,17,0,2,0,3,1,0,45,1,52,19
-2021,2. Semestre,D320199,10,A380683888642,303,Engenharia Elétrica,1,0,1,0,0,17,0,2,0,3,1,0,45,1,52,19
-2021,2. Semestre,D320199,10,A512642218320,303,Engenharia Elétrica,1,0,1,0,0,17,0,2,0,3,1,0,45,1,52,19
-2021,2. Semestre,D320199,10,A855200218200,303,Engenharia Elétrica,1,0,1,0,0,17,0,2,0,3,1,0,45,1,52,19
-2021,2. Semestre,D320199,10,A893683855461,303,Engenharia Elétrica,1,0,1,0,0,17,0,2,0,3,1,0,45,1,52,19
-2021,2. Semestre,D320199,11,A148855320200,312,Curso de Engenharia de Computação,2,3,2,0,0,13,0,5,6,4,1,0,28,0,44,20
-2021,2. Semestre,D320199,11,A380683888642,312,Curso de Engenharia de Computação,2,3,2,0,0,13,0,5,6,4,1,0,28,0,44,20
-2021,2. Semestre,D320199,11,A512642218320,312,Curso de Engenharia de Computação,2,3,2,0,0,13,0,5,6,4,1,0,28,0,44,20
-2021,2. Semestre,D320199,11,A855200218200,312,Curso de Engenharia de Computação,2,3,2,0,0,13,0,5,6,4,1,0,28,0,44,20
-2021,2. Semestre,D320199,11,A893683855461,312,Curso de Engenharia de Computação,2,3,2,0,0,13,0,5,6,4,1,0,28,0,44,20
-2021,2. Semestre,D320199,12,A148855320200,304,Engenharia Mecânica,0,0,1,0,0,18,0,1,1,3,1,0,43,0,49,19
-2021,2. Semestre,D320199,12,A380683888642,304,Engenharia Mecânica,0,0,1,0,0,18,0,1,1,3,1,0,43,0,49,19
-2021,2. Semestre,D320199,12,A512642218320,304,Engenharia Mecânica,0,0,1,0,0,18,0,1,1,3,1,0,43,0,49,19
-2021,2. Semestre,D320199,12,A855200218200,304,Engenharia Mecânica,0,0,1,0,0,18,0,1,1,3,1,0,43,0,49,19
-2021,2. Semestre,D320199,12,A893683855461,304,Engenharia Mecânica,0,0,1,0,0,18,0,1,1,3,1,0,43,0,49,19
 2021,2. Semestre,D320199,13,A888402148380,313,Curso de Engenharia de Produção,68,7,7,2,0,16,0,30,3,3,1,0,7,0,44,100
-2021,2. Semestre,D320199,14,A148855320200,302,Engenharia Civil,3,0,1,0,0,16,0,7,0,2,0,0,38,0,47,20
-2021,2. Semestre,D320199,14,A380683888642,302,Engenharia Civil,3,0,1,0,0,16,0,7,0,2,0,0,38,0,47,20
-2021,2. Semestre,D320199,14,A512642218320,302,Engenharia Civil,3,0,1,0,0,16,0,7,0,2,0,0,38,0,47,20
-2021,2. Semestre,D320199,14,A855200218200,302,Engenharia Civil,3,0,1,0,0,16,0,7,0,2,0,0,38,0,47,20
-2021,2. Semestre,D320199,14,A893683855461,302,Engenharia Civil,3,0,1,0,0,16,0,7,0,2,0,0,38,0,47,20
-2021,2. Semestre,D320199,15,A148855320200,310,Curso Engenharia de Controle e Automação,1,1,2,1,0,16,0,2,1,3,1,0,27,0,34,21
-2021,2. Semestre,D320199,15,A380683888642,310,Curso Engenharia de Controle e Automação,1,1,2,1,0,16,0,2,1,3,1,0,27,0,34,21
-2021,2. Semestre,D320199,15,A512642218320,310,Curso Engenharia de Controle e Automação,1,1,2,1,0,16,0,2,1,3,1,0,27,0,34,21
-2021,2. Semestre,D320199,15,A855200218200,310,Curso Engenharia de Controle e Automação,1,1,2,1,0,16,0,2,1,3,1,0,27,0,34,21
-2021,2. Semestre,D320199,15,A893683855461,310,Curso Engenharia de Controle e Automação,1,1,2,1,0,16,0,2,1,3,1,0,27,0,34,21
-2021,2. Semestre,D320199,16,A148855320200,314,Bacharelado em Sistemas de Informação,3,0,2,1,0,15,0,5,0,3,1,0,24,0,33,21
-2021,2. Semestre,D320199,16,A380683888642,314,Bacharelado em Sistemas de Informação,3,0,2,1,0,15,0,5,0,3,1,0,24,0,33,21
-2021,2. Semestre,D320199,16,A512642218320,314,Bacharelado em Sistemas de Informação,3,0,2,1,0,15,0,5,0,3,1,0,24,0,33,21
-2021,2. Semestre,D320199,16,A855200218200,314,Bacharelado em Sistemas de Informação,3,0,2,1,0,15,0,5,0,3,1,0,24,0,33,21
-2021,2. Semestre,D320199,16,A893683855461,314,Bacharelado em Sistemas de Informação,3,0,2,1,0,15,0,5,0,3,1,0,24,0,33,21
 2021,2. Semestre,D320199,17,A394200218642,305,Engenharia Química,56,9,6,6,0,22,0,18,3,2,2,0,7,0,32,99
 2021,2. Semestre,D320199,18,A218148855402,311,Curso de Engenharia Acústica,26,5,0,3,0,67,0,10,2,0,1,0,26,0,39,101
 2021,2. Semestre,D320199,19,A642946200380,402,Engenharia Florestal,40,0,3,0,0,53,3,12,0,1,0,0,16,1,30,99
@@ -167,23 +46,8 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2021,2. Semestre,D320199,T50REA,A292200218320,315,Curso de Engenharia Aeroespacial,33,0,0,0,0,67,0,1,0,0,0,0,2,0,3,100
 2021,2. Semestre,D320199,20,A292200218320,309,Curso de Engenharia Sanitária e Ambiental,9,3,3,3,0,82,0,3,1,1,1,0,27,0,33,100
 2021,2. Semestre,D320200,10,B806642512402,315,Curso de Engenharia Aeroespacial,80,0,0,2,0,16,2,40,0,0,1,0,8,1,50,100
-2021,2. Semestre,D320200,11,B200380461148,110,Química Industrial,11,0,0,0,0,20,3,7,0,0,0,0,13,2,22,34
-2021,2. Semestre,D320200,11,B200380461148,133,Química - Bacharelado,3,0,0,3,0,26,1,2,0,0,2,0,18,1,23,33
-2021,2. Semestre,D320200,11,B292200218320,110,Química Industrial,11,0,0,0,0,20,3,7,0,0,0,0,13,2,22,34
-2021,2. Semestre,D320200,11,B292200218320,133,Química - Bacharelado,3,0,0,3,0,26,1,2,0,0,2,0,18,1,23,33
-2021,2. Semestre,D320200,11,B461200642855,110,Química Industrial,11,0,0,0,0,20,3,7,0,0,0,0,13,2,22,34
-2021,2. Semestre,D320200,11,B461200642855,133,Química - Bacharelado,3,0,0,3,0,26,1,2,0,0,2,0,18,1,23,33
-2021,2. Semestre,D320200,12,B200380461148,302,Engenharia Civil,10,0,0,0,0,23,0,14,0,0,0,0,31,0,45,33
-2021,2. Semestre,D320200,12,B292200218320,302,Engenharia Civil,10,0,0,0,0,23,0,14,0,0,0,0,31,0,45,33
-2021,2. Semestre,D320200,12,B461200642855,302,Engenharia Civil,10,0,0,0,0,23,0,14,0,0,0,0,31,0,45,33
 2021,2. Semestre,D320200,13,B888642512642,303,Engenharia Elétrica,56,0,0,0,0,44,0,25,0,0,0,0,20,0,45,100
-2021,2. Semestre,D320200,14,B200380461148,304,Engenharia Mecânica,11,0,0,0,0,21,1,13,0,0,0,0,24,1,38,33
-2021,2. Semestre,D320200,14,B292200218320,304,Engenharia Mecânica,11,0,0,0,0,21,1,13,0,0,0,0,24,1,38,33
-2021,2. Semestre,D320200,14,B461200642855,304,Engenharia Mecânica,11,0,0,0,0,21,1,13,0,0,0,0,24,1,38,33
 2021,2. Semestre,D320200,15,B806642512402,109,Química - Licenciatura,62,0,0,0,0,34,3,18,0,0,0,0,10,1,29,99
-2021,2. Semestre,D320200,16,B200380461148,316,Curso de Engenharia de Telecomunicações,8,0,0,1,0,22,3,12,0,0,1,0,32,4,49,34
-2021,2. Semestre,D320200,16,B292200218320,316,Curso de Engenharia de Telecomunicações,8,0,0,1,0,22,3,12,0,0,1,0,32,4,49,34
-2021,2. Semestre,D320200,16,B461200642855,316,Curso de Engenharia de Telecomunicações,8,0,0,1,0,22,3,12,0,0,1,0,32,4,49,34
 2021,2. Semestre,D320200,17,B888642512642,305,Engenharia Química,64,0,0,0,0,33,3,25,0,0,0,0,13,1,39,100
 2021,2. Semestre,D320200,T50REA,B200380461148,305,Engenharia Química,100,0,0,0,0,0,0,2,0,0,0,0,0,0,2,100
 2021,2. Semestre,D320200,T50REA,B200380461148,313,Curso de Engenharia de Produção,39,0,0,9,0,48,4,9,0,0,2,0,11,1,23,100
@@ -219,17 +83,11 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2022,1. Semestre,D320199,50,A380200380642,305,Engenharia Química,0,0,0,0,0,100,0,0,0,0,0,0,1,0,1,100
 2022,1. Semestre,D320199,50,A380200380642,311,Curso de Engenharia Acústica,0,0,0,0,0,100,0,0,0,0,0,0,1,0,1,100
 2022,1. Semestre,D320199,15,A642946200380,315,Curso de Engenharia Aeroespacial,53,11,4,0,9,21,2,28,6,2,0,5,11,1,53,100
-2022,1. Semestre,D320199,16,A888402148380,316,Curso de Engenharia de Telecomunicações,4,9,1,2,9,25,0,4,9,1,2,9,26,0,51,50
-2022,1. Semestre,D320199,16,AP681402512218,316,Curso de Engenharia de Telecomunicações,4,9,1,2,9,25,0,4,9,1,2,9,26,0,51,50
-2022,1. Semestre,D320199,17,A218148855402,305,Engenharia Química,29,1,1,0,6,12,0,23,1,1,0,5,9,0,39,49
-2022,1. Semestre,D320199,17,AP681402512218,305,Engenharia Química,29,1,1,0,6,12,0,23,1,1,0,5,9,0,39,49
 2022,1. Semestre,D320199,18,AP806642512402,109,Química - Licenciatura,30,6,0,0,0,64,0,10,2,0,0,0,21,0,33,100
 2022,1. Semestre,D320199,19,A642946200380,402,Engenharia Florestal,35,8,0,0,22,32,3,13,3,0,0,8,12,1,37,100
 2022,1. Semestre,D320199,20,AP806642512402,123,Física - Bacharelado,57,0,0,3,0,40,0,17,0,0,1,0,12,0,30,100
 2022,1. Semestre,D320200,10,B888642512642,309,Curso de Engenharia Sanitária e Ambiental,33,0,0,7,40,13,7,5,0,0,1,6,2,1,15,100
 2022,1. Semestre,D320200,11,B292200218320,312,Curso de Engenharia de Computação,22,0,0,0,53,19,6,7,0,0,0,17,6,2,32,100
-2022,1. Semestre,D320200,12,B200380512402,302,Engenharia Civil,45,0,0,1,0,4,0,44,0,0,1,0,4,0,49,50
-2022,1. Semestre,D320200,12,B380148200148,302,Engenharia Civil,45,0,0,1,0,4,0,44,0,0,1,0,4,0,49,50
 2022,1. Semestre,D320200,13,B461200642855,303,Engenharia Elétrica,21,0,0,4,36,32,7,6,0,0,1,10,9,2,28,100
 2022,1. Semestre,D320200,14,B380148200148,304,Engenharia Mecânica,89,0,0,0,0,11,0,40,0,0,0,0,5,0,45,100
 2022,1. Semestre,D320200,14,B380148200148,305,Engenharia Química,85,0,0,2,0,13,0,39,0,0,1,0,6,0,46,100
@@ -238,10 +96,6 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2022,1. Semestre,D320200,16,B461200642855,307,Ciência da Computação - Bacharelado,58,0,0,0,9,6,27,19,0,0,0,3,2,9,33,100
 2022,1. Semestre,D320200,17,B888642512642,310,Curso Engenharia de Controle e Automação,30,0,0,0,30,33,6,10,0,0,0,10,11,2,33,99
 2022,1. Semestre,D320200,18,B512402380642,311,Curso de Engenharia Acústica,17,0,0,7,0,72,3,5,0,0,2,0,21,1,29,99
-2022,1. Semestre,D402855,CC,C292200218642,307,Ciência da Computação - Bacharelado,48,0,0,0,0,2,0,26,0,0,0,0,1,0,27,50
-2022,1. Semestre,D402855,CC,C888148218402,307,Ciência da Computação - Bacharelado,48,0,0,0,0,2,0,26,0,0,0,0,1,0,27,50
-2022,1. Semestre,D402855,SI1,E380148200148,314,Bacharelado em Sistemas de Informação,50,0,0,0,0,0,0,3,0,0,0,0,0,0,3,50
-2022,1. Semestre,D402855,SI1,I200380893402,314,Bacharelado em Sistemas de Informação,50,0,0,0,0,0,0,3,0,0,0,0,0,0,3,50
 2022,1. Semestre,D888148,10,C380148380200,304,Engenharia Mecânica,57,7,0,0,20,17,0,17,2,0,0,6,5,0,30,101
 2022,1. Semestre,D888148,11,C380148380200,304,Engenharia Mecânica,24,0,0,0,41,35,0,4,0,0,0,7,6,0,17,100
 2022,1. Semestre,D888148,SI1,C320402855200,314,Bacharelado em Sistemas de Informação,10,0,0,0,40,40,10,1,0,0,0,4,4,1,10,100
@@ -253,10 +107,6 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2022,1. Semestre,D888200,CC2,E978402380148,307,Ciência da Computação - Bacharelado,67,4,0,0,4,21,4,16,1,0,0,1,5,1,24,100
 2022,1. Semestre,D888200,SI2,E978402380148,314,Bacharelado em Sistemas de Informação,67,0,0,0,33,0,0,2,0,0,0,1,0,0,3,100
 2022,2. Semestre,D200888,10,P888683320,504,Ciências Econômicas - Noturno,29,2,0,0,57,12,0,12,1,0,0,24,5,0,42,100
-2022,2. Semestre,D200888,11,P855200380,402,Engenharia Florestal,5,0,0,4,36,4,0,4,0,0,3,27,3,0,37,49
-2022,2. Semestre,D200888,11,P893683855,402,Engenharia Florestal,5,0,0,4,36,4,0,4,0,0,3,27,3,0,37,49
-2022,2. Semestre,D200888,12,J0000001111,307,Ciência da Computação - Bacharelado,18,0,0,0,16,16,0,14,0,0,0,12,12,0,38,50
-2022,2. Semestre,D200888,12,P893683855,307,Ciência da Computação - Bacharelado,18,0,0,0,16,16,0,14,0,0,0,12,12,0,38,50
 2022,2. Semestre,D200888,13,P642380402,302,Engenharia Civil,18,0,6,0,45,31,0,9,0,3,0,22,15,0,49,100
 2022,2. Semestre,D200888,14,M000001111,305,Engenharia Química,19,2,0,0,49,30,0,9,1,0,0,23,14,0,47,100
 2022,2. Semestre,D200888,50,P888683320,110,Química Industrial,0,0,0,0,0,100,0,0,0,0,0,0,1,0,1,100
@@ -272,8 +122,6 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2022,2. Semestre,D320199,50,A292200218320,316,Curso de Engenharia de Telecomunicações,0,0,0,100,0,0,0,0,0,0,1,0,0,0,1,100
 2022,2. Semestre,D320199,15,AP681402512218,310,Curso Engenharia de Controle e Automação,28,0,6,0,31,36,0,10,0,2,0,11,13,0,36,101
 2022,2. Semestre,D320199,16,MÁICON FACCO,314,Bacharelado em Sistemas de Informação,23,2,2,0,47,23,2,10,1,1,0,20,10,1,43,99
-2022,2. Semestre,D320199,17,A380683888642,304,Engenharia Mecânica,17,1,3,0,10,19,0,18,1,3,0,10,20,0,52,50
-2022,2. Semestre,D320199,17,AP292200218888,304,Engenharia Mecânica,17,1,3,0,10,19,0,18,1,3,0,10,20,0,52,50
 2022,2. Semestre,D320199,17,AP292200218888,305,Engenharia Química,67,0,3,3,17,11,0,24,0,1,1,6,4,0,36,101
 2022,2. Semestre,D320199,18,B200380461148,311,Curso de Engenharia Acústica,28,0,0,3,48,14,7,8,0,0,1,14,4,2,29,100
 2022,2. Semestre,D320199,19,A292200218320,402,Engenharia Florestal,11,0,6,0,50,33,0,2,0,1,0,9,6,0,18,100
@@ -284,18 +132,10 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2022,2. Semestre,D320200,11,B888642512642,133,Química - Bacharelado,46,0,0,0,38,15,0,6,0,0,0,5,2,0,13,99
 2022,2. Semestre,D320200,12,B292200218320,302,Engenharia Civil,56,0,0,0,0,44,0,5,0,0,0,0,4,0,9,100
 2022,2. Semestre,D320200,13,B200380461148,303,Engenharia Elétrica,34,2,0,0,24,39,0,14,1,0,0,10,16,0,41,99
-2022,2. Semestre,D320200,14,B200380461148,304,Engenharia Mecânica,41,0,0,1,0,8,0,43,0,0,1,0,9,0,53,50
-2022,2. Semestre,D320200,14,B200380461148,305,Engenharia Química,40,1,0,0,0,9,0,43,1,0,0,0,10,0,54,50
-2022,2. Semestre,D320200,14,B380148200148,304,Engenharia Mecânica,41,0,0,1,0,8,0,43,0,0,1,0,9,0,53,50
-2022,2. Semestre,D320200,14,B380148200148,305,Engenharia Química,40,1,0,0,0,9,0,43,1,0,0,0,10,0,54,50
 2022,2. Semestre,D320200,50,B200380461148,302,Engenharia Civil,100,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100
 2022,2. Semestre,D320200,50,B200380461148,307,Ciência da Computação - Bacharelado,100,0,0,0,0,0,0,1,0,0,0,0,0,0,1,100
-2022,2. Semestre,D320200,15,B200380461148,109,Química - Licenciatura,45,0,0,0,0,5,0,37,0,0,0,0,4,0,41,50
-2022,2. Semestre,D320200,15,B380148200148,109,Química - Licenciatura,45,0,0,0,0,5,0,37,0,0,0,0,4,0,41,50
 2022,2. Semestre,D320200,16,B292200218320,316,Curso de Engenharia de Telecomunicações,14,0,7,0,64,14,0,2,0,1,0,9,2,0,14,99
 2022,2. Semestre,D402855,CC,C946200380402,307,Ciência da Computação - Bacharelado,56,0,0,0,28,17,0,10,0,0,0,5,3,0,18,101
-2022,2. Semestre,D402855,SI,C200380893402,314,Bacharelado em Sistemas de Informação,33,0,0,0,0,17,0,28,0,0,0,0,14,0,42,50
-2022,2. Semestre,D402855,SI,I200380893402,314,Bacharelado em Sistemas de Informação,33,0,0,0,0,17,0,28,0,0,0,0,14,0,42,50
 2022,2. Semestre,D888148,10,C380148380200,304,Engenharia Mecânica,37,3,6,0,34,20,0,13,1,2,0,12,7,0,35,100
 2022,2. Semestre,D888148,11,C380148380200,304,Engenharia Mecânica,28,0,0,0,50,22,0,5,0,0,0,9,4,0,18,100
 2022,2. Semestre,D888148,SI1,C380148200685,314,Bacharelado em Sistemas de Informação,46,0,4,0,17,33,0,11,0,1,0,4,8,0,24,100
@@ -315,8 +155,6 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2023,1. Semestre,D200888,50,P380148200,305,Engenharia Química,0,0,0,0,0,100,0,0,0,0,0,0,1,0,1,100
 2023,1. Semestre,D200888,15,P888402148,139,Curso de Bacharelado em Estatística - Noturno,43,0,0,0,35,22,0,10,0,0,0,8,5,0,23,100
 2023,1. Semestre,D402855,CC,E642946200380,307,Ciência da Computação - Bacharelado,81,0,0,0,0,19,0,22,0,0,0,0,5,0,27,100
-2023,1. Semestre,D402855,SI1,C200380893402,314,Bacharelado em Sistemas de Informação,30,0,0,5,0,15,0,6,0,0,1,0,3,0,10,50
-2023,1. Semestre,D402855,SI1,I200380893402,314,Bacharelado em Sistemas de Informação,30,0,0,5,0,15,0,6,0,0,1,0,3,0,10,50
 2023,1. Semestre,D888148,SI1,C320402855200,314,Bacharelado em Sistemas de Informação,0,0,0,0,100,0,0,0,0,0,0,3,0,0,3,100
 2023,1. Semestre,D888148,CC1,C320402855200,307,Ciência da Computação - Bacharelado,67,4,4,0,8,17,0,16,1,1,0,2,4,0,24,100
 2023,1. Semestre,D888148,CC2,C380148200685,307,Ciência da Computação - Bacharelado,75,0,0,0,0,25,0,12,0,0,0,0,4,0,16,100
@@ -329,8 +167,6 @@ Ano,Semestre,Cód. Disciplina,Cód. Turma,Professor,Cód. Curso,Curso,Aprovado%,
 2023,2. Semestre,D200888,126,P888683320,126,Física - Licenciatura Plena Noturno,29,0,0,0,59,12,0,5,0,0,0,10,2,0,17,100
 2023,2. Semestre,D200888,12_307,P681200683,307,Ciência da Computação - Bacharelado,78,2,2,0,12,6,0,38,1,1,0,6,3,0,49,100
 2023,2. Semestre,D402855,CC,C946200380402,307,Ciência da Computação - Bacharelado,64,0,0,5,27,5,0,14,0,0,1,6,1,0,22,101
-2023,2. Semestre,D402855,SI,C200380893402,314,Bacharelado em Sistemas de Informação,41,0,1,0,0,7,0,34,0,1,0,0,6,0,41,49
-2023,2. Semestre,D402855,SI,I200380893402,314,Bacharelado em Sistemas de Informação,41,0,1,0,0,7,0,34,0,1,0,0,6,0,41,49
 2023,2. Semestre,D888148,SI1,C380148200685,314,Bacharelado em Sistemas de Informação,67,0,0,0,8,25,0,8,0,0,0,1,3,0,12,100
 2023,2. Semestre,D888148,CC1,C380148200685,307,Ciência da Computação - Bacharelado,33,0,0,0,33,33,0,1,0,0,0,1,1,0,3,99
 2023,2. Semestre,D888148,CC2,C218200683888,307,Ciência da Computação - Bacharelado,40,0,0,0,60,0,0,2,0,0,0,3,0,0,5,100

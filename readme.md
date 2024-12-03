@@ -12,7 +12,7 @@ gráfico de aprov/reprov/reprov-freq x ano (3 linhas por cor)
 
 
 original -> csv -> manual -> união -> plots -> 
-                                   -> transformação
+                                   -> transformação -> limpeza
 documentação:
 - avaliação dos dados
 - descrever problemas identificados
