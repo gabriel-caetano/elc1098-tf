@@ -18,4 +18,7 @@ pivot = df.pivot_table(
     aggfunc="sum",
     fill_value=0  # Preenche valores ausentes com 0
 )
+pivot["Total Alunos"] = pivot[
+    ["Aprovado", "CancMatric", "Dispensado", "Não Concl.", "Repr.Freq", "Reprovado", "Tr.Parcial"]
+].sum(axis=1)
 pivot.to_csv(f"{output_dir}/sit_turma.csv")
