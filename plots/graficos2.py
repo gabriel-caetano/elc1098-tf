@@ -20,7 +20,7 @@ for disc in disciplinas:
         if sub_df.empty:
             break
         df_agrupado = sub_df.groupby('Situação')['Alunos'].sum().reset_index()
-        plt.figure(figsize=(10, 6))
+        plt.figure(figsize=(10, 6)).subplots_adjust(bottom=0.2)
         sns.barplot(data=df_agrupado, x='Situação', y='Alunos', hue='Situação', palette='Set2', dodge=False, legend=False)
         plt.title(f"Soma de Alunos por Situação ({disc}, {ano})")
         plt.xlabel('Situação')
@@ -46,7 +46,7 @@ caminho_tabela_estatistica = os.path.join(output_dir, 'estatisticas_detalhadas.c
 estatisticas.to_csv(caminho_tabela_estatistica, index=False)
 print(f"Tabela de estatísticas detalhadas salva em: {caminho_tabela_estatistica}")
 
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(10, 6)).subplots_adjust(bottom=0.2)
 sns.barplot(data=estatisticas, x='Situação', y='Total', hue='Situação', palette='muted', dodge=False, legend=False)
 plt.title("Soma Geral de Alunos por Situação")
 plt.xlabel('Situação')
