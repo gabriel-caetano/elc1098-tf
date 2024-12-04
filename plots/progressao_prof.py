@@ -19,8 +19,8 @@ def novo_ano(row):
         return row['Ano'] + 0.0
     elif row['Semestre'] == "2. Semestre":
         return row['Ano'] + 0.5
-sit_turma["Outros%"] = sit_turma[["CancMatric%","Dispensado%","Não Concl.%","Repr.Freq%","Tr.Parcial%"]].sum(axis=1)
 sit_turma["Ano"] = sit_turma.apply(novo_ano, axis=1)
+sit_turma["Outros%"] = sit_turma[["CancMatric%","Dispensado%","Não Concl.%","Repr.Freq%","Tr.Parcial%"]].sum(axis=1)
 
 professores = sit_turma['Professor'].unique()
 anos = sit_turma['Ano'].unique()
@@ -45,6 +45,24 @@ for professor in professores:
     nome_grafico = f"{output_dir}/progr_prof_{professor}.png"
     plt.savefig(nome_grafico)
     plt.close()
+plt.figure(figsize=(10, 6))
+sit_turma = sit_turma.groupby(['Ano'])[['Aprovado%', 'Reprovado%', 'Outros%']].mean().reset_index()
+    
+# Gráficos de linhas para cada situação
+plt.plot(sit_turma['Ano'], sit_turma['Aprovado%'], label='Aprovados%', marker='o')
+plt.plot(sit_turma['Ano'], sit_turma['Reprovado%'], label='Reprovados%', marker='o')
+plt.plot(sit_turma['Ano'], sit_turma['Outros%'], label='Outros%', marker='o')
+
+# Personalização do gráfico
+plt.title(f'Desempenho por Ano')
+plt.xlabel('Ano')
+plt.ylabel('Porcentagem (%)')
+plt.xticks(ticks=anos, labels=anos)
+
+# Mostrar o gráfico
+nome_grafico = f"{output_dir}/progr_prof_TOTAL.png"
+plt.savefig(nome_grafico)
+plt.close()
 # centro_counts = merged_data.groupby('CENTRO').size().reset_index(name='Quantidade')
 # print(centro_counts)
 # sns.barplot(data=centro_counts, x='CENTRO', y='Quantidade')
