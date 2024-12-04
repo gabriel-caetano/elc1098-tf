@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-origin_path = 'ds/manual'
-dest_path = 'ds/União'
+origin_path = 'ds/03_manual'
+dest_path = 'ds/04_union'
 
 dfs = []
 for sub in os.listdir(origin_path):

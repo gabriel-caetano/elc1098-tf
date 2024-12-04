@@ -2,10 +2,10 @@ import os
 import pandas as pd
 
 # Caminho da pasta contendo os arquivos .xls
-pasta = r"ds/União"
+pasta = r"ds/04_union"
 
 # Criar uma pasta para salvar os gráficos
-output_dir = "ds/transform"
+output_dir = "ds/05_transform"
 os.makedirs(output_dir, exist_ok=True)
 
 # Carregar o arquivo

@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 
-origin_path = 'ds/original'
-dest_path = 'ds/csv'
+origin_path = 'ds/01_original'
+dest_path = 'ds/02_sv'
 for sub in os.listdir(origin_path):
     split = sub.split('.')
 

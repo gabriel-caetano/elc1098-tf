@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import matplotlib.pyplot as plt
 
 # Carregar dados
-pasta_dados = 'ds/União'  
+pasta_dados = 'ds/03_union'  
 nome_arquivo = 'ingr_form.csv'
 caminho_pasta = os.path.join(os.getcwd(), pasta_dados)
 arquivo = os.path.join(caminho_pasta, nome_arquivo)

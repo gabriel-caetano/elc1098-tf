@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Caminho da pasta contendo os arquivos .xls
-pasta = r"ds/clear"
+pasta = r"ds/05_clear"
 
 # Criar uma pasta para salvar os gráficos
-output_dir = "plots/progressao_prof"
+output_dir = "plots/prof_progress"
 os.makedirs(output_dir, exist_ok=True)
 
 # Carregar o arquivo
