@@ -26,16 +26,12 @@ df_pivot = df_grouped.pivot_table(index=['CENTRO', 'ANO'], columns='SEXO', value
 # Renomeando as colunas para F e M
 df_pivot.rename(columns={'F': 'F', 'M': 'M'}, inplace=True)
 
-# Criar a coluna TOTAL e calcular percentual feminino
+# Criar a coluna TOTAL_INGRESSANTES e calcular percentual masculino
 df_pivot['TOTAL_INGRESSANTES'] = df_pivot['F'] + df_pivot['M']
 df_pivot['PERCENTUAL_MASCULINO'] = (df_pivot['M'] / df_pivot['TOTAL_INGRESSANTES']) * 100
 
 # Remover as colunas F e M
 df_final = df_pivot[['CENTRO', 'ANO', 'TOTAL_INGRESSANTES', 'PERCENTUAL_MASCULINO']]
-
-# Verificar o DataFrame final sem as colunas F e M
-print(df_final.info())
-print(df_final.head())
 
 # Codificando 'CENTRO' como numérica
 le = LabelEncoder()
